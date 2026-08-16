@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the Live Photos icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/live-photos/technologies-Live-Photos-intro_2x.png)
+![A sketch of the Live Photos icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-Live-Photos-intro@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the HealthKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/healthkit/technologies-HealthKit-intro_2x.png)
+![A sketch of the HealthKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-HealthKit-intro@2x.png)
 
 
 
@@ -21,7 +21,7 @@ For example, a nutrition app might ask for permission to retrieve people’s wei
 
 
 
-![A screenshot of the Health app's summary screen on iPhone, showing current data for activity, active energy, stair speed, heart rate, resting energy, and stand minutes.](./images/healthkit/health-summary_2x.png)
+![A screenshot of the Health app's summary screen on iPhone, showing current data for activity, active energy, stair speed, heart rate, resting energy, and stand minutes.](/images/com.apple.HIG/health-summary@2x.png)
 
 
 
@@ -39,7 +39,7 @@ You must request permission to access people’s data, and you must take all nec
 
 
 
-![A screenshot of a Health Access screen on iPhone, which asks for permission for an app to write and read mindful minute data.](./images/healthkit/health-access-requests_2x.png)
+![A screenshot of a Health Access screen on iPhone, which asks for permission for an app to write and read mindful minute data.](/images/com.apple.HIG/health-access-requests@2x.png)
 
 
 
@@ -51,7 +51,7 @@ You can enhance your app’s health and wellness offerings by displaying the Act
 
 
 
-![A screenshot of the Activity app's History screen on iPhone, which shows daily activity rings progress for June and part of July.](./images/healthkit/activity-months_2x.png)
+![A screenshot of the Activity app's History screen on iPhone, which shows daily activity rings progress for June and part of July.](/images/com.apple.HIG/activity-months@2x.png)
 
 
 
@@ -79,7 +79,7 @@ The Apple Health icon shows that an app works with HealthKit and the Health app.
 
 
 
-![A screenshot of an onboarding screen for an app named Eating Habits, which displays the Apple Health icon and text that describes how syncing health data from Eating Habits can help people manage their health. At the bottom of the screen is a Sync Health Data button and a Skip for Now button.](./images/healthkit/health-icon-onboard-screen_2x.png)
+![A screenshot of an onboarding screen for an app named Eating Habits, which displays the Apple Health icon and text that describes how syncing health data from Eating Habits can help people manage their health. At the bottom of the screen is a Sync Health Data button and a Skip for Now button.](/images/com.apple.HIG/health-icon-onboard-screen@2x.png)
 
 
 

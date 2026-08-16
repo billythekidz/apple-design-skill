@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a window with close, minimize, and full-screen buttons. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/windows/components-window-intro_2x.png)
+![A stylized representation of a window with close, minimize, and full-screen buttons. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-window-intro@2x.png)
 
 
 
@@ -75,7 +75,7 @@ The system gives main, key, and inactive windows different appearances to help p
 
 
 
-![An illustration of a stack of three windows, as follows: An inactive window in the background, an app’s main window in the middle, and a key window appearing above the other two windows.](./images/windows/window-states_2x.png)
+![An illustration of a stack of three windows, as follows: An inactive window in the background, an app’s main window in the middle, and a key window appearing above the other two windows.](/images/com.apple.HIG/window-states@2x.png)
 
 
 
@@ -101,7 +101,7 @@ The default window style consists of an upright plane that uses an unmodifiable 
 
 
 
-![A screenshot of a window for an app named 'Hello World' in visionOS. The window includes text and buttons for entering different experiences.](./images/windows/visionos-window-2d_2x.png)
+![A screenshot of a window for an app named 'Hello World' in visionOS. The window includes text and buttons for entering different experiences.](/images/com.apple.HIG/visionos-window-2d@2x.png)
 
 
 
@@ -117,7 +117,7 @@ The default window style consists of an upright plane that uses an unmodifiable 
 
 
 
-![A screenshot of a window for an app in visionOS. The window includes text that discusses objects in orbit, and it includes buttons for viewing a satellite, the moon, and a telescope. The satellite button is selected and a 3D satellite is displayed.](./images/windows/visionos-window-2d-with-volume_2x.png)
+![A screenshot of a window for an app in visionOS. The window includes text that discusses objects in orbit, and it includes buttons for viewing a satellite, the moon, and a telescope. The satellite button is selected and a 3D satellite is displayed.](/images/com.apple.HIG/visionos-window-2d-with-volume@2x.png)
 
 
 
@@ -129,7 +129,7 @@ You can use a volume to display 2D or 3D content that people can view from any a
 
 
 
-![A screenshot of a volume containing a 3D globe in visionOS, beside a window.](./images/windows/visionos-window-3d_2x.png)
+![A screenshot of a volume containing a 3D globe in visionOS, beside a window.](/images/com.apple.HIG/visionos-window-3d@2x.png)
 
 
 

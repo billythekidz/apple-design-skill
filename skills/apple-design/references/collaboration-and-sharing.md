@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a person with an overlapping checkmark, suggesting effective collaboration. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/collaboration-and-sharing/patterns-collaboration-and-sharing-intro_2x.png)
+![A sketch of a person with an overlapping checkmark, suggesting effective collaboration. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-collaboration-and-sharing-intro@2x.png)
 
 
 
@@ -26,7 +26,7 @@ In addition to helping people share and collaborate on documents, visionOS suppo
 
 
 
-![An illustration of a Notes document on iPhone. The document toolbar prominently features the Share button next to the More button.](./images/collaboration-and-sharing/collaboration-share-button_2x.png)
+![An illustration of a Notes document on iPhone. The document toolbar prominently features the Share button next to the More button.](/images/com.apple.HIG/collaboration-share-button@2x.png)
 
 
 
@@ -40,7 +40,7 @@ In addition to helping people share and collaborate on documents, visionOS suppo
 
 
 
-![An illustration of a Notes document open on iPhone. The document toolbar prominently features the Collaboration button next to the Share button.](./images/collaboration-and-sharing/collaboration-status-active-collaboration-button_2x.png)
+![An illustration of a Notes document open on iPhone. The document toolbar prominently features the Collaboration button next to the Share button.](/images/com.apple.HIG/collaboration-status-active-collaboration-button@2x.png)
 
 
 
@@ -48,7 +48,7 @@ In addition to helping people share and collaborate on documents, visionOS suppo
 
 
 
-![An illustration of a Notes document on iPhone. A menu is open from the Collaboration button in the document toolbar, with buttons to display the most recent updates and activities.](./images/collaboration-and-sharing/collaboration-custom-popover-notes_2x.png)
+![An illustration of a Notes document on iPhone. A menu is open from the Collaboration button in the document toolbar, with buttons to display the most recent updates and activities.](/images/com.apple.HIG/collaboration-custom-popover-notes@2x.png)
 
 
 

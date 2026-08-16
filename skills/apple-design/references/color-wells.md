@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a color-selection popover extending down from an expanded button. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/color-wells/components-color-well-intro_2x.png)
+![A stylized representation of a color-selection popover extending down from an expanded button. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-color-well-intro@2x.png)
 
 
 

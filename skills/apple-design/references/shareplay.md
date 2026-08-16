@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the SharePlay icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/shareplay/technologies-Share-Play-intro_2x.png)
+![A sketch of the SharePlay icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-Share-Play-intro@2x.png)
 
 
 
@@ -61,7 +61,7 @@ The side-by-side template places participants next to each other along a curved 
 
 
 
-![An illustration representing a side-by-side shared activity in visionOS. Participants are positioned next to one another and facing a shared screen.](./images/shareplay/visionos-shareplay-side-by-side_2x.png)
+![An illustration representing a side-by-side shared activity in visionOS. Participants are positioned next to one another and facing a shared screen.](/images/com.apple.HIG/visionos-shareplay-side-by-side@2x.png)
 
 
 
@@ -69,7 +69,7 @@ The system-applied surround template arranges participants all the way around th
 
 
 
-![An illustration representing a surround shared activity in visionOS. Participants are gathered in a circle around shared content.](./images/shareplay/visionos-shareplay-surround_2x.png)
+![An illustration representing a surround shared activity in visionOS. Participants are gathered in a circle around shared content.](/images/com.apple.HIG/visionos-shareplay-surround@2x.png)
 
 
 
@@ -77,7 +77,7 @@ The conversational template also groups participants around a center point, but 
 
 
 
-![An illustration representing a conversational shared activity in visionOS. Participants are positioned in a semi-circle formation around shared content.](./images/shareplay/visionos-shareplay-conversational_2x.png)
+![An illustration representing a conversational shared activity in visionOS. Participants are positioned in a semi-circle formation around shared content.](/images/com.apple.HIG/visionos-shareplay-conversational@2x.png)
 
 
 
@@ -109,7 +109,7 @@ Sometimes, it makes sense to adjust the shared context of a shared activity so e
 
 
 
-![An image of a TV window in visionOS. The image is split down the center to contrast the personalized experiences of two people: Person 1 has subtitles turned on, while Person 2 has subtitles turned off.](./images/shareplay/visionos-shareplay-subtitles-personalization_2x.png)
+![An image of a TV window in visionOS. The image is split down the center to contrast the personalized experiences of two people: Person 1 has subtitles turned on, while Person 2 has subtitles turned off.](/images/com.apple.HIG/visionos-shareplay-subtitles-personalization@2x.png)
 
 
 

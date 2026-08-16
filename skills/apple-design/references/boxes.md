@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a group of interface elements within a rounded rectangle. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/boxes/components-box-intro_2x.png)
+![A stylized representation of a group of interface elements within a rounded rectangle. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-box-intro@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a panel floating above a window. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/panels/components-panel-intro_2x.png)
+![A stylized representation of a panel floating above a window. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-panel-intro@2x.png)
 
 
 
@@ -40,7 +40,7 @@ A HUD-style panel serves the same function as a standard panel, but its appearan
 
 
 
-![A screenshot of a translucent HUD panel, used to display inspector information for a movie file, including the filename, format, frames per second, data rate, and the frame size of the movie content.](./images/panels/hud-style-panel_2x.png)
+![A screenshot of a translucent HUD panel, used to display inspector information for a movie file, including the filename, format, frames per second, data rate, and the frame size of the movie content.](/images/com.apple.HIG/hud-style-panel@2x.png)
 
 
 

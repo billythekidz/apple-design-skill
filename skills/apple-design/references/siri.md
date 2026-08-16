@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the Siri icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/siri/technologies-Siri-intro_2x.png)
+![A sketch of the Siri icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-Siri-intro@2x.png)
 
 
 

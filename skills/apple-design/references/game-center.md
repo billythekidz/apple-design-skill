@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the Game Center icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/game-center/technologies-Game-Center-intro_2x.png)
+![A sketch of the Game Center icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-Game-Center-intro@2x.png)
 
 
 
@@ -32,7 +32,7 @@ The Game Center *access point* is an Apple-designed UI element that lets players
 
 
 
-![An iPhone screenshot of the game The Coast, on the title screen. The access point control, a circular button with a diagonal rocket symbol, sits in the upper corner on the leading edge.](./images/game-center/games-access-point-collapsed_2x.png)
+![An iPhone screenshot of the game The Coast, on the title screen. The access point control, a circular button with a diagonal rocket symbol, sits in the upper corner on the leading edge.](/images/com.apple.HIG/games-access-point-collapsed@2x.png)
 
 
 
@@ -40,7 +40,7 @@ In iOS, iPadOS, and macOS the access point leads players to the Game Overlay, a 
 
 
 
-![An illustration composed of an iPhone screenshot and an iPad screenshot, both of the game The Coast, with the Game Overlay appearing over the top of each. In the iPhone screenshot the overlay covers the entire screen, while in the iPad screenshot the overlay appears vertically on the trailing edge.](./images/game-center/games-game-overlay_2x.png)
+![An illustration composed of an iPhone screenshot and an iPad screenshot, both of the game The Coast, with the Game Overlay appearing over the top of each. In the iPhone screenshot the overlay covers the entire screen, while in the iPad screenshot the overlay appears vertically on the trailing edge.](/images/com.apple.HIG/games-game-overlay@2x.png)
 
 
 
@@ -87,7 +87,7 @@ Achievements give players an added incentive to stay engaged with your game. Gam
 
 
 
-![A diagram of an achievement card, with callouts indicating the achievement image, title, and description.](./images/game-center/games-achievement-anatomy_2x.png)
+![A diagram of an achievement card, with callouts indicating the achievement image, title, and description.](/images/com.apple.HIG/games-achievement-anatomy@2x.png)
 
 
 
@@ -145,7 +145,7 @@ Challenges turn single player activities into multiplayer experiences with frien
 
 
 
-![A diagram of a challenge card, with callouts indicating the challenge title, artwork, and number of players, and the system-provided gradient at the bottom of the card.](./images/game-center/games-challenge-anatomy_2x.png)
+![A diagram of a challenge card, with callouts indicating the challenge title, artwork, and number of players, and the system-provided gradient at the bottom of the card.](/images/com.apple.HIG/games-challenge-anatomy@2x.png)
 
 
 
@@ -153,7 +153,7 @@ Challenges turn single player activities into multiplayer experiences with frien
 
 
 
-![A diagram of the layout for a challenge image, with callouts indicating the image size and cropped area.](./images/game-center/games-challenge-image-specs_2x.png)
+![A diagram of the layout for a challenge image, with callouts indicating the image size and cropped area.](/images/com.apple.HIG/games-challenge-image-specs@2x.png)
 
 
 
@@ -178,7 +178,7 @@ Game Center supports both real-time and turn-based multiplayer activities that m
 
 
 
-![An iPhone screenshot of the game The Coast with the Game Overlay open, showing the in-game UI for setting up or joining a multiplayer activity using a custom code.](./images/game-center/games-multiplayer-custom-code_2x.png)
+![An iPhone screenshot of the game The Coast with the Game Overlay open, showing the in-game UI for setting up or joining a multiplayer activity using a custom code.](/images/com.apple.HIG/games-multiplayer-custom-code@2x.png)
 
 
 
@@ -186,7 +186,7 @@ Game Center supports both real-time and turn-based multiplayer activities that m
 
 
 
-![An iPhone screenshot of the game The Coast with the Game Overlay open, showing the in-game UI starting a multiplayer activity.](./images/game-center/games-multiplayer-in-game-ui_2x.png)
+![An iPhone screenshot of the game The Coast with the Game Overlay open, showing the in-game UI starting a multiplayer activity.](/images/com.apple.HIG/games-multiplayer-in-game-ui@2x.png)
 
 
 
@@ -194,13 +194,13 @@ Game Center supports both real-time and turn-based multiplayer activities that m
 
 
 
-![A diagram of a multiplayer activity card, with callouts indicating the activity title, artwork, and number of players, and the system-provided gradient at the bottom of the card.](./images/game-center/games-multiplayer-anatomy_2x.png)
+![A diagram of a multiplayer activity card, with callouts indicating the activity title, artwork, and number of players, and the system-provided gradient at the bottom of the card.](/images/com.apple.HIG/games-multiplayer-anatomy@2x.png)
 
 
 
 
 
-![A diagram of the layout for a multiplayer activity image, with callouts indicating the image size and cropped area.](./images/game-center/games-multiplayer-image-specs_2x.png)
+![A diagram of the layout for a multiplayer activity image, with callouts indicating the image size and cropped area.](/images/com.apple.HIG/games-multiplayer-image-specs@2x.png)
 
 
 
@@ -223,7 +223,7 @@ Game Center supports both real-time and turn-based multiplayer activities that m
 
 
 
-![A diagram of the layout for a tvOS dashboard image, with a callout indicating the image size.](./images/game-center/tvos-dashboard-image_2x.png)
+![A diagram of the layout for a tvOS dashboard image, with a callout indicating the image size.](/images/com.apple.HIG/tvos-dashboard-image@2x.png)
 
 
 

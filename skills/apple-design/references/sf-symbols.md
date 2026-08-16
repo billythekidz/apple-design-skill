@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the SF Symbols icon. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/sf-symbols/foundations-sf-symbols-intro_2x.png)
+![A sketch of the SF Symbols icon. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-sf-symbols-intro@2x.png)
 
 
 
@@ -28,7 +28,7 @@ Depending on the rendering mode you choose, a symbol can produce various appeara
 
 
 
-![An image of the cloud sun rain fill symbol that uses three different opacities of the system blue color in the symbol’s three different layers: the cloud is fully opaque, the sun is about 50% opaque, and the raindrops are about 25% opaque.](./images/sf-symbols/sf-three-layers-color_2x.png)
+![An image of the cloud sun rain fill symbol that uses three different opacities of the system blue color in the symbol’s three different layers: the cloud is fully opaque, the sun is about 50% opaque, and the raindrops are about 25% opaque.](/images/com.apple.HIG/sf-three-layers-color@2x.png)
 
 
 
@@ -40,7 +40,7 @@ SF Symbols supports the following rendering modes.
 
 
 
-![A diagram showing a row of eight symbols, all of which use a single opacity of the system blue color.](./images/sf-symbols/sf-monochrome_2x.png)
+![A diagram showing a row of eight symbols, all of which use a single opacity of the system blue color.](/images/com.apple.HIG/sf-monochrome@2x.png)
 
 
 
@@ -48,7 +48,7 @@ SF Symbols supports the following rendering modes.
 
 
 
-![A diagram showing a row of eight symbols, each of which uses different opacities of the system blue color. From the left, the square and arrow up symbol uses full opacity for the arrow and low opacity in the square. Next, folder badge plus uses full opacity for the badge and low opacity for the folder. Trash slash uses full opacity for the slash and low opacity for the can. Calendar day timeline right uses full opacity for the horizontal indicator and low opacity for the square and dots. List number uses full opacity for the column of numbers and low opacity for the horizontal lines. Text format A B C dotted underline uses full opacity for the dots under the low-opacity letters. iPhone radio waves left and right uses full opacity for the device outline, mid opacity in the screen area, and low opacity for the radio wave lines. Lastly, the PC symbol uses full opacity for the device outline and the onscreen sad face and horizontal lines and mid opacity in the screen background.](./images/sf-symbols/sf-hierarchical_2x.png)
+![A diagram showing a row of eight symbols, each of which uses different opacities of the system blue color. From the left, the square and arrow up symbol uses full opacity for the arrow and low opacity in the square. Next, folder badge plus uses full opacity for the badge and low opacity for the folder. Trash slash uses full opacity for the slash and low opacity for the can. Calendar day timeline right uses full opacity for the horizontal indicator and low opacity for the square and dots. List number uses full opacity for the column of numbers and low opacity for the horizontal lines. Text format A B C dotted underline uses full opacity for the dots under the low-opacity letters. iPhone radio waves left and right uses full opacity for the device outline, mid opacity in the screen area, and low opacity for the radio wave lines. Lastly, the PC symbol uses full opacity for the device outline and the onscreen sad face and horizontal lines and mid opacity in the screen background.](/images/com.apple.HIG/sf-hierarchical@2x.png)
 
 
 
@@ -56,7 +56,7 @@ SF Symbols supports the following rendering modes.
 
 
 
-![A diagram showing a row of eight symbols, each of which uses a combination of gray and the system blue color. From the left, the square and arrow up symbol uses blue for the arrow and light gray for the square. Next, folder badge plus uses blue for the badge and light gray for the folder. Trash slash uses blue for the slash and light gray for the can. Calendar day timeline right uses blue for the horizontal indicator and light gray for the square and dots. List number uses blue for the column of numbers and light gray for the horizontal lines. Text format A B C dotted underline uses blue for the dots under the light gray letters. iPhone radio waves left and right uses blue for the device outline, medium gray in the screen area, and light gray for the radio wave lines. Lastly, the PC symbol uses blue for the device outline and the onscreen sad face and horizontal lines and medium gray in the screen background.](./images/sf-symbols/sf-palette_2x.png)
+![A diagram showing a row of eight symbols, each of which uses a combination of gray and the system blue color. From the left, the square and arrow up symbol uses blue for the arrow and light gray for the square. Next, folder badge plus uses blue for the badge and light gray for the folder. Trash slash uses blue for the slash and light gray for the can. Calendar day timeline right uses blue for the horizontal indicator and light gray for the square and dots. List number uses blue for the column of numbers and light gray for the horizontal lines. Text format A B C dotted underline uses blue for the dots under the light gray letters. iPhone radio waves left and right uses blue for the device outline, medium gray in the screen area, and light gray for the radio wave lines. Lastly, the PC symbol uses blue for the device outline and the onscreen sad face and horizontal lines and medium gray in the screen background.](/images/com.apple.HIG/sf-palette@2x.png)
 
 
 
@@ -64,7 +64,7 @@ SF Symbols supports the following rendering modes.
 
 
 
-![A diagram showing a row of eight symbols, using combinations of various colors. From the left, the square and arrow up symbol uses blue for all lines. Next, folder badge plus uses green for the badge and blue for the folder. Trash slash uses red for both the slash and the can. Calendar day timeline right uses red for the horizontal indicator, dark gray for the square, and light gray for the dots. List number uses black for the column of numbers and medium gray for the horizontal lines. Text format A B C dotted underline uses red for the dots under the black letters. iPhone radio waves left and right uses blue for all lines. Lastly, the PC symbol uses yellow for the device outline, white for the onscreen sad face and horizontal lines, and blue in the screen background.](./images/sf-symbols/sf-multicolor_2x.png)
+![A diagram showing a row of eight symbols, using combinations of various colors. From the left, the square and arrow up symbol uses blue for all lines. Next, folder badge plus uses green for the badge and blue for the folder. Trash slash uses red for both the slash and the can. Calendar day timeline right uses red for the horizontal indicator, dark gray for the square, and light gray for the dots. List number uses black for the column of numbers and medium gray for the horizontal lines. Text format A B C dotted underline uses red for the dots under the black letters. iPhone radio waves left and right uses blue for all lines. Lastly, the PC symbol uses yellow for the device outline, white for the onscreen sad face and horizontal lines, and blue in the screen background.](/images/com.apple.HIG/sf-multicolor@2x.png)
 
 
 
@@ -84,7 +84,7 @@ For example, you could use variable color with the `speaker.wave.3` symbol to co
 
 
 
-![A diagram showing four versions of the speaker wave three symbol, each of which displays color in a different number of wave paths. From the left, the number of waves with color is zero, one, two, and three.](./images/sf-symbols/sf-variable-color_2x.png)
+![A diagram showing four versions of the speaker wave three symbol, each of which displays color in a different number of wave paths. From the left, the number of waves with color is zero, one, two, and three.](/images/com.apple.HIG/sf-variable-color@2x.png)
 
 
 
@@ -98,7 +98,7 @@ SF Symbols provides symbols in a wide range of weights and scales to help you cr
 
 
 
-![A diagram showing the square and arrow up symbol in all 27 weights and scales.](./images/sf-symbols/sf-scales-weights_2x.png)
+![A diagram showing the square and arrow up symbol in all 27 weights and scales.](/images/com.apple.HIG/sf-scales-weights@2x.png)
 
 
 
@@ -118,7 +118,7 @@ In addition to outline and fill, SF Symbols also defines variants that include a
 
 
 
-![A diagram showing two rows of the same five symbols. In the top row, every symbol uses the outline variant; the bottom row shows the fill variant of each symbol. From the left, the symbols are heart, heart slash, heart circle, heart square, and a heart in a rectangle.](./images/sf-symbols/sf-variants_2x.png)
+![A diagram showing two rows of the same five symbols. In the top row, every symbol uses the outline variant; the bottom row shows the fill variant of each symbol. From the left, the symbols are heart, heart slash, heart circle, heart square, and a heart in a rectangle.](/images/com.apple.HIG/sf-variants@2x.png)
 
 
 
@@ -126,7 +126,7 @@ SF Symbols provides many variants for specific languages and writing systems, in
 
 
 
-![A diagram with eight rows of the same twelve symbols, where each row shows a localized version of the symbol. From the left the symbols are doc rich text, doc rich text fill, character book closed, character book closed fill, character bubble, character bubble fill, character, text format superscript, text format subscript, text format size, character text box, and character cursor I beam.](./images/sf-symbols/sf-localized_2x.png)
+![A diagram with eight rows of the same twelve symbols, where each row shows a localized version of the symbol. From the left the symbols are doc rich text, doc rich text fill, character book closed, character book closed fill, character bubble, character bubble fill, character, text format superscript, text format subscript, text format size, character text box, and character cursor I beam.](/images/com.apple.HIG/sf-localized@2x.png)
 
 
 

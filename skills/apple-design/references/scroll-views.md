@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a scrollable image view. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/scroll-views/components-scroll-view-intro_2x.png)
+![A stylized representation of a scrollable image view. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-scroll-view-intro@2x.png)
 
 
 

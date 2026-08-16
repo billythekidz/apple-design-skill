@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a scribble mark, suggesting drawing with Apple Pencil. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/apple-pencil-and-scribble/inputs-apple-pencil-and-scribble-intro_2x.png)
+![A sketch of a scribble mark, suggesting drawing with Apple Pencil. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-apple-pencil-and-scribble-intro@2x.png)
 
 
 
@@ -87,7 +87,7 @@ With Scribble and Apple Pencil, people can simply write wherever text is accepte
 
 
 
-![An illustration showing a stack of two text fields, where the top field is about half the width of the bottom field. Both text fields contain the word Name in the leading end, followed by a person's signature. The top text field is too narrow to fit all of the signature and is marked with an X in a circle to indicate incorrect usage. The bottom text field is wide enough to fit the full signature and is marked with a checkmark in a circle to indicate correct usage.](./images/apple-pencil-and-scribble/apple-pencil-scribble_2x.png)
+![An illustration showing a stack of two text fields, where the top field is about half the width of the bottom field. Both text fields contain the word Name in the leading end, followed by a person's signature. The top text field is too narrow to fit all of the signature and is marked with an X in a circle to indicate incorrect usage. The bottom text field is wide enough to fit the full signature and is marked with a checkmark in a circle to indicate correct usage.](/images/com.apple.HIG/apple-pencil-scribble@2x.png)
 
 
 
@@ -101,7 +101,7 @@ Using [PencilKit](https://developer.apple.com/documentation/pencilkit), you can 
 
 
 
-![An illustration of an iPad screen in landscape on the left and an iPhone screen in portrait on the right. Both screens show the tool picker at the bottom edge of the screen. The iPad screen shows the standard undo and redo buttons in the left end of the tool picker, and the iPhone screen shows the undo button in the top toolbar.](./images/apple-pencil-and-scribble/apple-pencil-undo-redo-buttons_2x.png)
+![An illustration of an iPad screen in landscape on the left and an iPhone screen in portrait on the right. Both screens show the tool picker at the bottom edge of the screen. The iPad screen shows the standard undo and redo buttons in the left end of the tool picker, and the iPhone screen shows the undo button in the top toolbar.](/images/com.apple.HIG/apple-pencil-undo-redo-buttons@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a half-filled star, suggesting a favorability rating. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/ratings-and-reviews/patterns-ratings-and-reviews-intro_2x.png)
+![A sketch of a half-filled star, suggesting a favorability rating. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-ratings-and-reviews-intro@2x.png)
 
 
 
@@ -22,7 +22,7 @@ People can always rate your app within the App Store.
 
 
 
-![An illustration of the UI that appears when a person is prompted to rate an app or game in macOS.](./images/ratings-and-reviews/ratings-and-reviews-ios-alert_2x.png)
+![An illustration of the UI that appears when a person is prompted to rate an app or game in macOS.](/images/com.apple.HIG/ratings-and-reviews-ios-alert@2x.png)
 
 
 

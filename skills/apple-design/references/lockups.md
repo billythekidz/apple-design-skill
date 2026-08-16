@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a person icon above a line of headline text and a line of footnote text. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/lockups/components-lockups-intro_2x.png)
+![A stylized representation of a person icon above a line of headline text and a line of footnote text. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-lockups-intro@2x.png)
 
 
 
@@ -22,7 +22,7 @@ According to the needs of your app, you can combine four types of lockup: cards,
 
 
 
-![An illustration showing three rows of five equally spaced lockups. In each row, the middle lockup is in focus and slightly larger than the others.](./images/lockups/lockups-generic_2x.png)
+![An illustration showing three rows of five equally spaced lockups. In each row, the middle lockup is in focus and slightly larger than the others.](/images/com.apple.HIG/lockups-generic@2x.png)
 
 
 
@@ -36,7 +36,7 @@ A card combines a header, footer, and content view to present ratings and review
 
 
 
-![An illustration of an Apple TV screen that contains several cards, one of which is highlighted. Inside the highlighted card from the top, placeholder content shows the position of a rating and multiple lines of text.](./images/lockups/lockups-background_2x.png)
+![An illustration of an Apple TV screen that contains several cards, one of which is highlighted. Inside the highlighted card from the top, placeholder content shows the position of a rating and multiple lines of text.](/images/com.apple.HIG/lockups-background@2x.png)
 
 
 
@@ -50,7 +50,7 @@ Make sure that when people focus on them, caption buttons tilt with the motion t
 
 
 
-![An illustration of an Apple TV screen highlighted to show four caption buttons in a row. The leftmost button is focused, making it expand slightly and appear to float above the background.](./images/lockups/lockups-caption-button_2x.png)
+![An illustration of an Apple TV screen highlighted to show four caption buttons in a row. The leftmost button is focused, making it expand slightly and appear to float above the background.](/images/com.apple.HIG/lockups-caption-button@2x.png)
 
 
 
@@ -64,7 +64,7 @@ Monograms identify people, usually the cast and crew for a media item. Each mono
 
 
 
-![An illustration of an Apple TV screen that contains a row of several monograms, of which the leftmost one is highlighted. Each monogram contains the person symbol. Below each monogram is placeholder content that represents two lines of text.](./images/lockups/lockups-monogram_2x.png)
+![An illustration of an Apple TV screen that contains a row of several monograms, of which the leftmost one is highlighted. Each monogram contains the person symbol. Below each monogram is placeholder content that represents two lines of text.](/images/com.apple.HIG/lockups-monogram@2x.png)
 
 
 
@@ -76,7 +76,7 @@ Posters consist of an image and an optional title and subtitle, which are hidden
 
 
 
-![An illustration of an Apple TV screen that shows a row of several posters near the bottom edge. One poster is focused and below it is placeholder content that represents a line of text.](./images/lockups/lockups-poster_2x.png)
+![An illustration of an Apple TV screen that shows a row of several posters near the bottom edge. One poster is focused and below it is placeholder content that represents a line of text.](/images/com.apple.HIG/lockups-poster@2x.png)
 
 
 

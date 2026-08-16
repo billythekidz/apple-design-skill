@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a notification mockup. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/notifications/components-notification-intro_2x.png)
+![A stylized representation of a notification mockup. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-notification-intro@2x.png)
 
 
 
@@ -92,7 +92,7 @@ A short look appears when the wearerâ€™s wrist is raised and disappears when itâ
 
 
 
-![An illustration that represents a short look notification from a generic app. It includes a large primary image in the center, a title, and a short preview of the notification content.](./images/notifications/notifications-short-looks_2x.png)
+![An illustration that represents a short look notification from a generic app. It includes a large primary image in the center, a title, and a short preview of the notification content.](/images/com.apple.HIG/notifications-short-looks@2x.png)
 
 
 
@@ -106,7 +106,7 @@ Long looks provide more detail about a notification. If necessary, people can sw
 
 
 
-![An illustration that represents a long look notification from a generic app. It includes a small primary image in the upper left corner, badging a platter with the notification title and content. Beneath the notification are two full width action buttons, the second of which extends off the screen to indicate that the view is scrollable.](./images/notifications/notifications-long-looks_2x.png)
+![An illustration that represents a long look notification from a generic app. It includes a small primary image in the upper left corner, badging a platter with the notification title and content. Beneath the notification are two full width action buttons, the second of which extends off the screen to indicate that the view is scrollable.](/images/com.apple.HIG/notifications-long-looks@2x.png)
 
 
 

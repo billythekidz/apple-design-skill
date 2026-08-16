@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a text label. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/labels/components-label-intro_2x.png)
+![A stylized representation of a text label. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-label-intro@2x.png)
 
 
 

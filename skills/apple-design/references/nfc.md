@@ -8,7 +8,7 @@
 
 
 
-![A sketch of progressively larger curved lines extending toward the right, suggesting near-field communication. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/nfc/technologies-nfc-intro_2x.png)
+![A sketch of progressively larger curved lines extending toward the right, suggesting near-field communication. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-nfc-intro@2x.png)
 
 
 
@@ -20,7 +20,7 @@ An app can support single- or multiple-object scanning when the app is active, a
 
 
 
-![An illustration of a scanning sheet on iPhone, which includes the text Ready to Scan and Hold your device near the NFC tag, and a Cancel button.](./images/nfc/nfc-ready-to-scan_2x.png)
+![An illustration of a scanning sheet on iPhone, which includes the text Ready to Scan and Hold your device near the NFC tag, and a Cancel button.](/images/com.apple.HIG/nfc-ready-to-scan@2x.png)
 
 
 
@@ -47,7 +47,7 @@ Background tag reading lets people scan tags quickly any time, without needing t
 
 
 
-![An illustration of a notification banner above the Home screen on iPhone, which offers an opportunity to open a specific app to process NFC tag data detected nearby.](./images/nfc/nfc-background_2x.png)
+![An illustration of a notification banner above the Home screen on iPhone, which offers an opportunity to open a specific app to process NFC tag data detected nearby.](/images/com.apple.HIG/nfc-background@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a gyroscope, suggesting movement. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/gyro-and-accelerometer/inputs-gyroscope-intro_2x.png)
+![A sketch of a gyroscope, suggesting movement. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-gyroscope-intro@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A sketch that suggests Apple Vision Pro. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/immersive-experiences/foundations-immersive-experiences-intro_2x.png)
+![A sketch that suggests Apple Vision Pro. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-immersive-experiences-intro@2x.png)
 
 
 

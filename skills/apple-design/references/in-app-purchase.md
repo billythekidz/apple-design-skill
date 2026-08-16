@@ -8,7 +8,7 @@
 
 
 
-![A sketch of an add button, suggesting the purchase of additional digital assets within an app. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/in-app-purchase/technologies-IAP-intro_2x.png)
+![A sketch of an add button, suggesting the purchase of additional digital assets within an app. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-IAP-intro@2x.png)
 
 
 
@@ -26,7 +26,7 @@ Using in-app purchase, there are four types of content you can offer:
 
 
 
-![A screenshot of The Coast game’s in-app purchase store on iPad, featuring a row of five boosts that include lighthouse repairs and a power surge, above a row of five in-game maps with names like World Canals, The Great Lakes, and Famous Bays.](./images/in-app-purchase/iap-intro_2x.png)
+![A screenshot of The Coast game’s in-app purchase store on iPad, featuring a row of five boosts that include lighthouse repairs and a power surge, above a row of five in-game maps with names like World Canals, The Great Lakes, and Famous Bays.](/images/com.apple.HIG/iap-intro@2x.png)
 
 
 
@@ -67,7 +67,7 @@ Sometimes, people need help with a purchase or want to request a refund. To help
 
 
 
-![A partial screenshot of an app’s help screen on iPhone. The Back button is in the top-left of the screen. In a list titled ’How can we help?’ there are the following five help items, each of which can open a new screen: Missing a Purchase, Frequently Asked Questions, Request a Refund, Submit Feedback, and Contact Us.](./images/in-app-purchase/custom-purchase-help_2x.png)
+![A partial screenshot of an app’s help screen on iPhone. The Back button is in the top-left of the screen. In a list titled ’How can we help?’ there are the following five help items, each of which can open a new screen: Missing a Purchase, Frequently Asked Questions, Request a Refund, Submit Feedback, and Contact Us.](/images/com.apple.HIG/custom-purchase-help@2x.png)
 
 
 
@@ -77,7 +77,7 @@ Sometimes, people need help with a purchase or want to request a refund. To help
 
 
 
-![A partial screenshot of an app’s refund screen titled Request a Refund on iPhone. The Back button in the top-left of the screen is labeled 'Help' to indicate it takes people back to the help screen. In a list titled Purchases, the screen displays the following three recent purchases: Power Surge, Les Cheneaux Islands, and Cape Cod.](./images/in-app-purchase/custom-refund-request_2x.png)
+![A partial screenshot of an app’s refund screen titled Request a Refund on iPhone. The Back button in the top-left of the screen is labeled 'Help' to indicate it takes people back to the help screen. In a list titled Purchases, the screen displays the following three recent purchases: Power Surge, Les Cheneaux Islands, and Cape Cod.](/images/com.apple.HIG/custom-refund-request@2x.png)
 
 
 
@@ -93,7 +93,7 @@ Sometimes, people need help with a purchase or want to request a refund. To help
 
 
 
-![A screenshot of the Wave Journal app running on iPhone. The bottom half of the screen includes a highlighted area with the first of five pages that describe the benefits of subscribing, a Try It Free button, and a Sign In button.](./images/in-app-purchase/iphone-onboarding_2x.png)
+![A screenshot of the Wave Journal app running on iPhone. The bottom half of the screen includes a highlighted area with the first of five pages that describe the benefits of subscribing, a Try It Free button, and a Sign In button.](/images/com.apple.HIG/iphone-onboarding@2x.png)
 
 
 
@@ -125,7 +125,7 @@ For example, the Forest Explorer sign-up screen displays billing totals for mont
 
 
 
-![A screenshot of the Forest Explorer app running on iPhone. The screenshot displays a forested area as the first of three images in the top half of the screen. Below the image are three buttons with subscription options: Intrepid Pro, which costs $14.99 per month; Intrepid Pro with Ads, which costs $9.99 per month; and Redeem Code.](./images/in-app-purchase/iphone-upgrade_2x.png)
+![A screenshot of the Forest Explorer app running on iPhone. The screenshot displays a forested area as the first of three images in the top half of the screen. Below the image are three buttons with subscription options: Intrepid Pro, which costs $14.99 per month; Intrepid Pro with Ads, which costs $9.99 per month; and Redeem Code.](/images/com.apple.HIG/iphone-upgrade@2x.png)
 
 
 
@@ -133,7 +133,7 @@ For example, the Forest Explorer sign-up screen displays billing totals for mont
 
 
 
-![A screenshot of the Ocean Journal app running on Apple Watch, and displaying a modal view that describes a benefit of subscribing. Below the description area is a Subscribe Now button with subscription terms below it.](./images/in-app-purchase/watch-onboarding_2x.png)
+![A screenshot of the Ocean Journal app running on Apple Watch, and displaying a modal view that describes a benefit of subscribing. Below the description area is a Subscribe Now button with subscription terms below it.](/images/com.apple.HIG/watch-onboarding@2x.png)
 
 
 
@@ -170,7 +170,7 @@ Supporting subscription management means people can upgrade, downgrade, or cance
 
 
 
-![A screenshot of an app’s subscription settings screen on iPhone. It includes the app name, subscription level, price, and next billing date, above buttons for Manage Subscription, Restore Purchase, and Redeem Code.](./images/in-app-purchase/subscription-management_2x.png)
+![A screenshot of an app’s subscription settings screen on iPhone. It includes the app name, subscription level, price, and next billing date, above buttons for Manage Subscription, Restore Purchase, and Redeem Code.](/images/com.apple.HIG/subscription-management@2x.png)
 
 
 
@@ -182,7 +182,7 @@ Supporting subscription management means people can upgrade, downgrade, or cance
 
 
 
-![A screenshot of a resubscribe screen in the Math School app running on iPhone. The bottom half of the screen includes the label Resubscribe to Math School in large text, and the first of five pages which describe benefits of resubscribing. Below the page view area is a Resubscribe Now button with a six-month resubscription offer at 50 percent off, and a Sign In button.](./images/in-app-purchase/promotional-offer_2x.png)
+![A screenshot of a resubscribe screen in the Math School app running on iPhone. The bottom half of the screen includes the label Resubscribe to Math School in large text, and the first of five pages which describe benefits of resubscribing. Below the page view area is a Resubscribe Now button with a six-month resubscription offer at 50 percent off, and a Sign In button.](/images/com.apple.HIG/promotional-offer@2x.png)
 
 
 

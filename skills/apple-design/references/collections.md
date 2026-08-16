@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of eight image icons, separated into two rows of four. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/collections/components-collection-view-intro_2x.png)
+![A stylized representation of eight image icons, separated into two rows of four. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-collection-view-intro@2x.png)
 
 
 

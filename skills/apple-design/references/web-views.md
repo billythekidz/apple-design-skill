@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a compass icon. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/web-views/components-web-view-intro_2x.png)
+![A stylized representation of a compass icon. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-web-view-intro@2x.png)
 
 
 

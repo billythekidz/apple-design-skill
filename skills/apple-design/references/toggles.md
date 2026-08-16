@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of two labeled switch controls. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/toggles/components-toggles-intro_2x.png)
+![A stylized representation of two labeled switch controls. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-toggles-intro@2x.png)
 
 
 
@@ -60,7 +60,7 @@ A checkbox is a small, square button that’s empty when the button is off, cont
 
 
 
-![An illustration showing a layout that includes two levels of checkboxes.](./images/toggles/checkbox-alignment_2x.png)
+![An illustration showing a layout that includes two levels of checkboxes.](/images/com.apple.HIG/checkbox-alignment@2x.png)
 
 
 
@@ -76,7 +76,7 @@ A radio button is a small, circular button followed by a label. Typically displa
 
 
 
-![An illustration that shows five items in a column, each with a radio button preceding the text Radio Button Label. The radio button for the third item is filled, indicating that it's selected.](./images/toggles/radio-button-example_2x.png)
+![An illustration that shows five items in a column, each with a radio button preceding the text Radio Button Label. The radio button for the third item is filled, indicating that it's selected.](/images/com.apple.HIG/radio-button-example@2x.png)
 
 
 
@@ -92,7 +92,7 @@ A radio button’s state is either selected (a filled circle) or deselected (an 
 
 
 
-![An illustration that shows three items in a row, with a radio button preceding each item. The first and third items have long text labels, while the second has a short label. The horizontal space each item occupies is equal. A filled radio button precedes the second item, indicating that it's selected.](./images/toggles/radio-button-equal-spacing_2x.png)
+![An illustration that shows three items in a row, with a radio button preceding each item. The first and third items have long text labels, while the second has a short label. The horizontal space each item occupies is equal. A filled radio button precedes the second item, indicating that it's selected.](/images/com.apple.HIG/radio-button-equal-spacing@2x.png)
 
 
 

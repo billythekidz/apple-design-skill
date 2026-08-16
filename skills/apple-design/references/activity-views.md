@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of an activity view or share sheet. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/activity-views/components-activity-view-intro_2x.png)
+![A stylized representation of an activity view or share sheet. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-activity-view-intro@2x.png)
 
 
 

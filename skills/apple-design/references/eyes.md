@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a human eye. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/eyes/inputs-eyes-intro_2x.png)
+![A sketch of a human eye. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-eyes-intro@2x.png)
 
 
 

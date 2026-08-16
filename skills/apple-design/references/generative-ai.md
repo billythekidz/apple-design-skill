@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a pencil surrounded by sparkly stars, suggesting generative intelligence. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/generative-ai/technologies-generative-ai-intro_2x.png)
+![A sketch of a pencil surrounded by sparkly stars, suggesting generative intelligence. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-generative-ai-intro@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a person, suggesting personal information. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/managing-accounts/patterns-managing-accounts-intro_2x.png)
+![A sketch of a person, suggesting personal information. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-managing-accounts-intro@2x.png)
 
 
 

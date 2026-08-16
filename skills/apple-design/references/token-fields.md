@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a text field containing a person's name formatted as a token. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/token-fields/components-token-field-intro_2x.png)
+![A stylized representation of a text field containing a person's name formatted as a token. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-token-field-intro@2x.png)
 
 
 
@@ -18,7 +18,7 @@ You can configure a token field to present people with a list of suggestions as 
 
 
 
-![A partial screenshot of a Mail compose window in which tokens represent some recipients.](./images/token-fields/token-fields-suggestion_2x.png)
+![A partial screenshot of a Mail compose window in which tokens represent some recipients.](/images/com.apple.HIG/token-fields-suggestion@2x.png)
 
 
 
@@ -26,7 +26,7 @@ An individual token can also include a contextual menu that offers information a
 
 
 
-![A partial screenshot of a Mail compose window in which one recipient token reveals a menu of commands.](./images/token-fields/token-fields-contextual_2x.png)
+![A partial screenshot of a Mail compose window in which one recipient token reveals a menu of commands.](/images/com.apple.HIG/token-fields-contextual@2x.png)
 
 
 

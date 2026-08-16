@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the CarPlay icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/carplay/technologies-CarPlay-intro_2x.png)
+![A sketch of the CarPlay icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-CarPlay-intro@2x.png)
 
 
 

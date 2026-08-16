@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a set of move, exercise, and stand activity rings denoting progress. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/activity-rings/components-activity-ring-intro_2x.png)
+![A stylized representation of a set of move, exercise, and stand activity rings denoting progress. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-activity-ring-intro@2x.png)
 
 
 
@@ -20,7 +20,7 @@ In watchOS, the Activity ring element always contains three rings, whose colors 
 
 
 
-![A screenshot of an in-progress workout screen that displays the current timer value, followed by a list of the current Move, Exercise, and Stand values. The screen also displays an image of the Activity rings, where the state of each ring represents the current value.](./images/activity-rings/activity-rings-summary_2x.png)
+![A screenshot of an in-progress workout screen that displays the current timer value, followed by a list of the current Move, Exercise, and Stand values. The screen also displays an image of the Activity rings, where the state of each ring represents the current value.](/images/com.apple.HIG/activity-rings-summary@2x.png)
 
 
 

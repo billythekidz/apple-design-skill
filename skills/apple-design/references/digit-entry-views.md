@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of an Apple TV five-digit passcode entry screen. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/digit-entry-views/components-digit-entry-view-intro_2x.png)
+![A stylized representation of an Apple TV five-digit passcode entry screen. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-digit-entry-view-intro@2x.png)
 
 
 

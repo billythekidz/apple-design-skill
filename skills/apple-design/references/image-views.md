@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a photo. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/image-views/components-image-view-intro_2x.png)
+![A stylized representation of a photo. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-image-view-intro@2x.png)
 
 
 

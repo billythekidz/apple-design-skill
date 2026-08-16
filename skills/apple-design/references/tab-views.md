@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a view with three labeled tabs, the first of which is selected. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/tab-views/components-tab-view-intro_2x.png)
+![A stylized representation of a view with three labeled tabs, the first of which is selected. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-tab-view-intro@2x.png)
 
 
 
@@ -48,7 +48,7 @@ watchOS displays tab views using [page controls](https://developer.apple.com/des
 
 
 
-![An illustration showing the page control next to the Digital Crown on Apple Watch. The current dot is enlarged, indicating that people can scroll through the current content, as well as scroll between pages.](./images/tab-views/tab-view-watch-vertical_2x.png)
+![An illustration showing the page control next to the Digital Crown on Apple Watch. The current dot is enlarged, indicating that people can scroll through the current content, as well as scroll between pages.](/images/com.apple.HIG/tab-view-watch-vertical@2x.png)
 
 
 

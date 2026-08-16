@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a pointing hand swiping in a curved motion toward the right, suggesting touch interaction with a device. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/gestures/inputs-gestures-intro_2x.png)
+![A sketch of a pointing hand swiping in a curved motion toward the right, suggesting touch interaction with a device. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-gestures-intro@2x.png)
 
 
 
@@ -98,7 +98,7 @@ If you want to offer a specific interaction for your experience that people canâ
 
 
 
-![A screenshot of a person's hands performing a custom gesture, placing the two hands together to form a heart, while playing a visionOS game.](./images/gestures/visionos-custom-spatial-gesture-happy-beam_2x.png)
+![A screenshot of a person's hands performing a custom gesture, placing the two hands together to form a heart, while playing a visionOS game.](/images/com.apple.HIG/visionos-custom-spatial-gesture-happy-beam@2x.png)
 
 
 

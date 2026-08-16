@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a paint palette, suggesting the use of color. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/color/foundations-color-intro_2x.png)
+![A sketch of a paint palette, suggesting the use of color. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-color-intro@2x.png)
 
 
 
@@ -64,7 +64,7 @@ A *color space* represents the colors in a *color model* like RGB or CMYK. Commo
 
 
 
-![Diagram showing the colors included in the sRGB space, compared to the larger number of colors included in the P3 color space.](./images/color/color-graphic-wide-color_2x.png)
+![Diagram showing the colors included in the sRGB space, compared to the larger number of colors included in the P3 color space.](/images/com.apple.HIG/color-graphic-wide-color@2x.png)
 
 
 
@@ -151,7 +151,7 @@ Beginning in macOS 11, you can specify an *accent color* to customize the appea
 
 
 
-![A screenshot of the accent color picker in the System Settings app.](./images/color/colors-accent-colors-picker-multicolor_2x.png)
+![A screenshot of the accent color picker in the System Settings app.](/images/com.apple.HIG/colors-accent-colors-picker-multicolor@2x.png)
 
 
 

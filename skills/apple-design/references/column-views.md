@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of three columns containing a list of folders, images, and file information. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/column-views/components-column-view-intro_2x.png)
+![A stylized representation of three columns containing a list of folders, images, and file information. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-column-view-intro@2x.png)
 
 
 

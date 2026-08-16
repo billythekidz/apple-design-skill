@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a pop-up button displaying a set of options. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/pop-up-buttons/components-pop-up-button-intro_2x.png)
+![A stylized representation of a pop-up button displaying a set of options. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-pop-up-button-intro@2x.png)
 
 
 

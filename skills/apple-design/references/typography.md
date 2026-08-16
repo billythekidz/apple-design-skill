@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a small letter A to the left of a large letter A, suggesting the use of typography to convey hierarchical information. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/typography/foundations-typography-intro_2x.png)
+![A sketch of a small letter A to the left of a large letter A, suggesting the use of typography to convey hierarchical information. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-typography-intro@2x.png)
 
 
 
@@ -29,13 +29,13 @@
 
 
 
-![A screenshot that shows a game running on iPhone in landscape. A name appears above each of 3 plants and a status message appears in a rounded rectangle in the top-right corner. All text uses a size that's too small, and the 3 plant names don't have visible backgrounds.](./images/typography/game-typography-incorrect_2x.png)
+![A screenshot that shows a game running on iPhone in landscape. A name appears above each of 3 plants and a status message appears in a rounded rectangle in the top-right corner. All text uses a size that's too small, and the 3 plant names don't have visible backgrounds.](/images/com.apple.HIG/game-typography-incorrect@2x.png)
 
 
 
 
 
-![A screenshot that shows a game running on iPhone in landscape. A name appears within a shaded lozenge shape above each of 3 plants and a status message appears in a rounded rectangle in the top-right corner. All text uses a size that's at least the recommended minimum.](./images/typography/game-typography-correct_2x.png)
+![A screenshot that shows a game running on iPhone in landscape. A name appears within a shaded lozenge shape above each of 3 plants and a status message appears in a rounded rectangle in the top-right corner. All text uses a size that's at least the recommended minimum.](/images/com.apple.HIG/game-typography-correct@2x.png)
 
 
 
@@ -57,7 +57,7 @@ Apple provides two typeface families that support an extensive range of weights,
 
 
 
-![The phrase 'The quick brown fox jumps over the lazy dog.' shown in the San Francisco Pro font.](./images/typography/typography-sanfrancisco_2x.png)
+![The phrase 'The quick brown fox jumps over the lazy dog.' shown in the San Francisco Pro font.](/images/com.apple.HIG/typography-sanfrancisco@2x.png)
 
 
 
@@ -67,7 +67,7 @@ The system also offers SF Pro, SF Compact, SF Arabic, SF Armenian, SF Georgian, 
 
 
 
-![The phrase 'The quick brown fox jumps over the lazy dog.' shown in the New York font.](./images/typography/typography-new-york_2x.png)
+![The phrase 'The quick brown fox jumps over the lazy dog.' shown in the New York font.](/images/com.apple.HIG/typography-new-york@2x.png)
 
 
 
@@ -82,7 +82,7 @@ To help you define visual hierarchies and create clear and legible designs in ma
 
 
 
-![The word 'text' shown in the SF Pro font, repeated in two rows of nine columns each. The rows show upright and italic styles, and the columns show font weights ranging from ultralight to black.](./images/typography/font-weight-sf-pro_2x.png)
+![The word 'text' shown in the SF Pro font, repeated in two rows of nine columns each. The rows show upright and italic styles, and the columns show font weights ranging from ultralight to black.](/images/com.apple.HIG/font-weight-sf-pro@2x.png)
 
 
 
@@ -93,7 +93,7 @@ The system defines a set of typographic attributes — called text styles — th
 
 
 
-![A partial iPhone screenshot of a Mail inbox, showing how text styles convey hierarchy. At the top of the screen, the word Inbox is in the large title text style. Below that, the email sender's name is in the title text style, the email subject is in the subtitle text style, and the preview of the email's content is in the body text style.](./images/typography/typography-text-hierarchy-levels_2x.png)
+![A partial iPhone screenshot of a Mail inbox, showing how text styles convey hierarchy. At the top of the screen, the word Inbox is in the large title text style. Below that, the email sender's name is in the title text style, the email subject is in the subtitle text style, and the preview of the email's content is in the body text style.](/images/com.apple.HIG/typography-text-hierarchy-levels@2x.png)
 
 
 

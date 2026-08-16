@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a series of Apple Watch faces. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/watch-faces/components-faces-intro_2x.png)
+![A stylized representation of a series of Apple Watch faces. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-faces-intro@2x.png)
 
 
 

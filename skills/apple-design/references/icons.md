@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the Command key icon. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/icons/foundations-icons-intro_2x.png)
+![A sketch of the Command key icon. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-icons-intro@2x.png)
 
 
 
@@ -24,13 +24,13 @@ You can design interface icons — also called *glyphs* — or you can choose sy
 
 
 
-![Diagram of four glyphs in a row. From the left, the glyphs are a camera, a heart, an envelope, and an alarm clock. Two horizontal dashed lines show the bottom and top boundaries of the row and a horizontal red line shows the midpoint. All four glyphs are solid black; some include interior detail lines in white. Parts of the alarm clock extend above the top dashed line because its lighter visual weight requires greater height to achieve balance with the other glyphs.](./images/icons/custom-icon-sizes_2x.png)
+![Diagram of four glyphs in a row. From the left, the glyphs are a camera, a heart, an envelope, and an alarm clock. Two horizontal dashed lines show the bottom and top boundaries of the row and a horizontal red line shows the midpoint. All four glyphs are solid black; some include interior detail lines in white. Parts of the alarm clock extend above the top dashed line because its lighter visual weight requires greater height to achieve balance with the other glyphs.](/images/com.apple.HIG/custom-icon-sizes@2x.png)
 
 
 
 
 
-![Diagram of the same four glyphs shown above and the same horizontal dashed lines at top and bottom and horizontal red line through the middle. In this diagram, all four glyphs are solid gray; the interior detail lines are black to emphasize that all lines use the same weight.](./images/icons/custom-icon-line-weights_2x.png)
+![Diagram of the same four glyphs shown above and the same horizontal dashed lines at top and bottom and horizontal red line through the middle. In this diagram, all four glyphs are solid gray; the interior detail lines are black to emphasize that all lines use the same weight.](/images/com.apple.HIG/custom-icon-line-weights@2x.png)
 
 
 
@@ -40,7 +40,7 @@ You can design interface icons — also called *glyphs* — or you can choose sy
 
 
 
-![Two images of a white arrow that points down to a white horizontal line segment within a black disk. The image on the right includes two horizontal pink bars — one between the top of the glyph and the top of the disk and the other between the bottom of the glyph and the bottom of the disk — that show the glyph is geometrically centered within the disk.](./images/icons/asymmetric-glyph_2x.png)
+![Two images of a white arrow that points down to a white horizontal line segment within a black disk. The image on the right includes two horizontal pink bars — one between the top of the glyph and the top of the disk and the other between the bottom of the glyph and the bottom of the disk — that show the glyph is geometrically centered within the disk.](/images/com.apple.HIG/asymmetric-glyph@2x.png)
 
 
 
@@ -48,7 +48,7 @@ In such cases, you can slightly adjust the position of the icon until it’s opt
 
 
 
-![Two images of a white arrow that points down to a white horizontal line segment within a black disk. The image on the left includes the two horizontal pink bars in the same locations as in the previous illustration, but the glyph has been moved up by a few pixels. The image on the right includes a pink rectangle overlaid on top of the glyph to represent a padding area, which includes the extra pixels below the glyph.](./images/icons/asymmetric-glyph-optically-centered_2x.png)
+![Two images of a white arrow that points down to a white horizontal line segment within a black disk. The image on the left includes the two horizontal pink bars in the same locations as in the previous illustration, but the glyph has been moved up by a few pixels. The image on the right includes a pink rectangle overlaid on top of the glyph to represent a padding area, which includes the extra pixels below the glyph.](/images/com.apple.HIG/asymmetric-glyph-optically-centered@2x.png)
 
 
 
@@ -56,7 +56,7 @@ Adjustments for optical centering are typically very small, but they can have a 
 
 
 
-![Two images of a white arrow that points down to a white horizontal line segment within a black disk. The glyph on the left is geometrically centered and the one on the right is optically centered.](./images/icons/asymmetric-glyph-before-and-after_2x.png)
+![Two images of a white arrow that points down to a white horizontal line segment within a black disk. The glyph on the left is geometrically centered and the one on the right is optically centered.](/images/com.apple.HIG/asymmetric-glyph-before-and-after@2x.png)
 
 
 
@@ -64,7 +64,7 @@ Adjustments for optical centering are typically very small, but they can have a 
 
 
 
-![An image of two toolbar buttons that share a background. The left button shows the Filter icon in a selected state, using a blue tint color for its background. The right button shows the More icon in an unselected state, using the default appearance for toolbar buttons.](./images/icons/icons-selection-correct_2x.png)
+![An image of two toolbar buttons that share a background. The left button shows the Filter icon in a selected state, using a blue tint color for its background. The right button shows the More icon in an unselected state, using the default appearance for toolbar buttons.](/images/com.apple.HIG/icons-selection-correct@2x.png)
 
 
 
@@ -203,7 +203,7 @@ If you don’t supply a document icon for a file type you support, macOS creates
 
 
 
-![An image of the Preview document icon for a JPG file.](./images/icons/doc-icon-generated_2x.png)
+![An image of the Preview document icon for a JPG file.](/images/com.apple.HIG/doc-icon-generated@2x.png)
 
 
 
@@ -213,7 +213,7 @@ To create a custom document icon, you can supply any combination of background f
 
 
 
-![A custom document icon that displays the pink heart and the word heart on top of the pink grid and white EKG line.](./images/icons/doc-icon-parts_2x.png)
+![A custom document icon that displays the pink heart and the word heart on top of the pink grid and white EKG line.](/images/com.apple.HIG/doc-icon-parts@2x.png)
 
 
 
@@ -244,7 +244,7 @@ To create a custom document icon, you can supply any combination of background f
 
 
 
-![Diagram of the solid pink heart shape within blue margins that measure 10 percent of the canvas width.](./images/icons/doc-icon-parts-margins_2x.png)
+![Diagram of the solid pink heart shape within blue margins that measure 10 percent of the canvas width.](/images/com.apple.HIG/doc-icon-parts-margins@2x.png)
 
 
 
@@ -252,7 +252,7 @@ To create a custom document icon, you can supply any combination of background f
 
 
 
-![Image of a SceneKit scene document icon.](./images/icons/doc-icon-custom-extension_2x.png)
+![Image of a SceneKit scene document icon.](/images/com.apple.HIG/doc-icon-custom-extension@2x.png)
 
 
 

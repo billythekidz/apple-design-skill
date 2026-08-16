@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of the Dynamic Island, in collapsed and expanded form, displaying the score of a live sporting event. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/live-activities/components-live-activities-intro_2x.png)
+![A stylized representation of the Dynamic Island, in collapsed and expanded form, displaying the score of a live sporting event. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-live-activities-intro@2x.png)
 
 
 
@@ -43,7 +43,7 @@ In the Dynamic Island, the system uses the compact presentation when only one Li
 
 
 
-![An illustration that shows the compact leading and compact trailing views in the Dynamic Island.](./images/live-activities/type-compact_2x.png)
+![An illustration that shows the compact leading and compact trailing views in the Dynamic Island.](/images/com.apple.HIG/type-compact@2x.png)
 
 
 
@@ -55,7 +55,7 @@ When multiple Live Activities are active, the system uses the minimal presentati
 
 
 
-![An illustration that shows the minimal presentation in the Dynamic Island.](./images/live-activities/type-minimal_2x.png)
+![An illustration that shows the minimal presentation in the Dynamic Island.](/images/com.apple.HIG/type-minimal@2x.png)
 
 
 
@@ -67,7 +67,7 @@ When people touch and hold a Live Activity in compact or minimal presentation, t
 
 
 
-![An illustration that shows the expanded view in the Dynamic Island.](./images/live-activities/type-expanded_2x.png)
+![An illustration that shows the expanded view in the Dynamic Island.](/images/com.apple.HIG/type-expanded@2x.png)
 
 
 
@@ -79,7 +79,7 @@ The system uses the Lock Screen presentation to display a banner at the bottom o
 
 
 
-![A screenshot of a Live Activity on the Lock Screen of iPhone that supports the Dynamic Island.](./images/live-activities/live-activity-lock-screen_2x.png)
+![A screenshot of a Live Activity on the Lock Screen of iPhone that supports the Dynamic Island.](/images/com.apple.HIG/live-activity-lock-screen@2x.png)
 
 
 
@@ -87,7 +87,7 @@ When you alert people about Live Activity updates on devices that don’t suppor
 
 
 
-![A screenshot of a Live Activity that appears as a banner on the Home Screen of iPhone without Dynamic Island support.](./images/live-activities/live-activity-notch_2x.png)
+![A screenshot of a Live Activity that appears as a banner on the Home Screen of iPhone without Dynamic Island support.](/images/com.apple.HIG/live-activity-notch@2x.png)
 
 
 
@@ -99,7 +99,7 @@ On iPhone in StandBy, your Live Activity appears in the minimal presentation. Wh
 
 
 
-![An image that shows the Lock Screen presentation of a Live Activity in StandBy, scaled up by 2x, with a dotted border to indicate the 2x scaling of the Live Activity.](./images/live-activities/live-activity-standby-default-outline_2x.png)
+![An image that shows the Lock Screen presentation of a Live Activity in StandBy, scaled up by 2x, with a dotted border to indicate the 2x scaling of the Live Activity.](/images/com.apple.HIG/live-activity-standby-default-outline@2x.png)
 
 
 
@@ -133,7 +133,7 @@ For design guidance, see [StandBy presentation](https://developer.apple.com/desi
 
 
 
-![An illustration that shows content in the Dynamic Island with even margins.](./images/live-activities/live-activities-margins_2x.png)
+![An illustration that shows content in the Dynamic Island with even margins.](/images/com.apple.HIG/live-activities-margins@2x.png)
 
 
 
@@ -141,7 +141,7 @@ For design guidance, see [StandBy presentation](https://developer.apple.com/desi
 
 
 
-![An illustration a Live Activity that draws content to the edge of the Dynamic Island.](./images/live-activities/live-activities-rounded-shapes_2x.png)
+![An illustration a Live Activity that draws content to the edge of the Dynamic Island.](/images/com.apple.HIG/live-activities-rounded-shapes@2x.png)
 
 
 
@@ -246,7 +246,7 @@ Your Live Activity needs to support all locations, devices, and their correspond
 
 
 
-![A Live Activity, scaled to fill the screen on iPhone in StandBy.](./images/live-activities/live-activity-standby-night-mode_2x.png)
+![A Live Activity, scaled to fill the screen on iPhone in StandBy.](/images/com.apple.HIG/live-activity-standby-night-mode@2x.png)
 
 
 
@@ -280,7 +280,7 @@ If you offer a watchOS app and someone taps the Live Activity in the Smart Stack
 
 
 
-![An illustration that shows the compact presentation of a Live Activity in the Dynamic Island on iPhone.](./images/live-activities/live-activities-ios-dynamic-island-default_2x.png)
+![An illustration that shows the compact presentation of a Live Activity in the Dynamic Island on iPhone.](/images/com.apple.HIG/live-activities-ios-dynamic-island-default@2x.png)
 
 
 

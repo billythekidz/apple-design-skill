@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a numeric keypad shown on top of a grid that suggests the canvas of a design tool. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/virtual-keyboards/components-virtual-keyboard-intro_2x.png)
+![A stylized representation of a numeric keypad shown on top of a grid that suggests the canvas of a design tool. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-virtual-keyboard-intro@2x.png)
 
 
 

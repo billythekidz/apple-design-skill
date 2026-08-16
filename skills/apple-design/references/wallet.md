@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the Wallet icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/wallet/technologies-Wallet-intro_2x.png)
+![A sketch of the Wallet icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-Wallet-intro@2x.png)
 
 
 
@@ -22,7 +22,7 @@ Passes are digital representations of information that people can add to Wallet,
 
 
 
-![Three Wallet passes displayed side by side, including a museum membership pass with a dinosaur skull background, a coupon pass for a discount on donuts with a food truck illustration, and a gym pass with a gym equipment background.](./images/wallet/wallet-passes-hero_2x.png)
+![Three Wallet passes displayed side by side, including a museum membership pass with a dinosaur skull background, a coupon pass for a discount on donuts with a food truck illustration, and a gym pass with a gym equipment background.](/images/com.apple.HIG/wallet-passes-hero@2x.png)
 
 
 
@@ -36,7 +36,7 @@ Passes are digital representations of information that people can add to Wallet,
 
 
 
-![A screenshot of a food truck app on iPhone displaying a coupon pass offering 20% off a dozen donuts, with an Add to Apple Wallet button below the pass.](./images/wallet/wallet-passes-add-to-apple-wallet_2x.png)
+![A screenshot of a food truck app on iPhone displaying a coupon pass offering 20% off a dozen donuts, with an Add to Apple Wallet button below the pass.](/images/com.apple.HIG/wallet-passes-add-to-apple-wallet@2x.png)
 
 
 
@@ -79,7 +79,7 @@ Wallet uses a consistent visual style to build familiarity and trust. Instead of
 
 
 
-![A screenshot of a museum membership pass open in Wallet on iPhone, showing a full-art background with a dinosaur skull illustration, a QR code, and member details. Below the pass are two featured actions: View Membership Benefits and Go to Location.](./images/wallet/wallet-passes-wallet-app_2x.png)
+![A screenshot of a museum membership pass open in Wallet on iPhone, showing a full-art background with a dinosaur skull illustration, a QR code, and member details. Below the pass are two featured actions: View Membership Benefits and Go to Location.](/images/com.apple.HIG/wallet-passes-wallet-app@2x.png)
 
 
 
@@ -87,7 +87,7 @@ Use Pass Designer to design and preview passes for Apple Wallet. Starting from A
 
 
 
-![A screenshot of Pass Designer on Mac showing a preview of a museum poster generic pass with an illustration featuring a dinosaur skull, butterflies, and marine creatures, along with member details and a QR code.](./images/wallet/wallet-pass-pass-designer-overview_2x.png)
+![A screenshot of Pass Designer on Mac showing a preview of a museum poster generic pass with an illustration featuring a dinosaur skull, butterflies, and marine creatures, along with member details and a QR code.](/images/com.apple.HIG/wallet-pass-pass-designer-overview@2x.png)
 
 
 
@@ -111,7 +111,7 @@ The boarding pass style is for travel tickets: airline boarding passes, train ti
 
 
 
-![An airline boarding pass on a blue background for a flight from San Francisco (SFO) to Tokyo (NRT), displaying passenger details, boarding information, and a QR code.](./images/wallet/wallet-passes-types-airline-boarding_2x.png)
+![An airline boarding pass on a blue background for a flight from San Francisco (SFO) to Tokyo (NRT), displaying passenger details, boarding information, and a QR code.](/images/com.apple.HIG/wallet-passes-types-airline-boarding@2x.png)
 
 
 
@@ -121,7 +121,7 @@ The coupon style is for coupons, special offers, and other discounts. For develo
 
 
 
-![A food truck coupon pass with a strip image of a food truck across the upper portion and a solid blue background below, offering 20% off a dozen donuts, with member details and a barcode at the bottom.](./images/wallet/wallet-passes-types-coupon_2x.png)
+![A food truck coupon pass with a strip image of a food truck across the upper portion and a solid blue background below, offering 20% off a dozen donuts, with member details and a barcode at the bottom.](/images/com.apple.HIG/wallet-passes-types-coupon@2x.png)
 
 
 
@@ -131,7 +131,7 @@ The event ticket pass style is for entry into events like sporting events, conce
 
 
 
-![A soccer event poster ticket with an illustration of a soccer player kicking a ball in a stadium, displaying match details, seat information, and a barcode.](./images/wallet/wallet-passes-types-poster-event-ticket_2x.png)
+![A soccer event poster ticket with an illustration of a soccer player kicking a ball in a stadium, displaying match details, seat information, and a barcode.](/images/com.apple.HIG/wallet-passes-types-poster-event-ticket@2x.png)
 
 
 
@@ -143,7 +143,7 @@ The store card style is for store loyalty cards, discount cards, points cards, a
 
 
 
-![A coffee shop store card with a strip illustration of a coffee shop scene and a solid dark red background, displaying member name, points balance, reward value, and a QR code.](./images/wallet/wallet-passes-types-store-card_2x.png)
+![A coffee shop store card with a strip illustration of a coffee shop scene and a solid dark red background, displaying member name, points balance, reward value, and a QR code.](/images/com.apple.HIG/wallet-passes-types-store-card@2x.png)
 
 
 
@@ -153,7 +153,7 @@ The poster generic pass style features a full background image and a pass field 
 
 
 
-![A museum poster generic pass with a full-art illustration featuring a dinosaur skull, butterflies, and marine creatures, displaying member details and a QR code.](./images/wallet/wallet-passes-types-generic-poster-pass_2x.png)
+![A museum poster generic pass with a full-art illustration featuring a dinosaur skull, butterflies, and marine creatures, displaying member details and a QR code.](/images/com.apple.HIG/wallet-passes-types-generic-poster-pass@2x.png)
 
 
 
@@ -163,7 +163,7 @@ The generic style is for passes that don’t fit the other categories, such as a
 
 
 
-![A gym membership generic pass on a solid purple background with a dumbbell thumbnail, member details, and a barcode at the bottom.](./images/wallet/wallet-passes-types-generic-pass_2x.png)
+![A gym membership generic pass on a solid purple background with a dumbbell thumbnail, member details, and a barcode at the bottom.](/images/com.apple.HIG/wallet-passes-types-generic-pass@2x.png)
 
 
 
@@ -183,7 +183,7 @@ The logo appears in the top leading corner of passes with pass fields. It’s ty
 
 
 
-![The top portion of a food truck coupon pass with a callout identifying the logo position in the top-left corner of the pass.](./images/wallet/wallet-passes-images-logo_2x.png)
+![The top portion of a food truck coupon pass with a callout identifying the logo position in the top-left corner of the pass.](/images/com.apple.HIG/wallet-passes-images-logo@2x.png)
 
 
 
@@ -217,7 +217,7 @@ The secondary logo displays an additional logo for a ticket issuer or event orga
 
 
 
-![The bottom portion of a soccer event poster ticket with a callout identifying the secondary logo in the bottom-trailing corner.](./images/wallet/wallet-passes-images-secondary-logo_2x.png)
+![The bottom portion of a soccer event poster ticket with a callout identifying the secondary logo in the bottom-trailing corner.](/images/com.apple.HIG/wallet-passes-images-secondary-logo@2x.png)
 
 
 
@@ -248,7 +248,7 @@ Strip images appear on coupons and store cards to reinforce your brand or offer.
 
 
 
-![The upper portion of a food truck coupon pass with callouts identifying the primary field and the strip image, outlined with dashed borders.](./images/wallet/wallet-passes-images-strip-image_2x.png)
+![The upper portion of a food truck coupon pass with callouts identifying the primary field and the strip image, outlined with dashed borders.](/images/com.apple.HIG/wallet-passes-images-strip-image@2x.png)
 
 
 
@@ -266,7 +266,7 @@ Thumbnails are small images, such as a movie poster, that appear on event ticket
 
 
 
-![The top portion of a gym membership pass on a solid purple background with a callout identifying the thumbnail in the upper-trailing area of the pass.](./images/wallet/wallet-passes-images-thumbnail_2x.png)
+![The top portion of a gym membership pass on a solid purple background with a callout identifying the thumbnail in the upper-trailing area of the pass.](/images/com.apple.HIG/wallet-passes-images-thumbnail@2x.png)
 
 
 
@@ -325,7 +325,7 @@ Wallet presents a dashboard that displays a customer’s active and completed or
 
 
 
-![A screenshot of a dashboard that displays an order history screen for a food truck app on iPhone. The screen displays a search field, a list of active orders, and a list of orders placed this month.](./images/wallet/wallet-ot-dashboard_2x.png)
+![A screenshot of a dashboard that displays an order history screen for a food truck app on iPhone. The screen displays a search field, a list of active orders, and a list of orders placed this month.](/images/com.apple.HIG/wallet-ot-dashboard@2x.png)
 
 
 
@@ -333,7 +333,7 @@ The [Wallet Orders](https://developer.apple.com/documentation/walletorders) sche
 
 
 
-![A screenshot of an order fulfillment screen for a food truck app on iPhone. The screen displays information about an order placed, and includes a status bar, shipping address, list of items ordered, and additional order details. Callouts identify different fields on the screen, including the merchant logo and display name, the order status and description, the tracking link, and various line items.](./images/wallet/wallet-ot-status-on-the-way-fields_2x.png)
+![A screenshot of an order fulfillment screen for a food truck app on iPhone. The screen displays information about an order placed, and includes a status bar, shipping address, list of items ordered, and additional order details. Callouts identify different fields on the screen, including the merchant logo and display name, the order status and description, the tracking link, and various line items.](/images/com.apple.HIG/wallet-ot-status-on-the-way-fields@2x.png)
 
 
 
@@ -349,7 +349,7 @@ The [Wallet Orders](https://developer.apple.com/documentation/walletorders) sche
 
 
 
-![An illustration of a donut, representing a product image. Horizontal and vertical lines extend along the bottom and right side of the image, and include labels that denote the illustration is 300 pixels wide by 300 pixels high.](./images/wallet/wallet-ot-product-images_2x.png)
+![An illustration of a donut, representing a product image. Horizontal and vertical lines extend along the bottom and right side of the image, and include labels that denote the illustration is 300 pixels wide by 300 pixels high.](/images/com.apple.HIG/wallet-ot-product-images@2x.png)
 
 
 
@@ -373,7 +373,7 @@ An order gives people ways to contact the merchant and displays details about th
 
 
 
-![A screenshot of an order detail screen for a food truck app on iPhone. The screen displays a list of donuts ordered. Above the list is an overlay containing buttons to message or email the merchant, get online support, or call customer service.](./images/wallet/wallet-ot-contacts_2x.png)
+![A screenshot of an order detail screen for a food truck app on iPhone. The screen displays a list of donuts ordered. Above the list is an overlay containing buttons to message or email the merchant, get online support, or call customer service.](/images/com.apple.HIG/wallet-ot-contacts@2x.png)
 
 
 
@@ -385,7 +385,7 @@ An order gives people ways to contact the merchant and displays details about th
 
 
 
-![A screenshot of an order fulfillment screen for a food truck app on iPhone. The top of the screen displays information about an order placed, and denotes that the order arrives tomorrow. The screen includes the shipping address, a link to track the shipment, a list of items ordered, and additional order details. The bottom of the screen displays another order placed, which is ready for pickup. In place of the shipping address is a Barcode button and a pickup address.](./images/wallet/wallet-ot-status-pickup-details_2x.png)
+![A screenshot of an order fulfillment screen for a food truck app on iPhone. The top of the screen displays information about an order placed, and denotes that the order arrives tomorrow. The screen includes the shipping address, a link to track the shipment, a list of items ordered, and additional order details. The bottom of the screen displays another order placed, which is ready for pickup. In place of the shipping address is a Barcode button and a pickup address.](/images/com.apple.HIG/wallet-ot-status-pickup-details@2x.png)
 
 
 
@@ -448,7 +448,7 @@ On Apple Watch, Wallet displays passes in a scrolling carousel of cards. People 
 
 
 
-![A screenshot of a selected flight pass in a list of passes on Apple Watch. The pass includes information about a flight from SFO to LGA. The next pass in the list is a gym membership card with a barcode.](./images/wallet/watch-card-and-details_2x.png)
+![A screenshot of a selected flight pass in a list of passes on Apple Watch. The pass includes information about a flight from SFO to LGA. The next pass in the list is a gym membership card with a barcode.](/images/com.apple.HIG/watch-card-and-details@2x.png)
 
 
 
@@ -456,7 +456,7 @@ People can tap a pass on their Apple Watch to reveal a details screen that displ
 
 
 
-![A screenshot of a flight pass on Apple Watch. The pass includes information about a flight from SFO to LGA, and appears above a QR code.](./images/wallet/watch-pass-design-intro_2x.png)
+![A screenshot of a flight pass on Apple Watch. The pass includes information about a flight from SFO to LGA, and appears above a QR code.](/images/com.apple.HIG/watch-pass-design-intro@2x.png)
 
 
 
@@ -464,7 +464,7 @@ Each pass style specifies the fields and images that can appear in the basic lay
 
 
 
-![A diagram that shows the basic layout of a pass on Apple Watch. A top row contains a logo image and an essential field area. A second row contains a primary field area. A third row contains a secondary and auxiliary fields area.](./images/wallet/watch-layout-diagram_2x.png)
+![A diagram that shows the basic layout of a pass on Apple Watch. A top row contains a logo image and an essential field area. A second row contains a primary field area. A third row contains a secondary and auxiliary fields area.](/images/com.apple.HIG/watch-layout-diagram@2x.png)
 
 
 

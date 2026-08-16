@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a capsule shape overlapping a square. A subtle bend in the edges of the square that are beneath the capsule suggests the layering of the Liquid Glass material over background content. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/materials/foundations-materials-intro_2x.png)
+![A sketch of a capsule shape overlapping a square. A subtle bend in the edges of the square that are beneath the capsule suggests the layering of the Liquid Glass material over background content. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-materials-intro@2x.png)
 
 
 
@@ -32,7 +32,7 @@ The *clear* variant is highly translucent, which is ideal for prioritizing the v
 
 
 
-![A visual example of the clear variant of Liquid Glass, which allows the visual detail of the background beneath it to show through.](./images/materials/materials-ios-liquid-glass-clear_2x.png)
+![A visual example of the clear variant of Liquid Glass, which allows the visual detail of the background beneath it to show through.](/images/com.apple.HIG/materials-ios-liquid-glass-clear@2x.png)
 
 
 
@@ -95,7 +95,7 @@ In tvOS, Liquid Glass appears throughout navigation elements and system experien
 
 
 
-![A screenshot of the Destination Video app running in tvOS. The app shows a screen with details about a video called A BOT-anist Adventure. The background is a colorful image of the main character in a scene from the video. The interface elements floating above the background adopt a Liquid Glass appearance to allow background color to show through and create a more immersive media experience.](./images/materials/materials-tvos-media-player_2x.png)
+![A screenshot of the Destination Video app running in tvOS. The app shows a screen with details about a video called A BOT-anist Adventure. The background is a colorful image of the main character in a scene from the video. The interface elements floating above the background adopt a Liquid Glass appearance to allow background color to show through and create a more immersive media experience.](/images/com.apple.HIG/materials-tvos-media-player@2x.png)
 
 
 
@@ -126,7 +126,7 @@ In visionOS, windows generally use an unmodifiable system-defined material calle
 
 
 
-![An illustration of a field of view in visionOS with a window in the center. The window is composed of a sidebar on the left and a content area on the right, with a text field at the top and a button in the lower-right corner. The sidebar uses regular material, while the text field uses thick material and the button uses thin material.](./images/materials/visionos-materials-window-example_2x.png)
+![An illustration of a field of view in visionOS with a window in the center. The window is composed of a sidebar on the left and a content area on the right, with a text field at the top and a button in the lower-right corner. The sidebar uses regular material, while the text field uses thick material and the button uses thin material.](/images/com.apple.HIG/visionos-materials-window-example@2x.png)
 
 
 
@@ -144,7 +144,7 @@ visionOS defines three vibrancy values that help you communicate a hierarchy of 
 
 
 
-![An illustration of a modal view in watchOS with an example title, descriptive text, and a single action button. The modal completely covers the screen with a transparent material, and uses a thinner material for the button along with vibrant label text.](./images/materials/watchos-modal-view-material-background_2x.png)
+![An illustration of a modal view in watchOS with an example title, descriptive text, and a single action button. The modal completely covers the screen with a transparent material, and uses a thinner material for the button along with vibrant label text.](/images/com.apple.HIG/watchos-modal-view-material-background@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of an edit menu extending from selected text. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/edit-menus/components-edit-menu-intro_2x.png)
+![A stylized representation of an edit menu extending from selected text. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-edit-menu-intro@2x.png)
 
 
 

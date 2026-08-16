@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a search field containing placeholder text and a dictation icon. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/search-fields/components-search-field-intro_2x.png)
+![A stylized representation of a search field containing placeholder text and a dictation icon. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-search-field-intro@2x.png)
 
 
 
@@ -37,7 +37,7 @@ Scope bars and tokens are components you can use to let someone narrow the param
 
 
 
-![A diagram of the Mail app on iPhone with the search field open above the keyboard and the word Design entered in the field. Callouts indicate a scope bar at the top of the screen to switch between searching all mailboxes and the current mailbox, and a list of tokens in a Suggestions area beneath the bar that represent different filters for the search.](./images/search-fields/search-fields-scope-control-tokens_2x.png)
+![A diagram of the Mail app on iPhone with the search field open above the keyboard and the word Design entered in the field. Callouts indicate a scope bar at the top of the screen to switch between searching all mailboxes and the current mailbox, and a list of tokens in a Suggestions area beneath the bar that represent different filters for the search.](/images/com.apple.HIG/search-fields-scope-control-tokens@2x.png)
 
 
 
@@ -105,7 +105,7 @@ The placement and behavior of the search field in iPadOS and macOS is similar. I
 
 
 
-![An illustration of an iPad screen with a tab bar at the top edge. The trailing side of the tab bar includes a Search tab with a distinct background color to differentiate it from other tab areas.](./images/search-fields/search-fields-ipad-search-in-tab-bar_2x.png)
+![An illustration of an iPad screen with a tab bar at the top edge. The trailing side of the tab bar includes a Search tab with a distinct background color to differentiate it from other tab areas.](/images/com.apple.HIG/search-fields-ipad-search-in-tab-bar@2x.png)
 
 
 
@@ -119,7 +119,7 @@ A search screen is a specialized keyboard screen that helps people enter search 
 
 
 
-![An illustration of a search screen in tvOS. The screen includes a field with a keyboard input area at the top, a scope bar, and a grid of top results at the bottom.](./images/search-fields/search-fields-tvos-search_2x.png)
+![An illustration of a search screen in tvOS. The screen includes a field with a keyboard input area at the top, a scope bar, and a grid of top results at the bottom.](/images/com.apple.HIG/search-fields-tvos-search@2x.png)
 
 
 

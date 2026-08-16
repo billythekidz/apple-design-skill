@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of an iPad frame shown on top of a grid. The image is overlaid with rectangular and circular grid lines and is tinted green to subtly reflect the green in the original six-color Apple logo.](./images/designing-for-ipados/platforms-iPadOS-intro_2x.png)
+![A stylized representation of an iPad frame shown on top of a grid. The image is overlaid with rectangular and circular grid lines and is tinted green to subtly reflect the green in the original six-color Apple logo.](/images/com.apple.HIG/platforms-iPadOS-intro@2x.png)
 
 
 

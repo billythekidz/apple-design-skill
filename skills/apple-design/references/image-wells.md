@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of an image well. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/image-wells/components-image-well-intro_2x.png)
+![A stylized representation of an image well. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-image-well-intro@2x.png)
 
 
 

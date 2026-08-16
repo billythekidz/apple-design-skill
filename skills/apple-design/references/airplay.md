@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the AirPlay icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/airplay/technologies-AirPlay-intro_2x.png)
+![A sketch of the AirPlay icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-AirPlay-intro@2x.png)
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-![A screenshot of the system-provided media player paused while playing a video.](./images/airplay/airplay-video-screen_2x.png)
+![A screenshot of the system-provided media player paused while playing a video.](/images/com.apple.HIG/airplay-video-screen@2x.png)
 
 
 
@@ -48,7 +48,7 @@ Use the black AirPlay icon on white or light backgrounds when other technology i
 
 
 
-![Two black AirPlay icons. The left one is the audio AirPlay icon, represented by a triangle below three concentric lines. The right one is the video AirPlay icon, represented by a triangle below a rounded rectangle.](./images/airplay/airplay-black-icon-set_2x.png)
+![Two black AirPlay icons. The left one is the audio AirPlay icon, represented by a triangle below three concentric lines. The right one is the video AirPlay icon, represented by a triangle below a rounded rectangle.](/images/com.apple.HIG/airplay-black-icon-set@2x.png)
 
 
 
@@ -58,7 +58,7 @@ Use the white AirPlay icon on black or dark backgrounds when other technology ic
 
 
 
-![Two white AirPlay icons. The left one is the audio AirPlay icon, represented by a triangle below three concentric lines. The right one is the video AirPlay icon, represented by a triangle below a rounded rectangle.](./images/airplay/airplay-white-icon-set_2x.png)
+![Two white AirPlay icons. The left one is the audio AirPlay icon, represented by a triangle below three concentric lines. The right one is the video AirPlay icon, represented by a triangle below a rounded rectangle.](/images/com.apple.HIG/airplay-white-icon-set@2x.png)
 
 
 
@@ -68,7 +68,7 @@ Use a custom color when other technology icons also appear in the same color.
 
 
 
-![Two blue AirPlay icons. The left one is the audio AirPlay icon, represented by a triangle below three concentric lines. The right one is the video AirPlay icon, represented by a triangle below a rounded rectangle.](./images/airplay/airplay-custom-color-icon-set_2x.png)
+![Two blue AirPlay icons. The left one is the audio AirPlay icon, represented by a triangle below three concentric lines. The right one is the video AirPlay icon, represented by a triangle below a rounded rectangle.](/images/com.apple.HIG/airplay-custom-color-icon-set@2x.png)
 
 
 

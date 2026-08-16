@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a set of action sheet buttons at the bottom of an iPhone. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/action-sheets/components-action-sheet-intro_2x.png)
+![A stylized representation of a set of action sheet buttons at the bottom of an iPhone. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-action-sheet-intro@2x.png)
 
 
 
@@ -45,7 +45,7 @@ The system-defined style for action sheets includes a title, an optional message
 
 
 
-![An illustration of an action sheet on Apple Watch, showing content that represents text in the top half of the watch screen and two stacked buttons in the bottom half.](./images/action-sheets/action-sheet-watch-system-defined_2x.png)
+![An illustration of an action sheet on Apple Watch, showing content that represents text in the top half of the watch screen and two stacked buttons in the bottom half.](/images/com.apple.HIG/action-sheet-watch-system-defined@2x.png)
 
 
 

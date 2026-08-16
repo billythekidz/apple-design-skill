@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the Accessibility icon. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/accessibility/foundations-accessibility-intro_2x.png)
+![A sketch of the Accessibility icon. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-accessibility-intro@2x.png)
 
 
 
@@ -24,7 +24,7 @@ As you design your app, audit the accessibility of your interface. Use [Accessib
 
 
 
-![An illustration containing five symbols associated with the topic of vision, including symbols representing text size, magnification, VoiceOver, and spoken dialogue.](./images/accessibility/accessibility-vision-section-hero_2x.png)
+![An illustration containing five symbols associated with the topic of vision, including symbols representing text size, magnification, VoiceOver, and spoken dialogue.](/images/com.apple.HIG/accessibility-vision-section-hero@2x.png)
 
 
 
@@ -66,7 +66,7 @@ If your app doesn’t provide this minimum contrast by default, ensure it at lea
 
 
 
-![An illustration containing five symbols associated with the topic of hearing, including symbols representing sound, waveforms, and closed captioning.](./images/accessibility/accessibility-hearing-section-hero_2x.png)
+![An illustration containing five symbols associated with the topic of hearing, including symbols representing sound, waveforms, and closed captioning.](/images/com.apple.HIG/accessibility-hearing-section-hero@2x.png)
 
 
 
@@ -85,7 +85,7 @@ For developer guidance, see [Selecting subtitles and alternative audio tracks](h
 
 
 
-![An illustration of an iPhone device vibrating as music plays from the device.](./images/accessibility/accessibility-haptic-audio-combo_2x.png)
+![An illustration of an iPhone device vibrating as music plays from the device.](/images/com.apple.HIG/accessibility-haptic-audio-combo@2x.png)
 
 
 
@@ -95,7 +95,7 @@ For developer guidance, see [Selecting subtitles and alternative audio tracks](h
 
 
 
-![An illustration containing five symbols associated with the topic of mobility, including symbols representing the keyboard, movement, and touch.](./images/accessibility/accessibility-mobility-section-hero_2x.png)
+![An illustration containing five symbols associated with the topic of mobility, including symbols representing the keyboard, movement, and touch.](/images/com.apple.HIG/accessibility-mobility-section-hero@2x.png)
 
 
 
@@ -128,7 +128,7 @@ Ensure your interface offers a comfortable experience for people with limited de
 
 
 
-![An illustration containing five symbols associated with the topic of speech, including symbols representing waveforms and speech.](./images/accessibility/accessibility-speech-section-hero_2x.png)
+![An illustration containing five symbols associated with the topic of speech, including symbols representing waveforms and speech.](/images/com.apple.HIG/accessibility-speech-section-hero@2x.png)
 
 
 
@@ -142,7 +142,7 @@ Apple’s accessibility features help people with speech disabilities and people
 
 
 
-![An illustration containing five symbols associated with the topic of cognition, including symbols representing music, security, and information hierarchy.](./images/accessibility/accessibility-cognitive-section-hero_2x.png)
+![An illustration containing five symbols associated with the topic of cognition, including symbols representing music, security, and information hierarchy.](/images/com.apple.HIG/accessibility-cognitive-section-hero@2x.png)
 
 
 

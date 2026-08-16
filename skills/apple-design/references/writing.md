@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a document and pencil, suggesting written content. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/writing/foundations-writing-intro_2x.png)
+![A sketch of a document and pencil, suggesting written content. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-writing-intro@2x.png)
 
 
 
@@ -54,7 +54,7 @@ Where and how people use a device, its screen size, and its location all affect 
 
 
 
-![A partial screenshot showing the Handwashing Timer description, which reads: Apple Watch can detect when you're washing your hands and start a 20-second timer.](./images/writing/writing-handwashing-settings_2x.png)
+![A partial screenshot showing the Handwashing Timer description, which reads: Apple Watch can detect when you're washing your hands and start a 20-second timer.](/images/com.apple.HIG/writing-handwashing-settings@2x.png)
 
 
 

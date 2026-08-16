@@ -8,7 +8,7 @@
 
 
 
-![A sketch of two overlapping squares containing an arrow pointing to the upper-left, suggesting a transition to a new destination. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/drag-and-drop/patterns-drag-and-drop-intro_2x.png)
+![A sketch of two overlapping squares containing an arrow pointing to the upper-left, suggesting a transition to a new destination. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-drag-and-drop-intro@2x.png)
 
 
 

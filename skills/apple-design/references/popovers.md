@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a popover view. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/popovers/components-popover-intro_2x.png)
+![A stylized representation of a popover view. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-popover-intro@2x.png)
 
 
 

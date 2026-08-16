@@ -8,7 +8,7 @@
 
 
 
-![A sketch of progressively larger curved lines extending toward the right within a circle, suggesting Tap to Pay on iPhone. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/tap-to-pay-on-iphone/technologies-TapToPay-intro_2x.png)
+![A sketch of progressively larger curved lines extending toward the right within a circle, suggesting Tap to Pay on iPhone. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-TapToPay-intro@2x.png)
 
 
 
@@ -93,7 +93,7 @@ Customers pay by *tapping* — that is, bringing a contactless card or digital w
 
 
 
-![An illustration of an app's checkout screen showing an indeterminate progress indicator followed by the text 'Authorizing' above a purchase total.](./images/tap-to-pay-on-iphone/tap-to-pay-authorizing-payment_2x.png)
+![An illustration of an app's checkout screen showing an indeterminate progress indicator followed by the text 'Authorizing' above a purchase total.](/images/com.apple.HIG/tap-to-pay-authorizing-payment@2x.png)
 
 
 
@@ -107,7 +107,7 @@ Customers pay by *tapping* — that is, bringing a contactless card or digital w
 
 
 
-![An illustration of an app's checkout screen showing a red X in a red circle above the text 'Payment not completed' followed by a purchase total. Below the total is the text 'Select payment option' followed by four buttons, including Tap to Pay on iPhone.](./images/tap-to-pay-on-iphone/tap-to-pay-unsuccessful-transaction_2x.png)
+![An illustration of an app's checkout screen showing a red X in a red circle above the text 'Payment not completed' followed by a purchase total. Below the total is the text 'Select payment option' followed by four buttons, including Tap to Pay on iPhone.](/images/com.apple.HIG/tap-to-pay-unsuccessful-transaction@2x.png)
 
 
 

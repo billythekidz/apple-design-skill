@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a horizontal line of three slightly overlapping circles, suggesting vibration. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/playing-haptics/patterns-playing-haptics-intro_2x.png)
+![A sketch of a horizontal line of three slightly overlapping circles, suggesting vibration. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-playing-haptics-intro@2x.png)
 
 
 

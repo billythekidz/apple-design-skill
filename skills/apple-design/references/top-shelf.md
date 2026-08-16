@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a horizontal list of media previews above rows of Apple TV apps. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/top-shelf/components-top-shelf-intro_2x.png)
+![A stylized representation of a horizontal list of media previews above rows of Apple TV apps. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-top-shelf-intro@2x.png)
 
 
 
@@ -71,7 +71,7 @@ You can use the following image sizes in a sectioned content row.
 
 
 
-![An illustration showing an outlined rectangle that contains a slightly smaller rectangle, which contains a slight narrower rectangle. The outermost rectangle represents the actual size, the middle rectangle represents the visible or safe zone, and the innermost rectangle represents the unfocused size.](./images/top-shelf/icons-and-images-content-layout-2x3_2x.png)
+![An illustration showing an outlined rectangle that contains a slightly smaller rectangle, which contains a slight narrower rectangle. The outermost rectangle represents the actual size, the middle rectangle represents the visible or safe zone, and the innermost rectangle represents the unfocused size.](/images/com.apple.HIG/icons-and-images-content-layout-2x3@2x.png)
 
 
 
@@ -86,7 +86,7 @@ You can use the following image sizes in a sectioned content row.
 
 
 
-![An illustration showing an outlined square that contains a slightly smaller square, which contains a slightly smaller square. The outermost  square represents the actual size, the middle square represents the visible or safe zone, and the innermost square represents the unfocused size.](./images/top-shelf/icons-and-images-content-layout-1x1_2x.png)
+![An illustration showing an outlined square that contains a slightly smaller square, which contains a slightly smaller square. The outermost  square represents the actual size, the middle square represents the visible or safe zone, and the innermost square represents the unfocused size.](/images/com.apple.HIG/icons-and-images-content-layout-1x1@2x.png)
 
 
 
@@ -101,7 +101,7 @@ You can use the following image sizes in a sectioned content row.
 
 
 
-![An illustration showing an outlined rectangle that contains a slightly smaller rectangle, which contains a slightly smaller rectangle. The outermost rectangle represents the actual size, the middle rectangle represents the visible or safe zone, and the innermost rectangle represents the unfocused size.](./images/top-shelf/icons-and-images-content-layout-16x9_2x.png)
+![An illustration showing an outlined rectangle that contains a slightly smaller rectangle, which contains a slightly smaller rectangle. The outermost rectangle represents the actual size, the middle rectangle represents the visible or safe zone, and the innermost rectangle represents the unfocused size.](/images/com.apple.HIG/icons-and-images-content-layout-16x9@2x.png)
 
 
 
@@ -126,7 +126,7 @@ When a banner is in focus, a small, circular gesture on the remote’s Touch sur
 
 
 
-![An illustration showing a wide rectangle that contains of a smaller rectangle, which contains a slightly narrower rectangle. The outermost rectangle represents the actual size, the middle rectangle represents the visible or safe zone, and the innermost rectangle represents the unfocused size.](./images/top-shelf/icons-and-images-content-layout-extra-wide_2x.png)
+![An illustration showing a wide rectangle that contains of a smaller rectangle, which contains a slightly narrower rectangle. The outermost rectangle represents the actual size, the middle rectangle represents the visible or safe zone, and the innermost rectangle represents the unfocused size.](/images/com.apple.HIG/icons-and-images-content-layout-extra-wide@2x.png)
 
 
 

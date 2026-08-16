@@ -8,7 +8,7 @@
 
 
 
-![A sketch of bell with a small overlapping circle, suggesting a notification sound. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/managing-notifications/patterns-managing-notifications-intro_2x.png)
+![A sketch of bell with a small overlapping circle, suggesting a notification sound. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-managing-notifications-intro@2x.png)
 
 
 

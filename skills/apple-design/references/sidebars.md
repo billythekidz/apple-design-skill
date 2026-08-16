@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of the top portion of a window's sidebar displaying a section and some folders. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/sidebars/components-sidebar-intro_2x.png)
+![A stylized representation of the top portion of a window's sidebar displaying a section and some folders. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-sidebar-intro@2x.png)
 
 
 
@@ -61,7 +61,7 @@ A sidebar’s row height, text, and glyph size depend on its overall size, which
 
 
 
-![A partial screenshot of the Music app in visionOS. The app's window includes a sidebar for navigating the music library, and the secondary pane includes a grid of playlists.](./images/sidebars/visionos-sidebar-music_2x.png)
+![A partial screenshot of the Music app in visionOS. The app's window includes a sidebar for navigating the music library, and the secondary pane includes a grid of playlists.](/images/com.apple.HIG/visionos-sidebar-music@2x.png)
 
 
 

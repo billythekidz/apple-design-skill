@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a brightness slider. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/sliders/components-slider-intro_2x.png)
+![A stylized representation of a brightness slider. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-slider-intro@2x.png)
 
 
 
@@ -24,7 +24,7 @@ As a slider’s value changes, the portion of track between the minimum value an
 
 
 
-![An illustration of a horizontal linear slider without tick marks, followed by a text field and a stepper. The thumb is in the center of the slider and the text field displays 50%.](./images/sliders/sliders-text-field_2x.png)
+![An illustration of a horizontal linear slider without tick marks, followed by a text field and a stepper. The thumb is in the center of the slider and the text field displays 50%.](/images/com.apple.HIG/sliders-text-field@2x.png)
 
 
 
@@ -54,7 +54,7 @@ In a circular slider, the thumb appears as a small circle. Tick marks, when pres
 
 
 
-![A partial screenshot of the Energy Saver settings pane in macOS, cropped to show the slider that controls how long the display remains on after inactivity.](./images/sliders/sliders-labels_2x.png)
+![A partial screenshot of the Energy Saver settings pane in macOS, cropped to show the slider that controls how long the display remains on after inactivity.](/images/com.apple.HIG/sliders-labels@2x.png)
 
 
 

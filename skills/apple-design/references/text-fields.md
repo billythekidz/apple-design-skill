@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a text field containing a value. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/text-fields/components-text-field-intro_2x.png)
+![A stylized representation of a text field containing a value. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-text-field-intro@2x.png)
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-![A partial screenshot of two stacked text fields. The top field contains a number with four decimal places. The bottom field contains a currency value.](./images/text-fields/text-fields-formatted-text_2x.png)
+![A partial screenshot of two stacked text fields. The top field contains a number with four decimal places. The bottom field contains a currency value.](/images/com.apple.HIG/text-fields-formatted-text@2x.png)
 
 
 

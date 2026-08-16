@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a toolbar, with a Back control on the leading edge, and Compose, Share, and the More menu on the trailing edge. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/toolbars/components-toolbar-intro_2x.png)
+![A stylized representation of a toolbar, with a Back control on the leading edge, and Compose, Share, and the More menu on the trailing edge. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-toolbar-intro@2x.png)
 
 
 
@@ -67,7 +67,7 @@ A toolbar with navigation controls appears at the top of a window, helping peopl
 
 
 
-![An illustration of two toolbar items, with a Filter button on the leading side and a Done button on the trailing side. The buttons are ungrouped, and the Done button has the prominent style applied to indicate that it's the primary action.](./images/toolbars/toolbars-prominent-action-tinted_2x.png)
+![An illustration of two toolbar items, with a Filter button on the leading side and a Done button on the trailing side. The buttons are ungrouped, and the Done button has the prominent style applied to indicate that it's the primary action.](/images/com.apple.HIG/toolbars-prominent-action-tinted@2x.png)
 
 
 
@@ -81,7 +81,7 @@ You can position toolbar items in three locations: the leading edge, center area
 
 
 
-![A diagram of the top toolbar in the Freeform app on iPad. Callouts indicate the location of item groupings on the leading edge, center area, and trailing edge of the toolbar.](./images/toolbars/toolbars-ipad-anatomy_2x.png)
+![A diagram of the top toolbar in the Freeform app on iPad. Callouts indicate the location of item groupings on the leading edge, center area, and trailing edge of the toolbar.](/images/com.apple.HIG/toolbars-ipad-anatomy@2x.png)
 
 
 
@@ -117,7 +117,7 @@ In a macOS app, the toolbar resides in the frame at the top of a window, either 
 
 
 
-![A diagram of a Finder window in macOS with callouts showing the location of the toolbar and the window frame.](./images/toolbars/toolbars-mac-window-anatomy_2x.png)
+![A diagram of a Finder window in macOS with callouts showing the location of the toolbar and the window frame.](/images/com.apple.HIG/toolbars-mac-window-anatomy@2x.png)
 
 
 
@@ -129,7 +129,7 @@ In visionOS, the system-provided toolbar appears along the bottom edge of a wind
 
 
 
-![A screenshot of a toolbar along the bottom of the Notes app window in visionOS.](./images/toolbars/visionos-toolbar-notes-app_2x.png)
+![A screenshot of a toolbar along the bottom of the Notes app window in visionOS.](/images/com.apple.HIG/visionos-toolbar-notes-app@2x.png)
 
 
 
@@ -141,7 +141,7 @@ In visionOS, you can supply either a symbol or a text label for each toolbar ite
 
 
 
-![A screenshot of a toolbar in visionOS.](./images/toolbars/visionos-toolbar-standard-layout_2x.png)
+![A screenshot of a toolbar in visionOS.](/images/com.apple.HIG/visionos-toolbar-standard-layout@2x.png)
 
 
 

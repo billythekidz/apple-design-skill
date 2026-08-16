@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the iMessage App Store icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/imessage-apps-and-stickers/technologies-iMessage-Apps-intro_2x.png)
+![A sketch of the iMessage App Store icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-iMessage-Apps-intro@2x.png)
 
 
 

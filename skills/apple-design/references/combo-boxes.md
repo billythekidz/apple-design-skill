@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a combo box control displaying a list of cities. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/combo-boxes/components-combobox-intro_2x.png)
+![A stylized representation of a combo box control displaying a list of cities. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-combobox-intro@2x.png)
 
 
 

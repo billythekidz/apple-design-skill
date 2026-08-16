@@ -8,7 +8,7 @@
 
 
 
-![A sketch of two people, suggesting inclusion. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/inclusion/foundations-inclusion-intro_2x.png)
+![A sketch of two people, suggesting inclusion. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-inclusion-intro@2x.png)
 
 
 

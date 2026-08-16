@@ -8,7 +8,7 @@
 
 
 
-![A sketch of axes in the X, Y, and Z dimensions, suggesting three-dimensional layout. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/spatial-layout/foundations-spatial-layout-intro_2x.png)
+![A sketch of axes in the X, Y, and Z dimensions, suggesting three-dimensional layout. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-spatial-layout-intro@2x.png)
 
 
 
@@ -18,7 +18,7 @@ A person’s *field of view* is the space they can see without moving their head
 
 
 
-![A screenshot of a blank app window in visionOS. A series of concentric circles overlay the image, conveying 30-, 60-, and 90-degree fields of view.](./images/spatial-layout/visionos-field-of-view-layout_2x.png)
+![A screenshot of a blank app window in visionOS. A series of concentric circles overlay the image, conveying 30-, 60-, and 90-degree fields of view.](/images/com.apple.HIG/visionos-field-of-view-layout@2x.png)
 
 
 
@@ -37,7 +37,7 @@ Because people can view your content from any angle, incorporating small amounts
 
 
 
-![A screenshot of a 2D Notes window in visionOS. A note titled Nature Walks is open on the trailing side of the view, with sketches of leaves accompanied by handwritten text descriptions.](./images/spatial-layout/visionos-spatial-layout-2d-window_2x.png)
+![A screenshot of a 2D Notes window in visionOS. A note titled Nature Walks is open on the trailing side of the view, with sketches of leaves accompanied by handwritten text descriptions.](/images/com.apple.HIG/visionos-spatial-layout-2d-window@2x.png)
 
 
 

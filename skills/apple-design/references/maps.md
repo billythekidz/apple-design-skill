@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a tri-fold map, suggesting navigation. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/maps/technologies-maps-intro_2x.png)
+![A sketch of a tri-fold map, suggesting navigation. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-maps-intro@2x.png)
 
 
 
@@ -81,7 +81,7 @@ Full callout style place cards appear differently depending on a person’s devi
 
 
 
-![A screenshot of the full callout style place card in a map on iPhone. The place card appears as a sheet from the bottom edge of the device.](./images/maps/maps-place-card-iphone-full_2x.png)
+![A screenshot of the full callout style place card in a map on iPhone. The place card appears as a sheet from the bottom edge of the device.](/images/com.apple.HIG/maps-place-card-iphone-full@2x.png)
 
 
 
@@ -110,7 +110,7 @@ Apps connected with specific venues like shopping malls and stadiums can design 
 
 
 
-![A screenshot of a map on iPhone, zoomed in to show the location of an elevator in San Jose International airport. A minimized card containing information about the elevator is visible at the bottom of the screen.](./images/maps/indoor-maps-elevator_2x.png)
+![A screenshot of a map on iPhone, zoomed in to show the location of an elevator in San Jose International airport. A minimized card containing information about the elevator is visible at the bottom of the screen.](/images/com.apple.HIG/indoor-maps-elevator@2x.png)
 
 
 
@@ -122,7 +122,7 @@ Apps connected with specific venues like shopping malls and stadiums can design 
 
 
 
-![A screenshot of a map on iPhone, zoomed in to show the numbers and locations of some gates in a terminal at San Jose International airport. Other areas, including parking structures, are displayed without details. A minimized card containing a search field and a Browse SJC button is visible at the bottom of the screen.](./images/maps/indoor-maps-surroundings_2x.png)
+![A screenshot of a map on iPhone, zoomed in to show the numbers and locations of some gates in a terminal at San Jose International airport. Other areas, including parking structures, are displayed without details. A minimized card containing a search field and a Browse SJC button is visible at the bottom of the screen.](/images/com.apple.HIG/indoor-maps-surroundings@2x.png)
 
 
 
@@ -134,7 +134,7 @@ Apps connected with specific venues like shopping malls and stadiums can design 
 
 
 
-![A screenshot of a custom map in an app on iPhone, showing an airport concourse. Elements of the map are tinted green to correspond with the app's UI, and custom icons represent gates, security checkpoints, and an information booth.](./images/maps/indoor-maps-custom-map-design_2x.png)
+![A screenshot of a custom map in an app on iPhone, showing an airport concourse. Elements of the map are tinted green to correspond with the app's UI, and custom icons represent gates, security checkpoints, and an information booth.](/images/com.apple.HIG/indoor-maps-custom-map-design@2x.png)
 
 
 
@@ -148,7 +148,7 @@ On Apple Watch, maps are static snapshots of geographic locations. Place a map i
 
 
 
-![A screenshot of a map on Apple Watch, displaying Apple Park and some of the surrounding area.](./images/maps/maps-watch1_2x.png)
+![A screenshot of a map on Apple Watch, displaying Apple Park and some of the surrounding area.](/images/com.apple.HIG/maps-watch1@2x.png)
 
 
 

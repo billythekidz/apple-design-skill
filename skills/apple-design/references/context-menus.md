@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a contextual menu beneath a clicking pointer. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/context-menus/components-context-menu-intro_2x.png)
+![A stylized representation of a contextual menu beneath a clicking pointer. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-context-menu-intro@2x.png)
 
 
 

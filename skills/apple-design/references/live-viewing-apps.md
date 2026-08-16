@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a television containing a play button, suggesting playback of media. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/live-viewing-apps/patterns-live-viewing-intro_2x.png)
+![A sketch of a television containing a play button, suggesting playback of media. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-live-viewing-intro@2x.png)
 
 
 

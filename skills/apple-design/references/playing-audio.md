@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a speaker emitting sound waves, suggesting the playback of audio. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/playing-audio/patterns-playing-audio-intro_2x.png)
+![A sketch of a speaker emitting sound waves, suggesting the playback of audio. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-playing-audio-intro@2x.png)
 
 
 

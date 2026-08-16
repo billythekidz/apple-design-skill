@@ -8,7 +8,7 @@
 
 
 
-![A sketch of an upright hand, suggesting protection. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/privacy/foundations-privacy-intro_2x.png)
+![A sketch of an upright hand, suggesting protection. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-privacy-intro@2x.png)
 
 
 
@@ -18,7 +18,7 @@ When you submit a new or updated app, you must provide details about your privac
 
 
 
-![A screenshot of the App Privacy screen in an app’s App Store product page. The top card in the screen is titled Data Used to Track You and lists contact info, other data, and identifiers. The bottom card is titled Data Linked to You and lists health and fitness, financial info, contact info, purchases, location, and contacts.](./images/privacy/privacy-social-media-app-store-nutrition-labels_2x.png)
+![A screenshot of the App Privacy screen in an app’s App Store product page. The top card in the screen is titled Data Used to Track You and lists contact info, other data, and identifiers. The bottom card is titled Data Linked to You and lists health and fitness, financial info, contact info, purchases, location, and contacts.](/images/com.apple.HIG/privacy-social-media-app-store-nutrition-labels@2x.png)
 
 
 
@@ -82,7 +82,7 @@ In iOS, iPadOS, and watchOS, Core Location provides a button so people can grant
 
 
 
-![An image of a lozenge-shaped blue button that displays a white location indicator — that is, a narrow arrow head shape that points to the top right — followed by the text Current Location.](./images/privacy/location-button_2x.png)
+![An image of a lozenge-shaped blue button that displays a white location indicator — that is, a narrow arrow head shape that points to the top right — followed by the text Current Location.](/images/com.apple.HIG/location-button@2x.png)
 
 
 
@@ -90,7 +90,7 @@ The first time people open your app and tap a location button, the system displa
 
 
 
-![A screenshot of the alert displayed by the location button that appears on top of a background image showing a partial map. The alert reads Allow Social Media to access your location? Turning on location  will allow us to show you nearby post locations. Below this text the alert displays a small image of the map, zoomed in to show part of Cupertino. Below the map are three buttons; from the top the titles are Allow Once, Allow While Using App, and Don't Allow.](./images/privacy/privacy-social-media-map-location-alert_2x.png)
+![A screenshot of the alert displayed by the location button that appears on top of a background image showing a partial map. The alert reads Allow Social Media to access your location? Turning on location  will allow us to show you nearby post locations. Below this text the alert displays a small image of the map, zoomed in to show part of Cupertino. Below the map are three buttons; from the top the titles are Allow Once, Allow While Using App, and Don't Allow.](/images/com.apple.HIG/privacy-social-media-map-location-alert@2x.png)
 
 
 

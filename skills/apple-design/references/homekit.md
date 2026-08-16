@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the HomeKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/homekit/technologies-HomeKit-intro_2x.png)
+![A sketch of the HomeKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-HomeKit-intro@2x.png)
 
 
 
@@ -178,7 +178,7 @@ Use the HomeKit icon in setup or instructional communications related to HomeKit
 
 
 
-![The HomeKit icon.](./images/homekit/homekit-glyph_2x.png)
+![The HomeKit icon.](/images/com.apple.HIG/homekit-glyph@2x.png)
 
 
 
@@ -186,7 +186,7 @@ In addition, you can use the Apple Home app icon when referencing the Apple Home
 
 
 
-![The Apple Home app icon, which includes a stylized house with a chimney on the right side of its roof, depicted in graduated shades of orange.](./images/homekit/homeapp-icon_2x.png)
+![The Apple Home app icon, which includes a stylized house with a chimney on the right side of its roof, depicted in graduated shades of orange.](/images/com.apple.HIG/homeapp-icon@2x.png)
 
 
 
@@ -202,7 +202,7 @@ Use the HomeKit icon on white or light backgrounds when other technology icons a
 
 
 
-![A black outlined HomeKit icon.](./images/homekit/homekit-black-icon-set_2x.png)
+![A black outlined HomeKit icon.](/images/com.apple.HIG/homekit-black-icon-set@2x.png)
 
 
 
@@ -212,7 +212,7 @@ Use the HomeKit icon on black or dark backgrounds when other technology icons ap
 
 
 
-![A white outlined HomeKit icon.](./images/homekit/homekit-white-icon-set_2x.png)
+![A white outlined HomeKit icon.](/images/com.apple.HIG/homekit-white-icon-set@2x.png)
 
 
 
@@ -222,7 +222,7 @@ Use a custom color when other technology icons appear in the same color.
 
 
 
-![A blue outlined HomeKit icon.](./images/homekit/homekit-custom-color-icon-set_2x.png)
+![A blue outlined HomeKit icon.](/images/com.apple.HIG/homekit-custom-color-icon-set@2x.png)
 
 
 
@@ -230,7 +230,7 @@ Use a custom color when other technology icons appear in the same color.
 
 
 
-![An illustration of three app icons listed in a horizontal row. Text above the icons reads 'Integrate with'. The leftmost app icon is the HomeKit icon in a circle, above the text 'Apple HomeKit'. The remaining two app icons contain squares with dashed frames witihn circles, above text that reads 'Technology'.](./images/homekit/homekit-settings_2x.png)
+![An illustration of three app icons listed in a horizontal row. Text above the icons reads 'Integrate with'. The leftmost app icon is the HomeKit icon in a circle, above the text 'Apple HomeKit'. The remaining two app icons contain squares with dashed frames witihn circles, above text that reads 'Technology'.](/images/com.apple.HIG/homekit-settings@2x.png)
 
 
 

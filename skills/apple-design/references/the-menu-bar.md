@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of the macOS menu bar displaying a selected menu. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/the-menu-bar/components-the-menu-bar-intro_2x.png)
+![A stylized representation of the macOS menu bar displaying a selected menu. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-the-menu-bar-intro@2x.png)
 
 
 
@@ -20,7 +20,7 @@ Keyboard shortcuts in iPadOS use the same patterns as in macOS. For guidance, se
 
 
 
-![An illustration of an app window on iPad, with its menu bar appearing at the top of the screen and the Edit menu open.](./images/the-menu-bar/menu-bar-ipad-overview_2x.png)
+![An illustration of an app window on iPad, with its menu bar appearing at the top of the screen and the Edit menu open.](/images/com.apple.HIG/menu-bar-ipad-overview@2x.png)
 
 
 
@@ -266,7 +266,7 @@ When necessary, the system hides menu bar extras to make room for app menus. Sim
 
 
 
-![A screenshot of the Input menu bar extra and its menu.](./images/the-menu-bar/menu-bar-extras_2x.png)
+![A screenshot of the Input menu bar extra and its menu.](/images/com.apple.HIG/menu-bar-extras@2x.png)
 
 
 

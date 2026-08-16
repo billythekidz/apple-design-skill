@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a menu containing a selected item and displaying a submenu. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/menus/components-menus-intro_2x.png)
+![A stylized representation of a menu containing a selected item and displaying a submenu. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-menus-intro@2x.png)
 
 
 
@@ -44,7 +44,7 @@ A menu item’s label describes what it does and may include a symbol if it help
 
 
 
-![An illustration of a menu containing two groups. The top group contains four items, and none of them have a corresponding icon. The bottom group contains two items, and each of them have an icon.](./images/menus/menus-groups-visual-treatment_2x.png)
+![An illustration of a menu containing two groups. The top group contains four items, and none of them have a corresponding icon. The bottom group contains two items, and each of them have an icon.](/images/com.apple.HIG/menus-groups-visual-treatment@2x.png)
 
 
 
@@ -78,7 +78,7 @@ Menu items often represent attributes or objects that people can turn on or off.
 
 
 
-![An illustration of a menu containing four items, with a checkmark icon on the leading edge of the second item.](./images/menus/menus-toggled-item_2x.png)
+![An illustration of a menu containing four items, with a checkmark icon on the leading edge of the second item.](/images/com.apple.HIG/menus-toggled-item@2x.png)
 
 
 
@@ -110,7 +110,7 @@ In iOS and iPadOS, a menu can display items in one of the following three layout
 
 
 
-![A diagram showing small, medium, and large menu layouts, each containing the same set of menu items.](./images/menus/small-medium-large-menu-layouts_2x.png)
+![A diagram showing small, medium, and large menu layouts, each containing the same set of menu items.](/images/com.apple.HIG/small-medium-large-menu-layouts@2x.png)
 
 
 
@@ -130,7 +130,7 @@ In visionOS, a menu can display items using the small or large layout styles tha
 
 
 
-![A partial screenshot showing an app window in visionOS. The window contains several buttons, including a 'More' button, which is selected. A menu containing a list of actions is displayed beneath the button.](./images/menus/visionos-notes-menu-popover-style_2x.png)
+![A partial screenshot showing an app window in visionOS. The window contains several buttons, including a 'More' button, which is selected. A menu containing a list of actions is displayed beneath the button.](/images/com.apple.HIG/visionos-notes-menu-popover-style@2x.png)
 
 
 

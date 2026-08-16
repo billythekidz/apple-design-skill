@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a tab bar containing four placeholder icons with names. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/tab-bars/components-tab-bar-intro_2x.png)
+![A stylized representation of a tab bar containing four placeholder icons with names. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-tab-bar-intro@2x.png)
 
 
 
@@ -32,7 +32,7 @@ Tab bars help people understand the different types of information or functional
 
 
 
-![An illustration of two iPhone devices side by side. The first iPhone is in landscape orientation with a tab bar at the bottom of the screen, with tab bar icons on the leading edge of each tab and tab labels on the trailing edge. The second iPhone is in portrait orientation with a tab bar at the bottom of the screen, with tab bar icons above their respective tab labels.](./images/tab-bars/tab-bar-landscape_2x.png)
+![An illustration of two iPhone devices side by side. The first iPhone is in landscape orientation with a tab bar at the bottom of the screen, with tab bar icons on the leading edge of each tab and tab labels on the trailing edge. The second iPhone is in portrait orientation with a tab bar at the bottom of the screen, with tab bar icons above their respective tab labels.](/images/com.apple.HIG/tab-bar-landscape@2x.png)
 
 
 
@@ -40,7 +40,7 @@ If you’re creating custom tab bar icons, see [Apple Design Resources](https://
 
 
 
-![A diagram of a tab bar, with callouts indicating the location of the tab bar icon and tab label.](./images/tab-bars/tab-bar-anatomy-callouts_2x.png)
+![A diagram of a tab bar, with callouts indicating the location of the tab bar icon and tab label.](/images/com.apple.HIG/tab-bar-anatomy-callouts@2x.png)
 
 
 
@@ -48,7 +48,7 @@ If you’re creating custom tab bar icons, see [Apple Design Resources](https://
 
 
 
-![An illustration of the bottom half of an iPhone in portrait orientation, with a tab bar at the bottom of the screen. Two of the tabs have red circular badges attached, indicating the presence of critical information.](./images/tab-bars/tab-bar-badges-iphone_2x.png)
+![An illustration of the bottom half of an iPhone in portrait orientation, with a tab bar at the bottom of the screen. Two of the tabs have red circular badges attached, indicating the presence of critical information.](/images/com.apple.HIG/tab-bar-badges-iphone@2x.png)
 
 
 

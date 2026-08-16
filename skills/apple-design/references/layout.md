@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a small rectangle in the upper-left quadrant of a larger rectangle, suggesting the position of a user interface element within a window. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/layout/foundations-layout-intro_2x.png)
+![A sketch of a small rectangle in the upper-left quadrant of a larger rectangle, suggesting the position of a user interface element within a window. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-layout-intro@2x.png)
 
 
 
@@ -28,7 +28,7 @@ When your content doesn’t span the full window, use a background extension vie
 
 
 
-![A screenshot of a full screen iPad app with a sidebar on the leading edge. A photo of Mount Fuji fills the top half of the content area. The photo subtly blurs as it reaches the top of the screen, where toolbar items float above it grouped on the trailing edge. Where the photo meets the sidebar, the image flips, blurs, and extends fully beneath the sidebar to the edge of the screen.](./images/layout/layout-background-extention-view_2x.png)
+![A screenshot of a full screen iPad app with a sidebar on the leading edge. A photo of Mount Fuji fills the top half of the content area. The photo subtly blurs as it reaches the top of the screen, where toolbar items float above it grouped on the trailing edge. Where the photo meets the sidebar, the image flips, blurs, and extends fully beneath the sidebar to the edge of the screen.](/images/com.apple.HIG/layout-background-extention-view@2x.png)
 
 
 
@@ -111,7 +111,7 @@ People can freely resize windows down to a minimum width and height, similar to 
 
 
 
-![An illustration of a TV with a safe zone border on all sides. In width, the top and bottom borders measure 60 points, and the side borders both measure 80 points.](./images/layout/visual-design-safe-zone_2x.png)
+![An illustration of a TV with a safe zone border on all sides. In width, the top and bottom borders measure 60 points, and the side borders both measure 80 points.](/images/com.apple.HIG/visual-design-safe-zone@2x.png)
 
 
 
@@ -119,7 +119,7 @@ People can freely resize windows down to a minimum width and height, similar to 
 
 
 
-![An illustration that uses vertical shaded rectangles to show padding between focusable items.](./images/layout/visual-design-padding_2x.png)
+![An illustration that uses vertical shaded rectangles to show padding between focusable items.](/images/com.apple.HIG/visual-design-padding@2x.png)
 
 
 
@@ -156,7 +156,7 @@ The guidance below can help you lay out content within the windows of your visio
 
 
 
-![An illustration of the Workout app’s main list of workouts on Apple Watch. A callout indicates that the currently focused workout item spans the full width of the available screen area.](./images/layout/layout-full-width_2x.png)
+![An illustration of the Workout app’s main list of workouts on Apple Watch. A callout indicates that the currently focused workout item spans the full width of the available screen area.](/images/com.apple.HIG/layout-full-width@2x.png)
 
 
 
@@ -164,7 +164,7 @@ The guidance below can help you lay out content within the windows of your visio
 
 
 
-![A diagram of an Apple Watch screen showing two side-by-side buttons beneath three lines of text.](./images/layout/layout-controls_2x.png)
+![A diagram of an Apple Watch screen showing two side-by-side buttons beneath three lines of text.](/images/com.apple.HIG/layout-controls@2x.png)
 
 
 

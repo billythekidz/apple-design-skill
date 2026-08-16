@@ -8,7 +8,7 @@
 
 
 
-![A sketch of an iPad overlapping a Mac, suggesting an iPad app running on Mac. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/mac-catalyst/technologies-Mac-Catalyst-intro_2x.png)
+![A sketch of an iPad overlapping a Mac, suggesting an iPad app running on Mac. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-Mac-Catalyst-intro@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a curved arrow beside a Digital Crown, that suggests turning the Digital Crown. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/digital-crown/inputs-digital-crown-intro_2x.png)
+![A sketch of a curved arrow beside a Digital Crown, that suggests turning the Digital Crown. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-digital-crown-intro@2x.png)
 
 
 

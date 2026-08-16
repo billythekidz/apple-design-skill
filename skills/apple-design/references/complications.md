@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of an Apple Watch face that includes the time and a set of differently sized complications with labels. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/complications/components-complications-intro_2x.png)
+![A stylized representation of an Apple Watch face that includes the time and a set of differently sized complications with labels. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-complications-intro@2x.png)
 
 
 
@@ -62,7 +62,7 @@ You can also add text to accompany a regular-size circular image, using a design
 
 
 
-![A line of white text that appears to follow the curve of the upper third of a circle. The text reads 8:00 AM yoga, flow studio. Centered below the text is the calendar date friday twenty-three displayed in a circular area.](./images/complications/bezel-circular-text_2x.png)
+![A line of white text that appears to follow the curve of the upper third of a circle. The text reads 8:00 AM yoga, flow studio. Centered below the text is the calendar date friday twenty-three displayed in a circular area.](/images/com.apple.HIG/bezel-circular-text@2x.png)
 
 
 
@@ -163,7 +163,7 @@ The utilitarian large layout is primarily text-based, but also supports an inter
 
 
 
-![The text eleven AM photo shoot displayed on one line in a large text size.](./images/complications/complication-utility-large-flat_2x.png)
+![The text eleven AM photo shoot displayed on one line in a large text size.](/images/com.apple.HIG/complication-utility-large-flat@2x.png)
 
 
 

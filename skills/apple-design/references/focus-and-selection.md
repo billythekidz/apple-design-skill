@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a frame around a circular interface element, suggesting locking focus on an object. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/focus-and-selection/inputs-focus-and-selection-intro_2x.png)
+![A sketch of a frame around a circular interface element, suggesting locking focus on an object. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-focus-and-selection-intro@2x.png)
 
 
 
@@ -49,7 +49,7 @@ The *halo* focus effect — also known as the *focus ring* — displays a custom
 
 
 
-![An illustration of a collection view of photos showing the standard halo effect that outlines the focused photo.](./images/focus-and-selection/focus-and-selection-halo-focus-effect_2x.png)
+![An illustration of a collection view of photos showing the standard halo effect that outlines the focused photo.](/images/com.apple.HIG/focus-and-selection-halo-focus-effect@2x.png)
 
 
 
@@ -57,7 +57,7 @@ The *halo* focus effect — also known as the *focus ring* — displays a custom
 
 
 
-![An illustration of a collection view of photos showing a rounded-rectangle halo effect that outlines the focused photo.](./images/focus-and-selection/focus-and-selection-customized-halo_2x.png)
+![An illustration of a collection view of photos showing a rounded-rectangle halo effect that outlines the focused photo.](/images/com.apple.HIG/focus-and-selection-customized-halo@2x.png)
 
 
 
@@ -65,7 +65,7 @@ The *highlighted* appearance — in which the component’s text uses the app’
 
 
 
-![An illustration of a list of menu items with the second item highlighted. The item's title and icon are tinted with a red accent color.](./images/focus-and-selection/focus-and-selection-highlighted-appearance_2x.png)
+![An illustration of a list of menu items with the second item highlighted. The item's title and icon are tinted with a red accent color.](/images/com.apple.HIG/focus-and-selection-highlighted-appearance@2x.png)
 
 
 

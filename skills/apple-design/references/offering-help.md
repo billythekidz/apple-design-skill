@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a question mark, suggesting help is available. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/offering-help/patterns-offering-help-intro_2x.png)
+![A sketch of a question mark, suggesting help is available. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-offering-help-intro@2x.png)
 
 
 
@@ -50,7 +50,7 @@ A *tooltip* (called a *help tag* in user documentation) displays a small, transi
 
 
 
-![An illustration of a toolbar in macOS Finder with the pointer over the Back button. A tooltip with the title See folders you viewed previously appears beneath the pointer.](./images/offering-help/offering-help-macos-tooltip-help-tag_2x.png)
+![An illustration of a toolbar in macOS Finder with the pointer over the Back button. A tooltip with the title See folders you viewed previously appears beneath the pointer.](/images/com.apple.HIG/offering-help-macos-tooltip-help-tag@2x.png)
 
 
 

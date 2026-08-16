@@ -8,7 +8,7 @@
 
 
 
-![A sketch of an arrow-shaped pointer, suggesting use of a mouse or trackpad. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/pointing-devices/inputs-pointing-devices-intro_2x.png)
+![A sketch of an arrow-shaped pointer, suggesting use of a mouse or trackpad. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-pointing-devices-intro@2x.png)
 
 
 
@@ -106,7 +106,7 @@ The system also applies magnetism to text-entry areas, where it can help people 
 
 
 
-![An illustration of a custom pointer hovering over a resize handle on the edge of a shaded rectangle. Above the pointer is a small annotation that displays the image’s width and height values against a dark background.](./images/pointing-devices/useful-pointer-annotation_2x.png)
+![An illustration of a custom pointer hovering over a resize handle on the edge of a shaded rectangle. Above the pointer is a small annotation that displays the image’s width and height values against a dark background.](/images/com.apple.HIG/useful-pointer-annotation@2x.png)
 
 
 

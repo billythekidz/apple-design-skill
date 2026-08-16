@@ -8,7 +8,7 @@
 
 
 
-![A sketch of sparkly stars, suggesting intelligence. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/machine-learning/technologies-machine-learning-intro_2x.png)
+![A sketch of sparkly stars, suggesting intelligence. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-machine-learning-intro@2x.png)
 
 
 
@@ -79,7 +79,7 @@ Explicit feedback provides actionable information your app can use to improve th
 
 
 
-![An illustration of a menu above a screen representing presented content on iPhone. The menu includes a variety of options for interacting with the content on screen, including an option to 'Love' the presented content, and an option to 'Suggest Less Like This.'](./images/machine-learning/machine-learning-explicit-feedback_2x.png)
+![An illustration of a menu above a screen representing presented content on iPhone. The menu includes a variety of options for interacting with the content on screen, including an option to 'Love' the presented content, and an option to 'Suggest Less Like This.'](/images/com.apple.HIG/machine-learning-explicit-feedback@2x.png)
 
 
 
@@ -109,7 +109,7 @@ Implicit feedback is information that arises as people interact with your app’
 
 
 
-![A screenshot of a Workout app screen on Apple Watch. The screen includes text that reads 'It looks like you're working out', above buttons in a scrolling list. The two visible buttons are titled 'Record Outdoor Run' and 'Record Indoor Run'.](./images/machine-learning/machine-learning-implicit-feedback_2x.png)
+![A screenshot of a Workout app screen on Apple Watch. The screen includes text that reads 'It looks like you're working out', above buttons in a scrolling list. The two visible buttons are titled 'Record Outdoor Run' and 'Record Indoor Run'.](/images/com.apple.HIG/machine-learning-implicit-feedback@2x.png)
 
 
 
@@ -137,7 +137,7 @@ Calibration is a process during which people provide information that a feature 
 
 
 
-![A screenshot of the Face ID setup screen on iPhone. A face appears inside the circular frame and tick marks around the frame show that a face scan hasn't begun yet. Text below the frame explains how to perform a scan, and appears above a 'Get Started' button.](./images/machine-learning/machine-learning-calibration_2x.png)
+![A screenshot of the Face ID setup screen on iPhone. A face appears inside the circular frame and tick marks around the frame show that a face scan hasn't begun yet. Text below the frame explains how to perform a scan, and appears above a 'Get Started' button.](/images/com.apple.HIG/machine-learning-calibration@2x.png)
 
 
 
@@ -201,7 +201,7 @@ People use corrections to fix mistakes that apps make. For example, if a photo a
 
 
 
-![A screenshot of the Camera app on iPhone showing a photo of a flower in editing mode. The crop and straighten function is selected, revealing grab bars on all edges of the photo. The tilt wheel button below the photo shows that someone chose a small tilt in the positive direction.](./images/machine-learning/machine-learning-corrections_2x.png)
+![A screenshot of the Camera app on iPhone showing a photo of a flower in editing mode. The crop and straighten function is selected, revealing grab bars on all edges of the photo. The tilt wheel button below the photo shows that someone chose a small tilt in the positive direction.](/images/com.apple.HIG/machine-learning-corrections@2x.png)
 
 
 
@@ -225,7 +225,7 @@ Depending on the design of your feature, it might work best to present a single 
 
 
 
-![A screenshot of the Maps app on Mac, displaying the San Francisco Bay Area. The map shows three different routes between San Francisco and Apple Park.](./images/machine-learning/machine-learning-multiple-options_2x.png)
+![A screenshot of the Maps app on Mac, displaying the San Francisco Bay Area. The map shows three different routes between San Francisco and Apple Park.](/images/com.apple.HIG/machine-learning-multiple-options@2x.png)
 
 
 
@@ -251,7 +251,7 @@ Confidence indicates the measure of certainty for a result. Not all models produ
 
 
 
-![A screenshot of a flight tracker app on iPhone. The screen displays a flight from SFO to LAX from June 3rd through June 7th. The screen shows the current lowest flight cost with a recommendation to watch over the next four weeks for a lower price. The screen includes buttons labeled 'Track' and 'View Flights', and a search field to find new dates for comparison. The active tab on the screen is titled 'Track', and there are other tabs titled 'Search' and 'Flights.'](./images/machine-learning/machine-learning-confidence_2x.png)
+![A screenshot of a flight tracker app on iPhone. The screen displays a flight from SFO to LAX from June 3rd through June 7th. The screen shows the current lowest flight cost with a recommendation to watch over the next four weeks for a lower price. The screen includes buttons labeled 'Track' and 'View Flights', and a search field to find new dates for comparison. The active tab on the screen is titled 'Track', and there are other tabs titled 'Search' and 'Flights.'](/images/com.apple.HIG/machine-learning-confidence@2x.png)
 
 
 
@@ -277,7 +277,7 @@ An attribution expresses the underlying basis or rationale for a result, without
 
 
 
-![An illustration of a screen on iPhone, which shows an area that contains recommended videos. The area is labeled 'For You' and includes a row of two video icons. A third video icon is partially visible on the right side of the screen, hinting at additional recommendations.](./images/machine-learning/machine-learning-attribution_2x.png)
+![An illustration of a screen on iPhone, which shows an area that contains recommended videos. The area is labeled 'For You' and includes a row of two video icons. A third video icon is partially visible on the right side of the screen, hinting at additional recommendations.](/images/com.apple.HIG/machine-learning-attribution@2x.png)
 
 
 
@@ -308,7 +308,7 @@ An important part of the design process is to identify the scenarios where limit
 
 
 
-![A screenshot of the Memoji recording sheet on iPhone. The app shows a person's Memoji, above a message that reads 'Low light', which helps convey that additional light is required for a high-quality recording.](./images/machine-learning/machine-learning-limitations_2x.png)
+![A screenshot of the Memoji recording sheet on iPhone. The app shows a person's Memoji, above a message that reads 'Low light', which helps convey that additional light is required for a high-quality recording.](/images/com.apple.HIG/machine-learning-limitations@2x.png)
 
 
 

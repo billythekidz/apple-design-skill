@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a sheet extending down from the top of a window. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/sheets/components-sheet-intro_2x.png)
+![A stylized representation of a sheet extending down from the top of a window. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-sheet-intro@2x.png)
 
 
 
@@ -50,7 +50,7 @@ In iOS and iPadOS, for sheets with a single view, the Cancel button belongs on t
 
 
 
-![An illustration of the top half of a sheet on iPhone. A Cancel button appears in the top-left corner of the view, and a Done button appears in the top-right corner.](./images/sheets/sheets-buttons-placement-cancel-done_2x.png)
+![An illustration of the top half of a sheet on iPhone. A Cancel button appears in the top-left corner of the view, and a Done button appears in the top-right corner.](/images/com.apple.HIG/sheets-buttons-placement-cancel-done@2x.png)
 
 
 
@@ -74,7 +74,7 @@ In macOS, a sheet is a cardlike view with rounded corners that floats on top of 
 
 
 
-![A screenshot of the Notes app, with the What's New in Notes sheet centered on top of a dimmed Notes document in the background.](./images/sheets/sheets-macos-notes_2x.png)
+![A screenshot of the Notes app, with the What's New in Notes sheet centered on top of a dimmed Notes document in the background.](/images/com.apple.HIG/sheets-macos-notes@2x.png)
 
 
 
@@ -98,7 +98,7 @@ In watchOS, a sheet is a full-screen view that slides over your app’s current 
 
 
 
-![A screenshot of a sheet with a primary Action button and a default cancel button on Apple Watch.](./images/sheets/sheets-watch-overlay_2x.png)
+![A screenshot of a sheet with a primary Action button and a default cancel button on Apple Watch.](/images/com.apple.HIG/sheets-watch-overlay@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of the Camera Control.](./images/camera-control/inputs-camera-control-intro_2x.png)
+![A stylized representation of the Camera Control.](/images/com.apple.HIG/inputs-camera-control-intro@2x.png)
 
 
 
@@ -16,7 +16,7 @@ On iPhone 16 and iPhone 16 Pro models, the Camera Control quickly opens your app
 
 
 
-![A screenshot showing callouts to the Camera Control and overlay on iPhone in landscape orientation.](./images/camera-control/camera-control-button-callout_2x.png)
+![A screenshot showing callouts to the Camera Control and overlay on iPhone in landscape orientation.](/images/com.apple.HIG/camera-control-button-callout@2x.png)
 
 
 
@@ -24,7 +24,7 @@ The overlay allows people to quickly adjust controls. A person can view the avai
 
 
 
-![A partial screenshot of the Camera Control overlay displaying its controls.](./images/camera-control/camera-control-picker_2x.png)
+![A partial screenshot of the Camera Control overlay displaying its controls.](/images/com.apple.HIG/camera-control-picker@2x.png)
 
 
 
@@ -51,7 +51,7 @@ In addition to custom controls that you create, the system provides a set of sta
 
 
 
-![Partial screenshots showing the Camera Control overlay with its control's label in the viewport in portrait and landscape orientations on iPhone.](./images/camera-control/camera-control-portrait-landscape-orientation_2x.png)
+![Partial screenshots showing the Camera Control overlay with its control's label in the viewport in portrait and landscape orientations on iPhone.](/images/com.apple.HIG/camera-control-portrait-landscape-orientation@2x.png)
 
 
 

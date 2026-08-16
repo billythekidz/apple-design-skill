@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a spinning indeterminate activity indicator, suggesting data loading. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/loading/patterns-loading-intro_2x.png)
+![A sketch of a spinning indeterminate activity indicator, suggesting data loading. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-loading-intro@2x.png)
 
 
 

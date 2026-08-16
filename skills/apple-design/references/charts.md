@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a bar chart. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/charts/components-charts-intro_2x.png)
+![A stylized representation of a bar chart. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-charts-intro@2x.png)
 
 
 
@@ -26,7 +26,7 @@ A chart comprises several graphical elements that depict the values in a dataset
 
 
 
-![A bar chart with callouts that identify chart components, such as axes, grid lines, marks, ticks, axis value labels, and the overall plot area.](./images/charts/charts-anatomy_2x.png)
+![A bar chart with callouts that identify chart components, such as axes, grid lines, marks, ticks, axis value labels, and the overall plot area.](/images/com.apple.HIG/charts-anatomy@2x.png)
 
 
 
@@ -52,7 +52,7 @@ Clear, accurate descriptions can help make a chart more approachable and accessi
 
 
 
-![A bar chart that depicts the number of steps for each day in a month.](./images/charts/charts-bar-marks_2x.png)
+![A bar chart that depicts the number of steps for each day in a month.](/images/com.apple.HIG/charts-bar-marks@2x.png)
 
 
 
@@ -60,7 +60,7 @@ Clear, accurate descriptions can help make a chart more approachable and accessi
 
 
 
-![A line chart that depicts the performance of a stock over a five-year period.](./images/charts/charts-line-marks_2x.png)
+![A line chart that depicts the performance of a stock over a five-year period.](/images/com.apple.HIG/charts-line-marks@2x.png)
 
 
 
@@ -68,7 +68,7 @@ Clear, accurate descriptions can help make a chart more approachable and accessi
 
 
 
-![A point-mark chart that depicts per-day readings of heartbeats per minute over a 5 1/2-month period.](./images/charts/charts-point-marks_2x.png)
+![A point-mark chart that depicts per-day readings of heartbeats per minute over a 5 1/2-month period.](/images/com.apple.HIG/charts-point-marks@2x.png)
 
 
 
@@ -80,7 +80,7 @@ Clear, accurate descriptions can help make a chart more approachable and accessi
 
 
 
-![An illustration of Battery Settings, which uses a chart to depict battery charge over time, where the charge can vary within a fixed range from 0% to 100%.](./images/charts/charts-fixed-range-axis_2x.png)
+![An illustration of Battery Settings, which uses a chart to depict battery charge over time, where the charge can vary within a fixed range from 0% to 100%.](/images/com.apple.HIG/charts-fixed-range-axis@2x.png)
 
 
 
@@ -100,7 +100,7 @@ In contrast, consider using a dynamic range when the possible data values can va
 
 
 
-![An illustration of the rain forecast for the next hour in the Weather app, which uses succinct, plain language to describe the expected precipitation.](./images/charts/charts-descriptive-content_2x.png)
+![An illustration of the rain forecast for the next hour in the Weather app, which uses succinct, plain language to describe the expected precipitation.](/images/com.apple.HIG/charts-descriptive-content@2x.png)
 
 
 
@@ -130,7 +130,7 @@ As in all other parts of your interface, using color in a chart can help you cla
 
 
 
-![An illustration of a blood pressure chart in the Health app that uses a red circle to represent systolic values and a black or white diamond to represent diastolic values.](./images/charts/charts-colors_2x.png)
+![An illustration of a blood pressure chart in the Health app that uses a red circle to represent systolic values and a black or white diamond to represent diastolic values.](/images/com.apple.HIG/charts-colors@2x.png)
 
 
 
@@ -138,7 +138,7 @@ As in all other parts of your interface, using color in a chart can help you cla
 
 
 
-![An illustration of iPhone Storage Settings, which uses a single bar mark containing several segments of different colors to show the relative space taken by items such as music, apps, and photos. The bar includes a narrow strip of empty space between each pair of segments.](./images/charts/charts-colors-stacked_2x.png)
+![An illustration of iPhone Storage Settings, which uses a single bar mark containing several segments of different colors to show the relative space taken by items such as music, apps, and photos. The bar includes a narrow strip of empty space between each pair of segments.](/images/com.apple.HIG/charts-colors-stacked@2x.png)
 
 
 
@@ -155,7 +155,7 @@ When you use Swift Charts to create a chart, you get a default implementation of
 
 
 
-![An illustration of a chart in Maps that shows the range of elevations over the total distance of the trip. A VoiceOver focus indicator is visible on top of the chart, containing approximately one-fifth of the total distance and elevation.](./images/charts/charts-bar-chart-with-voiceover-focus_2x.png)
+![An illustration of a chart in Maps that shows the range of elevations over the total distance of the trip. A VoiceOver focus indicator is visible on top of the chart, containing approximately one-fifth of the total distance and elevation.](/images/com.apple.HIG/charts-bar-chart-with-voiceover-focus@2x.png)
 
 
 

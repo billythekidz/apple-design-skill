@@ -8,7 +8,7 @@
 
 
 
-![A partial screenshot of controls in Control Center, such as the Airplane Mode toggle, Wi-Fi toggle, and AirPlay button. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/controls/components-controls-intro_2x.png)
+![A partial screenshot of controls in Control Center, such as the Airplane Mode toggle, Wi-Fi toggle, and AirPlay button. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-controls-intro@2x.png)
 
 
 
@@ -22,7 +22,7 @@ Controls contain a symbol image, a title, and, optionally, a value. The symbol v
 
 
 
-![A diagram showing the placement of the symbol image, the title, and the value for a control toggle.](./images/controls/control-medium-anatomy_2x.png)
+![A diagram showing the placement of the symbol image, the title, and the value for a control toggle.](/images/com.apple.HIG/control-medium-anatomy@2x.png)
 
 
 
@@ -48,7 +48,7 @@ Controls display their information differently depending on where they appear:
 
 
 
-![A representation of a control with the ability to set an option to a value a person chooses.](./images/controls/control-configuration-options_2x.png)
+![A representation of a control with the ability to set an option to a value a person chooses.](/images/com.apple.HIG/control-configuration-options@2x.png)
 
 
 

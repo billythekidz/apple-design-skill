@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of an iPhone status bar with labels showing the time and cellular, Wi-Fi, and battery levels. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/status-bars/components-status-bar-intro_2x.png)
+![A stylized representation of an iPhone status bar with labels showing the time and cellular, Wi-Fi, and battery levels. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-status-bar-intro@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a snippet, showing a proposed date and time for a Calendar event along with a Done button. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/snippets/components-snippets-intro_2x.png)
+![A stylized representation of a snippet, showing a proposed date and time for a Calendar event along with a Done button. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-snippets-intro@2x.png)
 
 
 
@@ -30,7 +30,7 @@ A snippet consists of the following elements:
 
 
 
-![An illustration of a snippet's anatomy. The dialogue appears at the top of the snippet. The custom view appears in the middle, with a maximum height of 400 pt. Two system-provided buttons appear at the bottom: the secondary button on the left and the primary button on the right.](./images/snippets/snippets-custom-view-layout_2x.png)
+![An illustration of a snippet's anatomy. The dialogue appears at the top of the snippet. The custom view appears in the middle, with a maximum height of 400 pt. Two system-provided buttons appear at the bottom: the secondary button on the left and the primary button on the right.](/images/com.apple.HIG/snippets-custom-view-layout@2x.png)
 
 
 

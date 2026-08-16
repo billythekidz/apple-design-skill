@@ -8,7 +8,7 @@
 
 
 
-![A sketch of progressively larger curved lines emerging from the bottom corner of an ID card, suggesting ID Verifier. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/id-verifier/technologies-ID-Verifier-Apps-intro_2x.png)
+![A sketch of progressively larger curved lines emerging from the bottom corner of an ID card, suggesting ID Verifier. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-ID-Verifier-Apps-intro@2x.png)
 
 
 

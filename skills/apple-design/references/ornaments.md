@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of an ornament at the bottom of a window shown on top of a grid that suggests the canvas of a design tool. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/ornaments/components-ornaments-intro_2x.png)
+![A stylized representation of an ornament at the bottom of a window shown on top of a grid that suggests the canvas of a design tool. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-ornaments-intro@2x.png)
 
 
 

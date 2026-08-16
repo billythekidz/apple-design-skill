@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the App Store icon. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/app-icons/foundations-app-icons-intro_2x.png)
+![A sketch of the App Store icon. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-app-icons-intro@2x.png)
 
 
 
@@ -16,7 +16,7 @@ Your app icon is a crucial aspect of your app’s or game’s branding and user 
 
 
 
-![An image that shows three variations of the Photos app's app icon as it appears on different platforms. The first variation is a rounded rectangle shape, and represents the iOS, iPadOS, and macOS icons. The second variation is an elongated, rounded rectangular shape, and represents the tvOS icon. The third variation is a circular shape, and represents the visionOS and watchOS icons. All variations have the same overall design over different background shapes.](./images/app-icons/app-icons-platform-appearance-overview_2x.png)
+![An image that shows three variations of the Photos app's app icon as it appears on different platforms. The first variation is a rounded rectangle shape, and represents the iOS, iPadOS, and macOS icons. The second variation is an elongated, rounded rectangular shape, and represents the tvOS icon. The third variation is a circular shape, and represents the visionOS and watchOS icons. All variations have the same overall design over different background shapes.](/images/com.apple.HIG/app-icons-platform-appearance-overview@2x.png)
 
 
 
@@ -34,7 +34,7 @@ You use your favorite design tool to craft the individual foreground layers of y
 
 
 
-![A screenshot of the Photos app icon in Icon Composer.](./images/app-icons/app-icons-icon-composer-overview-photos_2x.png)
+![A screenshot of the Photos app icon in Icon Composer.](/images/com.apple.HIG/app-icons-icon-composer-overview-photos@2x.png)
 
 
 
@@ -82,7 +82,7 @@ In iOS, iPadOS, and macOS, people can choose whether their Home Screen app icons
 
 
 
-![A grid showing the six different appearances of the Photos app icon in iOS. The top row shows the default, clear light, and tinted light icon variants. The bottom row shows the dark, clear dark, and tinted dark variants.](./images/app-icons/app-icons-rendering-modes_2x.png)
+![A grid showing the six different appearances of the Photos app icon in iOS. The top row shows the default, clear light, and tinted light icon variants. The bottom row shows the dark, clear dark, and tinted dark variants.](/images/com.apple.HIG/app-icons-rendering-modes@2x.png)
 
 
 
@@ -107,7 +107,7 @@ In iOS, iPadOS, and macOS, people can choose whether their Home Screen app icons
 
 
 
-![A diagram of the Settings icon in tvOS with a white dotted line inside the outer border, which indicates the safe zone.](./images/app-icons/tvos-app-icon-safe-zone_2x.png)
+![A diagram of the Settings icon in tvOS with a white dotted line inside the outer border, which indicates the safe zone.](/images/com.apple.HIG/tvos-app-icon-safe-zone@2x.png)
 
 
 

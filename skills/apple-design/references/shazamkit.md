@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the ShazamKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/shazamkit/technologies-ShazamKit-intro_2x.png)
+![A sketch of the ShazamKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-ShazamKit-intro@2x.png)
 
 
 
@@ -22,7 +22,7 @@ If you need the device microphone to get audio samples for your app to recognize
 
 
 
-![A screenshot of the Math School app’s permission alert on iPhone. The alert reads 'Math School would like to access your microphone. Synchronize reading and math exercises with videos played by your teacher.' There are two buttons available: Not Now and Allow.](./images/shazamkit/shazamkit-mic-permission_2x.png)
+![A screenshot of the Math School app’s permission alert on iPhone. The alert reads 'Math School would like to access your microphone. Synchronize reading and math exercises with videos played by your teacher.' There are two buttons available: Not Now and Allow.](/images/com.apple.HIG/shazamkit-mic-permission@2x.png)
 
 
 

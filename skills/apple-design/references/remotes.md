@@ -8,7 +8,7 @@
 
 
 
-![A sketch of an Apple TV remote, suggesting interaction with onscreen content. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/remotes/inputs-remotes-intro_2x.png)
+![A sketch of an Apple TV remote, suggesting interaction with onscreen content. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-remotes-intro@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A sketch of an app icon surrounded by a dashed line, suggesting an App Clip. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/app-clips/technologies-app-clips-intro_2x.png)
+![A sketch of an app icon surrounded by a dashed line, suggesting an App Clip. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-app-clips-intro@2x.png)
 
 
 
@@ -129,7 +129,7 @@ The system-provided App Clip card is people’s first interaction with your App 
 
 
 
-![A horizontal row of two App Clip cards. The left App Clip card is for a game and uses Play as the verb for the action button. The right App Clip card is for an app and uses Open as the verb for the action button.](./images/app-clips/app-clips-card_2x.png)
+![A horizontal row of two App Clip cards. The left App Clip card is for a game and uses Play as the verb for the action button. The right App Clip card is for an app and uses Open as the verb for the action button.](/images/com.apple.HIG/app-clips-card@2x.png)
 
 
 
@@ -145,7 +145,7 @@ App Clip Codes come in two variants: *scan-only* or with an embedded NFC tag (*N
 
 
 
-![A scan-only App Clip Code with callouts for the center icon, visual code, and the App Clip logo.](./images/app-clips/scan-only_2x.png)
+![A scan-only App Clip Code with callouts for the center icon, visual code, and the App Clip logo.](/images/com.apple.HIG/scan-only@2x.png)
 
 
 
@@ -157,7 +157,7 @@ The scan-only variant uses a camera icon in its center to let people know to use
 
 
 
-![An illustration that shows how a person uses an App Clip Code on a table at a coffee shop. The left side of the illustration shows two people sitting at a table. A placard in the middle of the table contains an App Clip Code. The person on the left is using their camera to scan the App Clip Code. The right side of the illustration shows a zoomed-in version of the person's phone screen and the placard on the table.](./images/app-clips/interacting-coffee-shop-example_2x.png)
+![An illustration that shows how a person uses an App Clip Code on a table at a coffee shop. The left side of the illustration shows two people sitting at a table. A placard in the middle of the table contains an App Clip Code. The person on the left is using their camera to scan the App Clip Code. The right side of the illustration shows a zoomed-in version of the person's phone screen and the placard on the table.](/images/com.apple.HIG/interacting-coffee-shop-example@2x.png)
 
 
 
@@ -185,7 +185,7 @@ No matter which of the two variants you use, it’s important you carefully cons
 
 
 
-![An illustration that shows a circle that represents a cylindrical surface. Lines divide the circle into six segments of equal size. One segment represents an App Clip Code and shows how the code doesn’t cover more than one-sixth, or 60 degrees, of the surface’s circumference.](./images/app-clips/app-clips-slice_2x.png)
+![An illustration that shows a circle that represents a cylindrical surface. Lines divide the circle into six segments of equal size. One segment represents an App Clip Code and shows how the code doesn’t cover more than one-sixth, or 60 degrees, of the surface’s circumference.](/images/com.apple.HIG/app-clips-slice@2x.png)
 
 
 
@@ -212,7 +212,7 @@ If you display an App Clip Code near a QR Code or other scannable item, choose a
 
 
 
-![An illustration of an App Clip Code next to a QR code. Red guides denote that both are the same size.](./images/app-clips/app-clip-with-qr-code_2x.png)
+![An illustration of an App Clip Code next to a QR code. Red guides denote that both are the same size.](/images/com.apple.HIG/app-clip-with-qr-code@2x.png)
 
 
 
@@ -220,7 +220,7 @@ If you display an App Clip Code near a QR Code or other scannable item, choose a
 
 
 
-![An illustration that shows an App Clip Code with the badge design to the left of an App Clip Code without the App Clip logo. A red guide surrounds each App Clip Code, illustrating the clear space requirements.](./images/app-clips/app-clip-spacing_2x.png)
+![An illustration that shows an App Clip Code with the badge design to the left of an App Clip Code without the App Clip logo. A red guide surrounds each App Clip Code, illustrating the clear space requirements.](/images/com.apple.HIG/app-clip-spacing@2x.png)
 
 
 
@@ -230,7 +230,7 @@ Add clear messaging that informs people how they can use the App Clip Code to la
 
 
 
-![An illustration that shows two people sitting at a table at a coffee shop. A placard in the middle of the table contains an App Clip Code. The right side of the illustration shows a zoomed-in version of the placard, which contains an App Clip Code and surrounding text that reads 'Place your order. Hold your iPhone near the menu to place your food order.'.](./images/app-clips/clear-messaging_2x.png)
+![An illustration that shows two people sitting at a table at a coffee shop. A placard in the middle of the table contains an App Clip Code. The right side of the illustration shows a zoomed-in version of the placard, which contains an App Clip Code and surrounding text that reads 'Place your order. Hold your iPhone near the menu to place your food order.'.](/images/com.apple.HIG/clear-messaging@2x.png)
 
 
 
@@ -254,7 +254,7 @@ Use [App Store Connect](https://appstoreconnect.apple.com) or the [App Clip Code
 
 
 
-![Four App Clip badges, each using different colors. The two on the left use the badge design, and the two on the right use the design without the App Clip logo.](./images/app-clips/app-clips-customizing_2x.png)
+![Four App Clip badges, each using different colors. The two on the left use the badge design, and the two on the right use the design without the App Clip logo.](/images/com.apple.HIG/app-clips-customizing@2x.png)
 
 
 
@@ -264,7 +264,7 @@ Use [App Store Connect](https://appstoreconnect.apple.com) or the [App Clip Code
 
 
 
-![An illustration of an App Clip Code that uses the badge design and has callouts for the background, foreground, and generated colors.](./images/app-clips/app-clip-colors_2x.png)
+![An illustration of an App Clip Code that uses the badge design and has callouts for the background, foreground, and generated colors.](/images/com.apple.HIG/app-clip-colors@2x.png)
 
 
 

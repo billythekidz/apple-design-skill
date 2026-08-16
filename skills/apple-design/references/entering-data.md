@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a pencil writing within a field, suggesting data entry. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/entering-data/patterns-entering-data-intro_2x.png)
+![A sketch of a pencil writing within a field, suggesting data entry. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-entering-data-intro@2x.png)
 
 
 

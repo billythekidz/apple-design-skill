@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a spinning indeterminate activity indicator above a progress bar. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/progress-indicators/components-progress-indicators-intro_2x.png)
+![A stylized representation of a spinning indeterminate activity indicator above a progress bar. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-progress-indicators-intro@2x.png)
 
 
 
@@ -57,7 +57,7 @@ A refresh control lets people immediately reload content, typically in a table v
 
 
 
-![A screenshot of a refresh content control spinning while Mail checks for new messages.](./images/progress-indicators/refresh-controls_2x.png)
+![A screenshot of a refresh content control spinning while Mail checks for new messages.](/images/com.apple.HIG/refresh-controls@2x.png)
 
 
 

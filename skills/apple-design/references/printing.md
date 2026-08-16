@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a printer, suggesting printing. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/printing/patterns-printing-intro_2x.png)
+![A sketch of a printer, suggesting printing. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-printing-intro@2x.png)
 
 
 

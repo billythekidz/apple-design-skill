@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a dollar sign, suggesting Apple Pay. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/apple-pay/technologies-Apple-Pay-intro_2x.png)
+![A sketch of a dollar sign, suggesting Apple Pay. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-Apple-Pay-intro@2x.png)
 
 
 
@@ -16,7 +16,7 @@ Use Apple Pay to sell physical goods like groceries, clothing, and appliances; f
 
 
 
-![A screenshot of an Apple Pay payment sheet that displays details about a food truck purchase, including a payment method and the total amount.](./images/apple-pay/apple-pay-sheet_2x.png)
+![A screenshot of an Apple Pay payment sheet that displays details about a food truck purchase, including a payment method and the total amount.](/images/com.apple.HIG/apple-pay-sheet@2x.png)
 
 
 
@@ -74,7 +74,7 @@ For developer guidance, see [Apple Pay](https://developer.apple.com/documentatio
 
 
 
-![An illustration of an Apple Pay order confirmation screen on iPhone. The screen contains a button for creating an account, a button for signing up with Apple, and existing account login fields.](./images/apple-pay/payment-sheet-before-account_2x.png)
+![An illustration of an Apple Pay order confirmation screen on iPhone. The screen contains a button for creating an account, a button for signing up with Apple, and existing account login fields.](/images/com.apple.HIG/payment-sheet-before-account@2x.png)
 
 
 
@@ -119,7 +119,7 @@ If your website supports Apple Pay, provide an icon in the following sizes:
 
 
 
-![A screenshot of an Apple Pay payment sheet on iPhone, which shows a website icon above the payment details.](./images/apple-pay/web-icon-payment_2x.png)
+![A screenshot of an Apple Pay payment sheet on iPhone, which shows a website icon above the payment details.](/images/com.apple.HIG/web-icon-payment@2x.png)
 
 
 
@@ -198,7 +198,7 @@ Use the buttons below to initiate payment. In some contexts, the system automati
 
 
 
-![Apple Pay button displaying an image of someone's default payment card.](./images/apple-pay/apple-pay-card-on-button_2x.png)
+![Apple Pay button displaying an image of someone's default payment card.](/images/com.apple.HIG/apple-pay-card-on-button@2x.png)
 
 
 
@@ -228,7 +228,7 @@ When a device supports Apple Pay but the person hasn’t set it up yet, you can 
 
 
 
-![Set Up Apple Pay button](./images/apple-pay/button-set-up_2x.png)
+![Set Up Apple Pay button](/images/com.apple.HIG/button-set-up@2x.png)
 
 
 
@@ -256,25 +256,25 @@ Use on dark-color backgrounds that provide sufficient contrast.
 
 
 
-![An illustration showing a Check Out with Apple Pay button correctly positioned to the right of a custom Add to Cart button.](./images/apple-pay/ap-right-side-correct_2x.png)
+![An illustration showing a Check Out with Apple Pay button correctly positioned to the right of a custom Add to Cart button.](/images/com.apple.HIG/ap-right-side-correct@2x.png)
 
 
 
 
 
-![Correct usage](./images/apple-pay/checkmark_2x.png)
+![Correct usage](/images/com.apple.HIG/checkmark@2x.png)
 
 
 
 
 
-![An illustration showing a Check Out with Apple Pay button incorrectly positioned to the left of a custom Add to Cart button.](./images/apple-pay/ap-left-side-incorrect_2x.png)
+![An illustration showing a Check Out with Apple Pay button incorrectly positioned to the left of a custom Add to Cart button.](/images/com.apple.HIG/ap-left-side-incorrect@2x.png)
 
 
 
 
 
-![Incorrect usage](./images/apple-pay/crossout_2x.png)
+![Incorrect usage](/images/com.apple.HIG/crossout@2x.png)
 
 
 
@@ -306,7 +306,7 @@ Use the Apple Pay mark graphic to show that Apple Pay is an available payment op
 
 
 
-![A row of four credit card logos, all of which are the same size and shape. The leftmost logo is the Apple Pay mark.](./images/apple-pay/apple-pay-mark-with-payment-options_2x.png)
+![A row of four credit card logos, all of which are the same size and shape. The leftmost logo is the Apple Pay mark.](/images/com.apple.HIG/apple-pay-mark-with-payment-options@2x.png)
 
 
 

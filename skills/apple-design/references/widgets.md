@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a set of different-sized widgets on an iPad Home Screen. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/widgets/components-widgets-intro_2x.png)
+![A stylized representation of a set of different-sized widgets on an iPad Home Screen. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-widgets-intro@2x.png)
 
 
 
@@ -70,7 +70,7 @@ For example, a small system widget appears differently depending on the device a
 
 
 
-![An image of the small Stocks widget on Apple Vision Pro.](./images/widgets/widgets-stocks-visionos-frame_2x.png)
+![An image of the small Stocks widget on Apple Vision Pro.](/images/com.apple.HIG/widgets-stocks-visionos-frame@2x.png)
 
 
 
@@ -78,7 +78,7 @@ For example, a small system widget appears differently depending on the device a
 
 
 
-![An image of the small Stocks widget on the Lock Screen, showing the price of Apple stock.](./images/widgets/widgets-stocks-ipad-lock-screen_2x.png)
+![An image of the small Stocks widget on the Lock Screen, showing the price of Apple stock.](/images/com.apple.HIG/widgets-stocks-ipad-lock-screen@2x.png)
 
 
 
@@ -114,7 +114,7 @@ For additional design guidance, see [Rendering modes](https://developer.apple.co
 
 
 
-![An image of a small Weather widget showing current conditions for Cupertino. In text, the widget displays a temperature of 70 degrees, the condition Sunny, and forecast high and low temperatures of 75 degrees and 59 degrees, respectively. The widget also displays a yellow sun symbol above the word Sunny and the filled-in location indicator to the right of the word Cupertino.](./images/widgets/widgets-ios-weather-small_2x.png)
+![An image of a small Weather widget showing current conditions for Cupertino. In text, the widget displays a temperature of 70 degrees, the condition Sunny, and forecast high and low temperatures of 75 degrees and 59 degrees, respectively. The widget also displays a yellow sun symbol above the word Sunny and the filled-in location indicator to the right of the word Cupertino.](/images/com.apple.HIG/widgets-ios-weather-small@2x.png)
 
 
 
@@ -158,7 +158,7 @@ People tap or click a widget to launch its corresponding app. It can also includ
 
 
 
-![An image of a medium Stocks watchlist widget, listing two stock market indices and one stock symbol. Each row displays the index or symbol name on the left, a graph section in the middle, and a current quote, including a value change, on the right.](./images/widgets/widgets-stocks-medium_2x.png)
+![An image of a medium Stocks watchlist widget, listing two stock market indices and one stock symbol. Each row displays the index or symbol name on the left, a graph section in the middle, and a current quote, including a value change, on the right.](/images/com.apple.HIG/widgets-stocks-medium@2x.png)
 
 
 
@@ -235,7 +235,7 @@ Your app can offer widgets on the Lock Screen in three different shapes: as inli
 
 
 
-![A partial screenshot of the Lock Screen on iPhone that shows a Calendar widget and two Weather widgets below the time. From the left, the widgets are an inline text widget and two circular widgets.](./images/widgets/widget-lock-screen-display-appearances_2x.png)
+![A partial screenshot of the Lock Screen on iPhone that shows a Calendar widget and two Weather widgets below the time. From the left, the widgets are an inline text widget and two circular widgets.](/images/com.apple.HIG/widget-lock-screen-display-appearances@2x.png)
 
 
 
@@ -257,7 +257,7 @@ On iPhone in StandBy in low-light conditions, the system renders widgets in a mo
 
 
 
-![An image of iPhone in low-light conditions. It shows a Clock widget on the left that displays the time as 9:41 a.m. and a Weather widget set to Cupertino with the temperature at 70 degrees Fahrenheit on the right.](./images/widgets/widgets-standby-low-light_2x.png)
+![An image of iPhone in low-light conditions. It shows a Clock widget on the left that displays the time as 9:41 a.m. and a Weather widget set to Cupertino with the temperature at 70 degrees Fahrenheit on the right.](/images/com.apple.HIG/widgets-standby-low-light@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of an iPhone frame shown on top of a grid. The image is overlaid with rectangular and circular grid lines and is tinted green to subtly reflect the green in the original six-color Apple logo.](./images/designing-for-ios/platforms-iOS-intro_2x.png)
+![A stylized representation of an iPhone frame shown on top of a grid. The image is overlaid with rectangular and circular grid lines and is tinted green to subtly reflect the green in the original six-color Apple logo.](/images/com.apple.HIG/platforms-iOS-intro@2x.png)
 
 
 

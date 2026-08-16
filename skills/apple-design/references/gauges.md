@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a circular numeric gauge above a linear percentage gauge. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/gauges/components-gauges-intro_2x.png)
+![A stylized representation of a circular numeric gauge above a linear percentage gauge. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-gauges-intro@2x.png)
 
 
 
@@ -45,7 +45,7 @@ The capacity style can depict discrete or continuous values.
 
 
 
-![An image of a continuous capacity indicator in which the leftmost one-eigth is red, the next three-eighths are yellow, the next one-fourth is green, and the last one-fourth is unfilled.](./images/gauges/indicators-continuous-tiered_2x.png)
+![An image of a continuous capacity indicator in which the leftmost one-eigth is red, the next three-eighths are yellow, the next one-fourth is green, and the last one-fourth is unfilled.](/images/com.apple.HIG/indicators-continuous-tiered@2x.png)
 
 
 

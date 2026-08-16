@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of collapsed and expanded disclosure buttons. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/disclosure-controls/components-disclosure-control-intro_2x.png)
+![A stylized representation of collapsed and expanded disclosure buttons. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-disclosure-control-intro@2x.png)
 
 
 

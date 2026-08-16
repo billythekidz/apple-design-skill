@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a selected segment in a segmented control. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/segmented-controls/components-segmented-control-intro_2x.png)
+![A stylized representation of a selected segment in a segmented control. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-segmented-control-intro@2x.png)
 
 
 
@@ -48,7 +48,7 @@ In addition to representing the state of a single or multiple-choice selection, 
 
 
 
-![A screenshot of the top half of the iOS Calendar app, showing the New Event sheet. A segmented control provides the ability to switch between adding a new event and a new reminder.](./images/segmented-controls/segmented-controls-calendar-new-event_2x.png)
+![A screenshot of the top half of the iOS Calendar app, showing the New Event sheet. A segmented control provides the ability to switch between adding a new event and a new reminder.](/images/com.apple.HIG/segmented-controls-calendar-new-event@2x.png)
 
 
 
@@ -60,7 +60,7 @@ In addition to representing the state of a single or multiple-choice selection, 
 
 
 
-![A screenshot of the macOS Calendar app. The main window area shows a tab view that contains four tabs: Day, Week, Month, and Year. The sidebar shows a segmented control that contains two segments: New and Replied.](./images/segmented-controls/macos-calendar-tab-view-segmented-control-comparison_2x.png)
+![A screenshot of the macOS Calendar app. The main window area shows a tab view that contains four tabs: Day, Week, Month, and Year. The sidebar shows a segmented control that contains two segments: New and Replied.](/images/com.apple.HIG/macos-calendar-tab-view-segmented-control-comparison@2x.png)
 
 
 

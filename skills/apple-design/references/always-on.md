@@ -8,7 +8,7 @@
 
 
 
-![A sketch of an Apple Watch containing a person running, suggesting an Always On display. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/always-on/technologies-always-on-intro_2x.png)
+![A sketch of an Apple Watch containing a person running, suggesting an Always On display. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-always-on-intro@2x.png)
 
 
 

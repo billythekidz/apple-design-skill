@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a list of folders and images, displayed in an outline view containing four columns: [Name], [Date Modified], [Size], and [Kind]. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/outline-views/components-outline-view-intro_2x.png)
+![A stylized representation of a list of folders and images, displayed in an outline view containing four columns: [Name], [Date Modified], [Size], and [Kind]. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-outline-view-intro@2x.png)
 
 
 

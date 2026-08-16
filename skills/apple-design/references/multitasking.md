@@ -8,7 +8,7 @@
 
 
 
-![A sketch of two side-by-side windows in a split view arrangement, suggesting multitasking. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/multitasking/patterns-multitasking-intro_2x.png)
+![A sketch of two side-by-side windows in a split view arrangement, suggesting multitasking. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-multitasking-intro@2x.png)
 
 
 
@@ -49,7 +49,7 @@ People can use iPad with either full-screen or windowed apps. When full screen, 
 
 
 
-![A screenshot of the iPad app switcher in landscape orientation, showing five open apps. Thumbnail representations of the apps are arranged in a grid.](./images/multitasking/multitasking-ipad-app-switcher_2x.png)
+![A screenshot of the iPad app switcher in landscape orientation, showing five open apps. Thumbnail representations of the apps are arranged in a grid.](/images/com.apple.HIG/multitasking-ipad-app-switcher@2x.png)
 
 
 
@@ -57,7 +57,7 @@ When using windowed apps, app windows are resizable, and people can arrange them
 
 
 
-![A screenshot of two windowed apps on iPad in landscape orientation. The frontmost app window overlaps and casts a shadow on the one behind it, and has colored window controls to indicate that the window is active. Both windows sit atop the Home Screen background, and the Dock appears at the bottom.](./images/multitasking/multitasking-ipad-windows-maps-landmarks_2x.png)
+![A screenshot of two windowed apps on iPad in landscape orientation. The frontmost app window overlaps and casts a shadow on the one behind it, and has colored window controls to indicate that the window is active. Both windows sit atop the Home Screen background, and the Dock appears at the bottom.](/images/com.apple.HIG/multitasking-ipad-windows-maps-landmarks@2x.png)
 
 
 

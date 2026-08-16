@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a D-pad control from a game controller, suggesting gameplay. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/game-controls/inputs-game-controls-intro_2x.png)
+![A sketch of a D-pad control from a game controller, suggesting gameplay. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-game-controls-intro@2x.png)
 
 
 
@@ -29,7 +29,7 @@ For iOS and iPadOS games, supporting touch interaction means that you can provid
 
 
 
-![A graphic that shows ideal placement for touch controls for an iPhone in landscape orientation.](./images/game-controls/game-controls-touch-input-heat-map_2x.png)
+![A graphic that shows ideal placement for touch controls for an iPhone in landscape orientation.](/images/com.apple.HIG/game-controls-touch-input-heat-map@2x.png)
 
 
 
@@ -39,7 +39,7 @@ For iOS and iPadOS games, supporting touch interaction means that you can provid
 
 
 
-![A right hand holding an iPhone in landscape orientation. The thumb is pressing down on a virtual button, and the button indicates its press state by increasing its opacity and showing a glow effect around it.](./images/game-controls/game-controls-press-state_2x.png)
+![A right hand holding an iPhone in landscape orientation. The thumb is pressing down on a virtual button, and the button indicates its press state by increasing its opacity and showing a glow effect around it.](/images/com.apple.HIG/game-controls-press-state@2x.png)
 
 
 
@@ -47,7 +47,7 @@ For iOS and iPadOS games, supporting touch interaction means that you can provid
 
 
 
-![A game controller button with a graphic of a square mapping to a virtual button with a graphic of a hand making a gesture to pick up an object.](./images/game-controls/game-controls-button-to-action_2x.png)
+![A game controller button with a graphic of a square mapping to a virtual button with a graphic of a hand making a gesture to pick up an object.](/images/com.apple.HIG/game-controls-button-to-action@2x.png)
 
 
 
@@ -57,7 +57,7 @@ For iOS and iPadOS games, supporting touch interaction means that you can provid
 
 
 
-![A graphic of a virtual button that supports both single tap and touch and hold gestures.](./images/game-controls/game-controls-power-up-action_2x.png)
+![A graphic of a virtual button that supports both single tap and touch and hold gestures.](/images/com.apple.HIG/game-controls-power-up-action@2x.png)
 
 
 
@@ -65,7 +65,7 @@ For iOS and iPadOS games, supporting touch interaction means that you can provid
 
 
 
-![A graphic that shows placement for movement controls on the left side of the screen, and placement for camera controls on the right side of the screen.](./images/game-controls/game-controls-camera-thumbstick-zones_2x.png)
+![A graphic that shows placement for movement controls on the left side of the screen, and placement for camera controls on the right side of the screen.](/images/com.apple.HIG/game-controls-camera-thumbstick-zones@2x.png)
 
 
 
@@ -79,7 +79,7 @@ For iOS and iPadOS games, supporting touch interaction means that you can provid
 
 
 
-![An illustration of a game controller with callouts that indicate the locations of the controller’s triggers, shoulder buttons, directional pad, and thumbsticks.](./images/game-controls/game-controls-controller-anatomy_2x.png)
+![An illustration of a game controller with callouts that indicate the locations of the controller’s triggers, shoulder buttons, directional pad, and thumbsticks.](/images/com.apple.HIG/game-controls-controller-anatomy@2x.png)
 
 
 
@@ -109,7 +109,7 @@ For iOS and iPadOS games, supporting touch interaction means that you can provid
 
 
 
-![A screenshot of the SF Symbols app showing symbols in the Gaming category.](./images/game-controls/game-controls-sf-symbols-gaming-category_2x.png)
+![A screenshot of the SF Symbols app showing symbols in the Gaming category.](/images/com.apple.HIG/game-controls-sf-symbols-gaming-category@2x.png)
 
 
 

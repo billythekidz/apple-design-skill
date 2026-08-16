@@ -8,7 +8,7 @@
 
 
 
-![A sketch of an AR icon, suggesting augmented reality. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/augmented-reality/technologies-augmented-reality-intro_2x.png)
+![A sketch of an AR icon, suggesting augmented reality. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-augmented-reality-intro@2x.png)
 
 
 
@@ -37,7 +37,7 @@ Using the device’s camera to present the physical world onscreen live, your ap
 
 
 
-![A screenshot of the Measure app on iPhone showing a bunch of carrots. A line segment extends from one end of a carrot to the other end. The measurement is four and a half inches.](./images/augmented-reality/augmented-reality-measure-carrots_2x.png)
+![A screenshot of the Measure app on iPhone showing a bunch of carrots. A line segment extends from one end of a carrot to the other end. The measurement is four and a half inches.](/images/com.apple.HIG/augmented-reality-measure-carrots@2x.png)
 
 
 
@@ -163,7 +163,7 @@ Apps can display an AR icon in controls that launch ARKit-based experiences. You
 
 
 
-![An illustration that shows the AR glyph centered within a frame that represents the minimum clear space to leave around the glyph.](./images/augmented-reality/augmented-reality-glyph-minimum-clear-space_2x.png)
+![An illustration that shows the AR glyph centered within a frame that represents the minimum clear space to leave around the glyph.](/images/com.apple.HIG/augmented-reality-glyph-minimum-clear-space@2x.png)
 
 
 
@@ -171,7 +171,7 @@ Apps that include collections of products or other objects can use badging to id
 
 
 
-![An illustration of a partial iPhone screen. On the screen is an app with four gray squares in a grid layout, each containing a picture of a vintage toy: one robot, and three rocket ships. In the upper left corner of each square is the AR badge with the glyph and the text AR.](./images/augmented-reality/augmented-reality-badging_2x.png)
+![An illustration of a partial iPhone screen. On the screen is an app with four gray squares in a grid layout, each containing a picture of a vintage toy: one robot, and three rocket ships. In the upper left corner of each square is the AR badge with the glyph and the text AR.](/images/com.apple.HIG/augmented-reality-badging@2x.png)
 
 
 

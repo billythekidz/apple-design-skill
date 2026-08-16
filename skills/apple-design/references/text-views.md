@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a field containing text. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/text-views/components-text-view-intro_2x.png)
+![A stylized representation of a field containing text. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-text-view-intro@2x.png)
 
 
 

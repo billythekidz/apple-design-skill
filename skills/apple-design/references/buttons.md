@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of two horizontally aligned buttons. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/buttons/components-buttons-intro_2x.png)
+![A stylized representation of two horizontally aligned buttons. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-buttons-intro@2x.png)
 
 
 
@@ -179,7 +179,7 @@ watchOS displays all inline buttons using the [capsule](https://developer.apple.
 
 
 
-![An illustration that represents a screen on Apple Watch, which includes capsule-shaped Primary and Secondary buttons.](./images/buttons/buttons-watch-full-width_2x.png)
+![An illustration that represents a screen on Apple Watch, which includes capsule-shaped Primary and Secondary buttons.](/images/com.apple.HIG/buttons-watch-full-width@2x.png)
 
 
 
@@ -187,7 +187,7 @@ watchOS displays all inline buttons using the [capsule](https://developer.apple.
 
 
 
-![An illustration showing toolbar buttons in the top leading and trailing corners, as well as three toolbar buttons across the bottom of the screen.](./images/buttons/buttons-watch-toolbar-corners_2x.png)
+![An illustration showing toolbar buttons in the top leading and trailing corners, as well as three toolbar buttons across the bottom of the screen.](/images/com.apple.HIG/buttons-watch-toolbar-corners@2x.png)
 
 
 

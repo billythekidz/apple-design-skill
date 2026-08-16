@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a window consisting of three areas: a sidebar, a canvas, and an inspector. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/split-views/components-split-view-intro_2x.png)
+![A stylized representation of a window consisting of three areas: a sidebar, a canvas, and an inspector. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-split-view-intro@2x.png)
 
 
 
@@ -70,7 +70,7 @@ In watchOS, the split view displays either the list view or a detail view as a f
 
 
 
-![A screenshot showing a detail view with a vertical tab on Apple Watch. The page indicator next to the Digital Crown shows that the fifth tab is currently selected.](./images/split-views/split-view-watch-vertical-tab_2x.png)
+![A screenshot showing a detail view with a vertical tab on Apple Watch. The page indicator next to the Digital Crown shows that the fifth tab is currently selected.](/images/com.apple.HIG/split-view-watch-vertical-tab@2x.png)
 
 
 

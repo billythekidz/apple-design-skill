@@ -8,7 +8,7 @@
 
 
 
-![A sketch of curved lines beside a circular area containing a smaller circle, suggesting audio approaching a person in a room from a specific direction. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](./images/nearby-interactions/inputs-nearby-interactions-intro_2x.png)
+![A sketch of curved lines beside a circular area containing a smaller circle, suggesting audio approaching a person in a room from a specific direction. The image is overlaid with rectangular and circular grid lines and is tinted purple to subtly reflect the purple in the original six-color Apple logo.](/images/com.apple.HIG/inputs-nearby-interactions-intro@2x.png)
 
 
 

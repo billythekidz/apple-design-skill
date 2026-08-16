@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a path control for a HIG Design document showing its root disk, parent folder, and selected item. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/path-controls/components-path-control-intro_2x.png)
+![A stylized representation of a path control for a HIG Design document showing its root disk, parent folder, and selected item. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-path-control-intro@2x.png)
 
 
 

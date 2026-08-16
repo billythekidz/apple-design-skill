@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the ResearchKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/researchkit/technologies-ResearchKit-intro_2x.png)
+![A sketch of the ResearchKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-ResearchKit-intro@2x.png)
 
 
 
@@ -22,7 +22,7 @@ When opening a research app for the first time, people encounter a series of scr
 
 
 
-![A diagram showing four boxes in a horizontal row. Beginning with the leftmost box, an arrow pointing toward the right connects each box to the next. From the left, the boxes are labeled Introduction, Eligibility, Informed consent, and Permission to access data.](./images/researchkit/researchkit-diagram_2x.png)
+![A diagram showing four boxes in a horizontal row. Beginning with the leftmost box, an arrow pointing toward the right connects each box to the next. From the left, the boxes are labeled Introduction, Eligibility, Informed consent, and Permission to access data.](/images/com.apple.HIG/researchkit-diagram@2x.png)
 
 
 
@@ -32,7 +32,7 @@ When opening a research app for the first time, people encounter a series of scr
 
 
 
-![A screenshot that shows a ResearchKit app's introductory screen on iPhone, which invites someone to join a study.](./images/researchkit/introduction-screen_2x.png)
+![A screenshot that shows a ResearchKit app's introductory screen on iPhone, which invites someone to join a study.](/images/com.apple.HIG/introduction-screen@2x.png)
 
 
 
@@ -42,7 +42,7 @@ When opening a research app for the first time, people encounter a series of scr
 
 
 
-![A screenshot that shows a ResearchKit app's eligibility screen on iPhone. The screen includes fields that ask for a person's age, location, and type of smartphone. The bottom of the screen includes 'Back' and 'Submit' buttons, and the top of the screen includes a button for returning to the previous screen and a button for help.](./images/researchkit/eligibility-screen_2x.png)
+![A screenshot that shows a ResearchKit app's eligibility screen on iPhone. The screen includes fields that ask for a person's age, location, and type of smartphone. The bottom of the screen includes 'Back' and 'Submit' buttons, and the top of the screen includes a button for returning to the previous screen and a button for help.](/images/com.apple.HIG/eligibility-screen@2x.png)
 
 
 
@@ -56,7 +56,7 @@ When opening a research app for the first time, people encounter a series of scr
 
 
 
-![A screenshot that shows a ResearchKit app's quiz screen on iPhone. The screen displays a multiple-choice question designed to make sure people understand the study. The bottom of the screen includes a 'Next' button, and the top of the screen includes a button for returning to the previous screen and a button for help.](./images/researchkit/consent-quiz-screen_2x.png)
+![A screenshot that shows a ResearchKit app's quiz screen on iPhone. The screen displays a multiple-choice question designed to make sure people understand the study. The bottom of the screen includes a 'Next' button, and the top of the screen includes a button for returning to the previous screen and a button for help.](/images/com.apple.HIG/consent-quiz-screen@2x.png)
 
 
 
@@ -64,7 +64,7 @@ When opening a research app for the first time, people encounter a series of scr
 
 
 
-![A screenshot that shows a ResearchKit app's consent screen on iPhone. The screen recaps key points about the study, shows the person's name, and asks the person to confirm whether they'd like to participate in the study. The bottom of the screen includes 'Disagree' and 'Accept' buttons, and the top of the screen includes a button for returning to the previous screen and a button for help.](./images/researchkit/consent-signature-screen_2x.png)
+![A screenshot that shows a ResearchKit app's consent screen on iPhone. The screen recaps key points about the study, shows the person's name, and asks the person to confirm whether they'd like to participate in the study. The bottom of the screen includes 'Disagree' and 'Accept' buttons, and the top of the screen includes a button for returning to the previous screen and a button for help.](/images/com.apple.HIG/consent-signature-screen@2x.png)
 
 
 
@@ -74,7 +74,7 @@ When opening a research app for the first time, people encounter a series of scr
 
 
 
-![A screenshot that shows a ResearchKit app's consent screen on iPhone. The screen recaps key points about the study, and offers the choice to share data with researchers for future research purposes, or only for this particular study. The bottom of the screen includes an 'Accept' button, and the top of the screen includes a button for returning to the previous screen and a button for help.](./images/researchkit/permissions-health-data-screen_2x.png)
+![A screenshot that shows a ResearchKit app's consent screen on iPhone. The screen recaps key points about the study, and offers the choice to share data with researchers for future research purposes, or only for this particular study. The bottom of the screen includes an 'Accept' button, and the top of the screen includes a button for returning to the previous screen and a button for help.](/images/com.apple.HIG/permissions-health-data-screen@2x.png)
 
 
 
@@ -93,7 +93,7 @@ To get input from participants, your study might use surveys, active tasks, or a
 
 
 
-![A screenshot that shows a ResearchKit app's survey screen on iPhone. This particular screen asks someone to specify Parkinson's disease symptoms from a list and tap a 'Next' button to continue the survey. The top of the screen includes a 'Close' button.](./images/researchkit/survey-question-type1-screen_2x.png)
+![A screenshot that shows a ResearchKit app's survey screen on iPhone. This particular screen asks someone to specify Parkinson's disease symptoms from a list and tap a 'Next' button to continue the survey. The top of the screen includes a 'Close' button.](/images/com.apple.HIG/survey-question-type1-screen@2x.png)
 
 
 
@@ -105,7 +105,7 @@ To get input from participants, your study might use surveys, active tasks, or a
 
 
 
-![A screenshot that shows a ResearchKit app's active task screen on iPhone. This particular screen shows an illustration of a person walking, and instructions that explain how to perform a Walk and Balance active task. A list of requirements is shown, along with a 'Get started' button. The top of the screen includes a 'Close' button.](./images/researchkit/active-tasks-screen_2x.png)
+![A screenshot that shows a ResearchKit app's active task screen on iPhone. This particular screen shows an illustration of a person walking, and instructions that explain how to perform a Walk and Balance active task. A list of requirements is shown, along with a 'Get started' button. The top of the screen includes a 'Close' button.](/images/com.apple.HIG/active-tasks-screen@2x.png)
 
 
 
@@ -117,7 +117,7 @@ ResearchKit offers a profile screen you can use to let participants manage perso
 
 
 
-![A screenshot that shows a ResearchKit app's profile screen on iPhone. This particular screen includes a list of fields for personal information like name and birth year. Each field includes a button for editing the field's value. The top of the screen includes a settings button, and the bottom of the screen includes tabs for 'Tracking', 'History' and 'Profile'. The active tab is 'Profile'.](./images/researchkit/profile-screen_2x.png)
+![A screenshot that shows a ResearchKit app's profile screen on iPhone. This particular screen includes a list of fields for personal information like name and birth year. Each field includes a button for editing the field's value. The top of the screen includes a settings button, and the bottom of the screen includes tabs for 'Tracking', 'History' and 'Profile'. The active tab is 'Profile'.](/images/com.apple.HIG/profile-screen@2x.png)
 
 
 
@@ -125,7 +125,7 @@ ResearchKit offers a profile screen you can use to let participants manage perso
 
 
 
-![A screenshot that shows a ResearchKit app's history screen on iPhone. This particular screen shows a log of active tasks performed over two days. The bottom of the screen includes tabs for 'Tracking', 'History' and 'Profile'. The active tab is 'History'.](./images/researchkit/dashboard-screen_2x.png)
+![A screenshot that shows a ResearchKit app's history screen on iPhone. This particular screen shows a log of active tasks performed over two days. The bottom of the screen includes tabs for 'Tracking', 'History' and 'Profile'. The active tab is 'History'.](/images/com.apple.HIG/dashboard-screen@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the CareKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/carekit/technologies-CareKit-intro_2x.png)
+![A sketch of the CareKit icon. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-CareKit-intro@2x.png)
 
 
 
@@ -73,7 +73,7 @@ A CareKit UI view consists of a header and may include a stack of content subvie
 
 
 
-![An illustration of a CareKit task view. Callouts indicate the header area at the top of the view, which contains the title on the left and an optional disclosure indicator on the right. A subview area below the header includes circular checkmark buttons for marking off medication intake at different times of the day. Additional callouts point to the subview area and the horizontal separator between the header and the subview.](./images/carekit/carekit-view-components_2x.png)
+![An illustration of a CareKit task view. Callouts indicate the header area at the top of the view, which contains the title on the left and an optional disclosure indicator on the right. A subview area below the header includes circular checkmark buttons for marking off medication intake at different times of the day. Additional callouts point to the subview area and the horizontal separator between the header and the subview.](/images/com.apple.HIG/carekit-view-components@2x.png)
 
 
 
@@ -99,7 +99,7 @@ In CareKit 2.0, CareKit UI defines five styles of task views: simple, instructio
 
 
 
-![An illustration of a task for taking a single dose of medicine at a specific time of day. The filled-in circle and checkmark indicate that the task is complete.](./images/carekit/carekit-simple-task_2x.png)
+![An illustration of a task for taking a single dose of medicine at a specific time of day. The filled-in circle and checkmark indicate that the task is complete.](/images/com.apple.HIG/carekit-simple-task@2x.png)
 
 
 
@@ -107,7 +107,7 @@ In CareKit 2.0, CareKit UI defines five styles of task views: simple, instructio
 
 
 
-![An illustration of a task for taking a single dose of medicine at a specific time of day. The task includes instructions for how to take the dose. Below the instructions, the task shows the word completed and a checkmark to indicate that the task is complete.](./images/carekit/carekit-instructions-task_2x.png)
+![An illustration of a task for taking a single dose of medicine at a specific time of day. The task includes instructions for how to take the dose. Below the instructions, the task shows the word completed and a checkmark to indicate that the task is complete.](/images/com.apple.HIG/carekit-instructions-task@2x.png)
 
 
 
@@ -115,7 +115,7 @@ In CareKit 2.0, CareKit UI defines five styles of task views: simple, instructio
 
 
 
-![An illustration of a task for logging incidents of nausea. The task's header area includes a title, a time range, and a disclosure button to display additional details. The subview area includes instructions, a Log button, and a time completed.](./images/carekit/carekit-log-task_2x.png)
+![An illustration of a task for logging incidents of nausea. The task's header area includes a title, a time range, and a disclosure button to display additional details. The subview area includes instructions, a Log button, and a time completed.](/images/com.apple.HIG/carekit-log-task@2x.png)
 
 
 
@@ -123,7 +123,7 @@ In CareKit 2.0, CareKit UI defines five styles of task views: simple, instructio
 
 
 
-![An illustration of a task that directs the patient to take a medicine at breakfast, lunch, and dinner. Filled-in circles containing checkmarks next to breakfast and lunch show that the patient has taken the first two doses.](./images/carekit/carekit-checklist-task_2x.png)
+![An illustration of a task that directs the patient to take a medicine at breakfast, lunch, and dinner. Filled-in circles containing checkmarks next to breakfast and lunch show that the patient has taken the first two doses.](/images/com.apple.HIG/carekit-checklist-task@2x.png)
 
 
 
@@ -131,7 +131,7 @@ In CareKit 2.0, CareKit UI defines five styles of task views: simple, instructio
 
 
 
-![An illustration of a task that consists of three circles that represent three doses of a medicine. The first two circles are filled in and contain checkmarks, indicating that the patient has already taken two doses.](./images/carekit/carekit-grid-task_2x.png)
+![An illustration of a task that consists of three circles that represent three doses of a medicine. The first two circles are filled in and contain checkmarks, indicating that the patient has already taken two doses.](/images/com.apple.HIG/carekit-grid-task@2x.png)
 
 
 
@@ -149,19 +149,19 @@ In CareKit 2.0, CareKit UI provides three chart styles: bar, scatter, and line. 
 
 
 
-![An illustration of a bar chart with days of the week on the x-axis and dosage numbers on the y-axis. The bar on Thursday reaches a value of two on the y-axis, indicating that the medicine was taken twice that day.](./images/carekit/carekit-bar-chart_2x.png)
+![An illustration of a bar chart with days of the week on the x-axis and dosage numbers on the y-axis. The bar on Thursday reaches a value of two on the y-axis, indicating that the medicine was taken twice that day.](/images/com.apple.HIG/carekit-bar-chart@2x.png)
 
 
 
 
 
-![An illustration of a scatter chart with days of the week on the x-axis and dosage numbers on the y-axis. A dot on Thursday reaches a value of two on the y-axis, indicating that the medicine was taken twice that day.](./images/carekit/carekit-scatter-chart_2x.png)
+![An illustration of a scatter chart with days of the week on the x-axis and dosage numbers on the y-axis. A dot on Thursday reaches a value of two on the y-axis, indicating that the medicine was taken twice that day.](/images/com.apple.HIG/carekit-scatter-chart@2x.png)
 
 
 
 
 
-![An illustration of a line chart with days of the week on the x-axis and dosage numbers on the y-axis. The line is at zero on the y-axis for all days but Thursday, where it reaches a value of two, indicating that the medicine was taken twice that day.](./images/carekit/carekit-line-chart_2x.png)
+![An illustration of a line chart with days of the week on the x-axis and dosage numbers on the y-axis. The line is at zero on the y-axis for all days but Thursday, where it reaches a value of two, indicating that the medicine was taken twice that day.](/images/com.apple.HIG/carekit-line-chart@2x.png)
 
 
 

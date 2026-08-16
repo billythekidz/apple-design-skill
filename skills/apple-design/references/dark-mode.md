@@ -8,7 +8,7 @@
 
 
 
-![A sketch of concentric circles with half-filled areas, suggesting the presence of light and dark. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/dark-mode/foundations-dark-mode-intro_2x.png)
+![A sketch of concentric circles with half-filled areas, suggesting the presence of light and dark. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-dark-mode-intro@2x.png)
 
 
 
@@ -26,7 +26,7 @@ In iOS, iPadOS, macOS, and tvOS, people often choose Dark Mode as their default 
 
 
 
-![A screenshot of the Stocks app on iPhone in its standard dark-only appearance, showing the Apple Inc. stock in detail. The view includes a summary of the current stock price along with a graph of its performance over the past year.](./images/dark-mode/dark-mode-stocks-app-dark-only-mode_2x.png)
+![A screenshot of the Stocks app on iPhone in its standard dark-only appearance, showing the Apple Inc. stock in detail. The view includes a summary of the current stock price along with a graph of its performance over the past year.](/images/com.apple.HIG/dark-mode-stocks-app-dark-only-mode@2x.png)
 
 
 

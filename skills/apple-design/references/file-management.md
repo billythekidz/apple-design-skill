@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a document with the upper right corner folded in, suggesting interaction with files. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/file-management/patterns-file-management-intro_2x.png)
+![A sketch of a document with the upper right corner folded in, suggesting interaction with files. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-file-management-intro@2x.png)
 
 
 
@@ -56,7 +56,7 @@ You can customize all three parts of the document launcher. Although the system 
 
 
 
-![A screenshot of a writing app's document launcher on iPad in landscape orientation. The document launcher displays a custom background and two accessory images. At the bottom, the file browser sheet provides 3 tabs: Recents, Shared, and Browse.](./images/file-management/file-management-document-launcher_2x.png)
+![A screenshot of a writing app's document launcher on iPad in landscape orientation. The document launcher displays a custom background and two accessory images. At the bottom, the file browser sheet provides 3 tabs: Recents, Shared, and Browse.](/images/com.apple.HIG/file-management-document-launcher@2x.png)
 
 
 

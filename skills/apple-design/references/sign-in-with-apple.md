@@ -8,7 +8,7 @@
 
 
 
-![A sketch of the Apple logo, suggesting Sign in with Apple. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](./images/sign-in-with-apple/technologies-SIWA-intro_2x.png)
+![A sketch of the Apple logo, suggesting Sign in with Apple. The image is overlaid with rectangular and circular grid lines and is tinted blue to subtly reflect the blue in the original six-color Apple logo.](/images/com.apple.HIG/technologies-SIWA-intro@2x.png)
 
 
 
@@ -37,7 +37,7 @@ Follow these guidelines to offer Sign in with Apple when it’s most convenient 
 
 
 
-![An illustration representing an order confirmation screen on iPhone. The screen includes buttons titled 'Create Account' and 'Sign up with Apple'.](./images/sign-in-with-apple/create-account-after-purchase_2x.png)
+![An illustration representing an order confirmation screen on iPhone. The screen includes buttons titled 'Create Account' and 'Sign up with Apple'.](/images/com.apple.HIG/create-account-after-purchase@2x.png)
 
 
 
@@ -89,7 +89,7 @@ For watchOS, the system provides one title:  Sign in.
 
 
 
-![An illustration of a button for watchOS, that includes the Apple logo and text that reads 'Sign in'.](./images/sign-in-with-apple/apple-account-watch-44mm-no-background_2x.png)
+![An illustration of a button for watchOS, that includes the Apple logo and text that reads 'Sign in'.](/images/com.apple.HIG/apple-account-watch-44mm-no-background@2x.png)
 
 
 
@@ -111,7 +111,7 @@ Unlike the black Sign in with Apple button for other platforms, the watchOS butt
 
 
 
-![An illustration of a dark shaded button for watchOS on a black background, that includes the Apple logo and text that reads 'Sign in'.](./images/sign-in-with-apple/apple-account-watch-44mm_2x.png)
+![An illustration of a dark shaded button for watchOS on a black background, that includes the Apple logo and text that reads 'Sign in'.](/images/com.apple.HIG/apple-account-watch-44mm@2x.png)
 
 
 
@@ -132,7 +132,7 @@ If your interface requires it, you can create a custom Sign in with Apple button
 
 
 
-![An illustration that includes two side-by-side partial iPhones showing sign-in screens. The screen on the left includes four stacked buttons: Sign in with Apple, Sign in with X, Sign in with Y, and Sign in with Z. The Sign in with Apple button includes an Apple logo before its title. The Sign in with X button includes a filled circle before its title. The Sign in with Y button includes a filled square before its title. The Sign in with Z button includes a filled triangle before its title. The screen on the right includes a heading that reads 'Sign in with', which appears above a row of four square buttons containing glyphs. The first square button contains the Apple logo. The second square button contains a filled circle. The third square button contains a filled square. The fourth square button contains a filled triangle. The circle, square, and triangle shapes represent a variety of logos.](./images/sign-in-with-apple/custom-sign-in-screens_2x.png)
+![An illustration that includes two side-by-side partial iPhones showing sign-in screens. The screen on the left includes four stacked buttons: Sign in with Apple, Sign in with X, Sign in with Y, and Sign in with Z. The Sign in with Apple button includes an Apple logo before its title. The Sign in with X button includes a filled circle before its title. The Sign in with Y button includes a filled square before its title. The Sign in with Z button includes a filled triangle before its title. The screen on the right includes a heading that reads 'Sign in with', which appears above a row of four square buttons containing glyphs. The first square button contains the Apple logo. The second square button contains a filled circle. The third square button contains a filled square. The fourth square button contains a filled triangle. The circle, square, and triangle shapes represent a variety of logos.](/images/com.apple.HIG/custom-sign-in-screens@2x.png)
 
 
 
@@ -171,13 +171,13 @@ To coordinate with your app design, you can change:
 
 
 
-![An illustration of a Sign in with Apple button, with callouts that indicate a button height of 44 points and a font size of 19 points.](./images/sign-in-with-apple/left-aligned-correct-proportions-2_2x.png)
+![An illustration of a Sign in with Apple button, with callouts that indicate a button height of 44 points and a font size of 19 points.](/images/com.apple.HIG/left-aligned-correct-proportions-2@2x.png)
 
 
 
 
 
-![An illustration of a Sign in with Apple button, with callouts that indicate a button height of 56 points and a font size of 24 points.](./images/sign-in-with-apple/left-aligned-correct-proportions-1_2x.png)
+![An illustration of a Sign in with Apple button, with callouts that indicate a button height of 56 points and a font size of 24 points.](/images/com.apple.HIG/left-aligned-correct-proportions-1@2x.png)
 
 
 

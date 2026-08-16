@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of the Notes app appearing as the result in the Top Hit area of Spotlight, along with App Shortcuts for creating a new note and opening two other recent notes. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/app-shortcuts/components-app-shortcuts-intro_2x.png)
+![A stylized representation of the Notes app appearing as the result in the Top Hit area of Spotlight, along with App Shortcuts for creating a new note and opening two other recent notes. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-app-shortcuts-intro@2x.png)
 
 
 
@@ -35,7 +35,7 @@ App Shortcuts are useful for exposing unique features or custom content to the s
 
 
 
-![A diagram of the activation phrase of a shortcut for ordering a drink from a coffee app. The activation phrase contains an optional value for the name of the drink, which is underlined and called out as the shortcut's parameter.](./images/app-shortcuts/app-intents-parameter-diagram_2x.png)
+![A diagram of the activation phrase of a shortcut for ordering a drink from a coffee app. The activation phrase contains an optional value for the name of the drink, which is underlined and called out as the shortcut's parameter.](/images/com.apple.HIG/app-intents-parameter-diagram@2x.png)
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a three-row table with header and footer text. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/lists-and-tables/components-lists-and-tables-intro_2x.png)
+![A stylized representation of a three-row table with header and footer text. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-lists-and-tables-intro@2x.png)
 
 
 

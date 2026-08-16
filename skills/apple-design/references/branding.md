@@ -8,7 +8,7 @@
 
 
 
-![A sketch of a megaphone, suggesting communication. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](./images/branding/foundations-branding-intro_2x.png)
+![A sketch of a megaphone, suggesting communication. The image is overlaid with rectangular and circular grid lines and is tinted yellow to subtly reflect the yellow in the original six-color Apple logo.](/images/com.apple.HIG/foundations-branding-intro@2x.png)
 
 
 

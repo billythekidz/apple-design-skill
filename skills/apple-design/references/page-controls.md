@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a page control with an indicator denoting the active page. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/page-controls/components-page-dots-intro_2x.png)
+![A stylized representation of a page control with an indicator denoting the active page. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-page-dots-intro@2x.png)
 
 
 
@@ -48,7 +48,7 @@ A page control can adjust the appearance of indicators to provide more informati
 
 
 
-![An illustration of a page control. The page control displays a total of 9 dots. The center 5 dots use the default size; the second and eighth dots are about half the default size and the first and ninth dots are about one quarter the default size. The center dot is filled, indicating the location of the current page in the list.](./images/page-controls/page-controls-many-indicators_2x.png)
+![An illustration of a page control. The page control displays a total of 9 dots. The center 5 dots use the default size; the second and eighth dots are about half the default size and the first and ninth dots are about one quarter the default size. The center dot is filled, indicating the location of the current page in the list.](/images/com.apple.HIG/page-controls-many-indicators@2x.png)
 
 
 

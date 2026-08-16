@@ -8,7 +8,7 @@
 
 
 
-![A sketch of an arrow that starts right, curves upward, and points to the left, suggesting a return to the start. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](./images/undo-and-redo/patterns-undo-redo-intro_2x.png)
+![A sketch of an arrow that starts right, curves upward, and points to the left, suggesting a return to the start. The image is overlaid with rectangular and circular grid lines and is tinted orange to subtly reflect the orange in the original six-color Apple logo.](/images/com.apple.HIG/patterns-undo-redo-intro@2x.png)
 
 
 

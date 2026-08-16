@@ -8,7 +8,7 @@
 
 
 
-![A stylized representation of a set of menu items extending up from an app icon. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](./images/home-screen-quick-actions/components-home-screen-quick-actions-intro_2x.png)
+![A stylized representation of a set of menu items extending up from an app icon. The image is tinted red to subtly reflect the red in the original six-color Apple logo.](/images/com.apple.HIG/components-home-screen-quick-actions-intro@2x.png)
 
 
 
