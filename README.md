@@ -80,15 +80,27 @@ Sau khi cài đặt, AI Agent sẽ tự động nhận diện kỹ năng này m�
 
 ---
 
-## 🛠️ Bộ công cụ CLI tích hợp
+## 🛠️ Bộ công cụ CLI & Audit Engine
 
 ```bash
-# Quét kiểm tra vi phạm chuẩn Apple HIG trong dự án:
+# 1. Quét tự động & Chấm điểm 0–100 toàn bộ dự án:
 npm run audit
 
-# Cập nhật / tải lại toàn bộ tài liệu & hình ảnh HIG từ Apple CDN:
+# 2. Kiểm tra tỉ lệ tương phản màu chuẩn WCAG AA:
+node skills/apple-design/scripts/audit-apple-design.mjs contrast "#8E8E93" "#FFFFFF"
+
+# 3. Kiểm tra kích thước vùng chạm (Touch Target >= 44x44pt):
+node skills/apple-design/scripts/audit-apple-design.mjs target 32 32
+
+# 4. Kiểm tra hàng loạt qua file JSON (Batch verification):
+node skills/apple-design/scripts/audit-apple-design.mjs batch audit.json
+
+# 5. Cập nhật / tải lại toàn bộ 172 tài liệu & 451 hình ảnh HIG từ Apple CDN:
 npm run fetch-hig
 ```
+
+### 📋 Mẫu báo cáo đánh giá (Scorecard Template):
+Tham khảo mẫu báo cáo đánh giá 5 trụ cột chuẩn Apple tại [`skills/apple-design/templates/apple-hig-audit-scorecard.md`](skills/apple-design/templates/apple-hig-audit-scorecard.md).
 
 ---
 

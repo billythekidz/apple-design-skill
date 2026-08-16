@@ -1,7 +1,7 @@
 ---
 name: apple-design
-description: Complete Apple Human Interface Guidelines (HIG) and Apple Design System standard. Use when designing, building, or reviewing UI/UX for iOS, iPadOS, macOS, watchOS, visionOS, or Apple-styled web and mobile applications.
-version: 1.0.0
+description: Complete Apple Human Interface Guidelines (HIG) and Apple Design System standard. Use when designing, building, or auditing UI/UX for iOS, iPadOS, macOS, watchOS, visionOS, or Apple-styled web and mobile applications.
+version: 1.1.0
 license: MIT
 author: apple-design-skill
 tags:
@@ -14,11 +14,68 @@ tags:
   - visionos
   - web-design
   - ui-ux
+  - audit
 ---
 
 # Apple Design System & Human Interface Guidelines (HIG)
 
-This skill equips AI coding agents with the exact principles, visual specifications, component architectures, typography metrics, color tokens, and motion curves defined by **Apple's Human Interface Guidelines (HIG)** across iOS, iPadOS, macOS, watchOS, visionOS, and modern Apple-grade Web UI.
+This skill equips AI coding agents with the exact principles, visual specifications, component architectures, typography metrics, color tokens, motion curves, and automated compliance auditing defined by **Apple's Human Interface Guidelines (HIG)** across iOS, iPadOS, macOS, watchOS, visionOS, and modern Apple-grade Web UI.
+
+---
+
+## 🎯 Operational Modes
+
+### Mode 1 — Design & Build from Scratch
+When tasked with creating new screens, apps, or web interfaces in Apple style:
+1. Choose the platform-native navigation paradigm (e.g. Bottom Tab Bar for iOS, Sidebar for macOS/iPad, Ornaments for visionOS).
+2. Establish the 8pt spatial grid and continuous squircle curvature (`G2 continuity`).
+3. Apply the SF Pro / New York typography scale with optical tracking rules.
+4. Implement semantic Dynamic Colors (Light & OLED Dark mode) and Liquid Frosted Glass materials.
+5. Apply Apple spring physics (`cubic-bezier(0.25, 1, 0.5, 1)`) and tactile active feedback (`scale(0.97)`).
+
+### Mode 2 — Apple HIG Compliance Audit & Scoring
+When reviewing an existing codebase, mockup, or component:
+1. Run the audit tool `node skills/apple-design/scripts/audit-apple-design.mjs` to perform automated static scanning with a **0–100 Scoring Rubric**.
+2. Perform exact mathematical WCAG contrast checks and 44×44pt touch-target validations.
+3. Fill out the **[Apple HIG Audit Scorecard](templates/apple-hig-audit-scorecard.md)** across the 5 core pillars.
+4. Deliver prioritized findings with **Confidence Tagging**:
+   - 🟢 **Tool-verified**: Statistically measured via CLI tool (e.g., contrast ratio, button dimension, static CSS rules).
+   - 🟡 **Needs device test**: Requires hardware interaction (e.g., Dynamic Type at 300%, Reduce Transparency toggle, VoiceOver speech hierarchy).
+   - 🔴 **Assumed**: Contextual design trade-off or subjective aesthetic evaluation.
+
+---
+
+## 🛠️ The Apple HIG Compliance CLI Engine
+
+The built-in audit engine (`skills/apple-design/scripts/audit-apple-design.mjs`) provides four subcommands:
+
+```bash
+# 1. Full Codebase Static Scan with 0-100 Scorecard (Default)
+npm run audit
+# or: node skills/apple-design/scripts/audit-apple-design.mjs [path]
+
+# 2. WCAG Relative Luminance Contrast Ratio Check
+node skills/apple-design/scripts/audit-apple-design.mjs contrast "#8E8E93" "#FFFFFF"
+# -> Contrast Ratio: 3.26:1 [🔴 FAILED - Needs >= 4.5:1]
+
+# 3. Tap Target Sizing Validation (44x44 pt minimum)
+node skills/apple-design/scripts/audit-apple-design.mjs target 32 32
+# -> Tap Target: 32x32 pt [🔴 FAILED - Minimum 44x44 pt]
+
+# 4. Batch JSON Automated Verification
+node skills/apple-design/scripts/audit-apple-design.mjs batch audit.json
+```
+
+### Audit Scoring Rubric:
+- Base score: **100 points**.
+- Point deductions:
+  - Critical violation (WCAG AA failure, forbidden neon on dark): **-15 pts**
+  - Major violation (Touch target < 44pt, harsh black shadow): **-10 pts**
+  - Polish recommendation (Linear easing, missing SF font stack): **-5 pts**
+- Scorecard Classification:
+  - 🟢 **85 – 100 pts**: **App Store Ready (Ship)**
+  - 🟡 **70 – 84 pts**: **Needs Polish (Fix before release)**
+  - 🔴 **< 70 pts**: **High Risk (Systematic rework required)**
 
 ---
 
@@ -33,7 +90,7 @@ Apple interfaces are built upon three primary pillars:
 
 2. **Deference**:
    - Fluid motion, translucent materials, and crisp typography elevate content without competing with it.
-   - Backgrounds defer to content; chrome recedes when the user is engaged in primary tasks (e.g. navigation bars collapse or blur seamlessly on scroll).
+   - Backgrounds defer to content; chrome recedes when the user is engaged in primary tasks.
 
 3. **Depth**:
    - Distinct visual layers, realistic lighting, specular highlights, and physical spring physics convey spatial hierarchy and tactile realism.
@@ -44,7 +101,7 @@ Apple interfaces are built upon three primary pillars:
 ## 2. Universal Apple Design Tenets & Critical Rules
 
 ### 🚫 Forbidden Anti-Patterns (Never Do These)
-- **NO Purple/Violet On Dark Themes**: Never use purple fonts or violet accent buttons on dark backgrounds.
+- **NO Purple/Violet On Dark Themes**: Never use purple fonts or violet accent buttons on dark backgrounds. Use Apple System Blue (`#0A84FF`) or semantic system tints.
 - **NO Harsh Drop Shadows**: Never use dense black un-diffused box shadows (`box-shadow: 0 4px 10px rgba(0,0,0,0.5)`). Use multi-layered ambient diffusion (`box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.04)`).
 - **NO Sharp / Geometric Corners**: Never leave interactive controls, cards, or inputs with 0px radius or arbitrary non-continuous corners.
 - **NO Untracked Large Typography**: Never render large headings (>24px) without tight letter-spacing (-0.02em to -0.03em / -0.5px to -1.2px).
@@ -75,88 +132,9 @@ Apple interfaces are built upon three primary pillars:
 | **Caption 1** | 12px | Regular (400) | 16px | `0.005em (+0.06px)` |
 | **Caption 2** | 11px | Regular / Medium | 13px | `0.010em (+0.11px)` |
 
-> *Rule of thumb: Sizes >= 20px use **SF Pro Display** with tighter tracking; sizes < 20px use **SF Pro Text** with neutral to open tracking for readability.*
-
 ---
 
-### B. Dynamic Color System (Light & Dark Mode)
-Always use semantic color tokens that dynamically adapt between light and dark appearances:
-
-```css
-:root {
-  /* System Backgrounds */
-  --system-background: #FFFFFF;
-  --secondary-system-background: #F2F2F7;
-  --tertiary-system-background: #FFFFFF;
-  --system-grouped-background: #F2F2F7;
-  --secondary-grouped-background: #FFFFFF;
-  
-  /* System Labels */
-  --label-primary: #000000;
-  --label-secondary: rgba(60, 60, 67, 0.60);
-  --label-tertiary: rgba(60, 60, 67, 0.30);
-  --label-quaternary: rgba(60, 60, 67, 0.18);
-  
-  /* System Fills & Separators */
-  --system-fill: rgba(120, 120, 128, 0.20);
-  --secondary-system-fill: rgba(120, 120, 128, 0.16);
-  --tertiary-system-fill: rgba(118, 118, 128, 0.12);
-  --quaternary-system-fill: rgba(116, 116, 128, 0.08);
-  --separator: rgba(60, 60, 67, 0.29);
-  --opaque-separator: #C6C6C8;
-
-  /* Accent Tint Colors */
-  --system-blue: #007AFF;
-  --system-green: #34C759;
-  --system-indigo: #5856D6;
-  --system-orange: #FF9500;
-  --system-pink: #FF2D55;
-  --system-purple: #AF52DE;
-  --system-red: #FF3B30;
-  --system-teal: #5AC8FA;
-  --system-yellow: #FFCC00;
-}
-
-@media (prefers-color-scheme: dark), [data-theme="dark"] {
-  :root {
-    /* System Backgrounds */
-    --system-background: #000000;
-    --secondary-system-background: #1C1C1E;
-    --tertiary-system-background: #2C2C2E;
-    --system-grouped-background: #000000;
-    --secondary-grouped-background: #1C1C1E;
-
-    /* System Labels */
-    --label-primary: #FFFFFF;
-    --label-secondary: rgba(235, 235, 245, 0.60);
-    --label-tertiary: rgba(235, 235, 245, 0.30);
-    --label-quaternary: rgba(235, 235, 245, 0.16);
-
-    /* System Fills & Separators */
-    --system-fill: rgba(120, 120, 128, 0.36);
-    --secondary-system-fill: rgba(120, 120, 128, 0.32);
-    --tertiary-system-fill: rgba(118, 118, 128, 0.24);
-    --quaternary-system-fill: rgba(118, 118, 128, 0.18);
-    --separator: rgba(84, 84, 88, 0.65);
-    --opaque-separator: #38383A;
-
-    /* Accent Tint Colors (Elevated Luma in Dark) */
-    --system-blue: #0A84FF;
-    --system-green: #30D158;
-    --system-indigo: #5E5CE6;
-    --system-orange: #FF9F0A;
-    --system-pink: #FF375F;
-    --system-purple: #BF5AF2;
-    --system-red: #FF453A;
-    --system-teal: #64D2FF;
-    --system-yellow: #FFD60A;
-  }
-}
-```
-
----
-
-### C. Materials, Translucency & Specular Glass
+## 4. Materials, Translucency & Specular Glass
 
 Apple materials blur underlying content to create visual grounding while maintaining vibrancy:
 
@@ -183,43 +161,6 @@ Apple materials blur underlying content to create visual grounding while maintai
 
 ---
 
-### D. Continuous Curvature (Squircle / iOS Superellipse)
-Apple uses smooth continuous curvature (`G2 continuity`) rather than sharp circular arcs:
-
-- **Buttons & Small Controls**: `10px` to `12px` (Capsule: `9999px`)
-- **Cards & Content Blocks**: `16px` to `20px`
-- **Modals & Floating Sheets**: `24px` to `32px`
-- **visionOS Windows & Ornaments**: `30px` to `44px`
-- **CSS Smoothing Property**: `corner-smoothing: 60%;` (when supported) or SVG continuous superellipse masks.
-
----
-
-## 4. Standard Apple Components & Specs
-
-### 1. Apple Buttons
-- **Filled Prominent**: Full accent background (`--system-blue`), white text, bold weight, spring tap press (`scale(0.97)`).
-- **Tinted**: 15% opacity accent background, 100% accent text.
-- **Gray**: `--quaternary-system-fill` background, primary label text.
-- **Plain**: No background, accent colored text, subtle underline on focus.
-
-### 2. Segmented Control
-- Background: `--tertiary-system-fill` with `8px` squircle padding.
-- Selected Pill: White background in light mode (`rgba(255,255,255,1)` with `0 2px 6px rgba(0,0,0,0.12)` shadow), `--tertiary-system-background` in dark mode.
-- Transition: Smooth spring translation on active tab change.
-
-### 3. Inset Grouped List (Settings Pattern)
-- Outer container margin: `16px` left/right.
-- Inner row height: `44px` minimum.
-- Row separation: `0.5px` border indented by `16px` + leading icon width.
-- Accessory indicators: Subtle disclosure chevron (`SF Symbol: chevron.right`) in `--label-tertiary`.
-
-### 4. Navigation Bar & Large Title
-- Compact view: `44px` height with centered Title (`17px SemiBold`).
-- Expanded view: `52px` Large Title (`34px Bold`), collapses seamlessly into inline title upon scroll offset > 50px.
-- Background: Transparent at scroll origin; transitions to ultra-thin blurred material when content scrolls beneath.
-
----
-
 ## 5. Animation Physics (Apple Spring Curves)
 
 Never use linear or standard ease curves for interactive UI. Use authentic Apple spring physics:
@@ -228,7 +169,6 @@ Never use linear or standard ease curves for interactive UI. Use authentic Apple
 - **Interactive / Tap feedback**: `mass: 1, stiffness: 350, damping: 35` (CSS approx: `cubic-bezier(0.25, 1, 0.5, 1)`)
 - **Sheet Presentation / Modal Slide**: `mass: 1.2, stiffness: 280, damping: 28` (CSS approx: `cubic-bezier(0.32, 0.72, 0, 1)`)
 - **Snappy Switch / Toggle**: `mass: 0.8, stiffness: 450, damping: 30`
-- **Bounce / Delight**: `mass: 1, stiffness: 200, damping: 15`
 
 ```css
 /* Apple Native Motion Classes */
@@ -240,55 +180,19 @@ Never use linear or standard ease curves for interactive UI. Use authentic Apple
 .apple-spring-interactive:active {
   transform: scale(0.965);
 }
-
-.apple-spring-sheet {
-  transition: transform 0.5s cubic-bezier(0.32, 0.72, 0, 1),
-              opacity 0.4s ease;
-}
 ```
 
 ---
 
-## 6. Implementation Workflow for AI Agents
-
-When asked to generate UI or write code in Apple style:
-
-1. **Step 1: Check Hierarchy & Layout**:
-   - Apply standard 8pt grid spacing (8px, 16px, 24px, 32px, 48px).
-   - Ensure 44pt minimum touch targets.
-
-2. **Step 2: Apply Typography Tokens**:
-   - Use `-apple-system` font stack with corresponding tracking and weights.
-
-3. **Step 3: Theme & Material Grounding**:
-   - Implement both Light and Dark mode variables.
-   - Use frosted glass backdrop filters for headers, navigation bars, and floating controls.
-
-4. **Step 4: Micro-interactions & Haptic Delight**:
-   - Add `:active { transform: scale(0.97); }` with spring curves on all interactive controls.
-   - Add hover elevation and cursor pointer on desktop environments.
-
-5. **Step 5: Verify Accessibility**:
-   - Ensure text contrast meets WCAG AA (minimum 4.5:1 for body, 3:1 for large text).
-   - Support `prefers-reduced-motion` to disable bouncy animations.
-
----
-
-## 7. Bundled Resources & Full Apple HIG Library
-
-This skill includes **172 complete official Apple Human Interface Guidelines** documentation pages with **451+ local Retina illustrations** in the `references/` directory:
+## 6. Bundled Resources & Full Apple HIG Library
 
 - **[Master HIG Documentation Catalog (INDEX.md)](references/INDEX.md)**: Full searchable index of all 172 guideline topics.
-- **Foundations**: [Accessibility](references/accessibility.md), [App Icons](references/app-icons.md), [Color](references/color.md), [Dark Mode](references/dark-mode.md), [Layout](references/layout.md), [Materials](references/materials.md), [Motion](references/motion.md), [Typography](references/typography.md), [Right to Left](references/right-to-left.md).
-- **Components**: [Buttons](references/buttons.md), [Segmented Controls](references/segmented-controls.md), [Toggles](references/toggles.md), [Pickers](references/pickers.md), [Sliders](references/sliders.md), [Sheets](references/sheets.md), [Popovers](references/popovers.md), [Alerts](references/alerts.md), [Tab Bars](references/tab-bars.md), [Sidebars](references/sidebars.md), [Navigation & Search](references/navigation-and-search.md), [Toolbars](references/toolbars.md), [Lists & Tables](references/lists-and-tables.md).
-- **Platforms**: [Designing for iOS](references/designing-for-ios.md), [Designing for macOS](references/designing-for-macos.md), [Designing for iPadOS](references/designing-for-ipados.md), [Designing for visionOS](references/designing-for-visionos.md), [Designing for watchOS](references/designing-for-watchos.md), [Designing for tvOS](references/designing-for-tvos.md), [Designing for Games](references/designing-for-games.md).
-- **Technologies & Patterns**: [Generative AI](references/generative-ai.md), [Live Activities](references/live-activities.md), [SF Symbols](references/sf-symbols.md), [Apple Pay](references/apple-pay.md), [Widgets](references/widgets.md), [Spatial Layout](references/spatial-layout.md), [Augmented Reality](references/augmented-reality.md).
-- **Developer Assets & Presets**:
+- **[Apple HIG Audit Scorecard Template](templates/apple-hig-audit-scorecard.md)**: Standard 5-pillar evaluation scorecard.
+- **Assets & Presets**:
   - `assets/apple-tokens.css`: Complete CSS variable design token stylesheet.
   - `assets/apple-components.css`: Ready-to-use CSS components (Buttons, Glass cards, Segmented, Sheets).
   - `assets/tailwind.preset.apple.js`: Tailwind configuration preset.
   - `assets/swiftui-cheat-sheet.md`: Idiomatic SwiftUI patterns.
 - **CLI Automation Tools**:
-  - `npm run audit`: Scans codebases for Apple HIG violations and anti-patterns.
+  - `npm run audit`: Scans codebases for Apple HIG violations and generates a 0–100 score.
   - `npm run fetch-hig`: Fetches/updates the entire Apple HIG documentation and illustrations from Apple CDN.
-
