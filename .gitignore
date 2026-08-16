@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing and coverage
+coverage/
+
+# Production build artifacts
+dist/
+build/
+
+# Misc
+.DS_Store
+*.pem
+
+# Agent local state / temporary files
+.agents/
+.claude/skills-lock.json
+.cursor/skills-lock.json
+skills-lock.json
+
+# Local cached HIG images (fetchable via npm run fetch-hig)
+skills/apple-design/references/images/
+references/images/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

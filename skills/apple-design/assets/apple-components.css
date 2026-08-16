@@ -1,0 +1,303 @@
+/**
+ * Apple Design System - Production CSS Component Stylesheet
+ * Pre-built authentic Apple HIG components.
+ */
+
+@import url("./apple-tokens.css");
+
+/* ==========================================================================
+   Base Typography & Resets
+   ========================================================================== */
+body {
+  font-family: var(--apple-font-sans);
+  background-color: var(--apple-system-background);
+  color: var(--apple-label);
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ==========================================================================
+   Apple Buttons
+   ========================================================================== */
+.apple-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 20px;
+  font-family: var(--apple-font-sans);
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  border-radius: var(--apple-radius-md);
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  box-sizing: border-box;
+  user-select: none;
+  transition: transform 0.2s var(--apple-ease-interactive),
+              filter 0.2s ease,
+              opacity 0.2s ease,
+              background-color 0.2s ease;
+}
+
+.apple-btn:active {
+  transform: scale(0.965);
+}
+
+.apple-btn-capsule {
+  border-radius: var(--apple-radius-full);
+}
+
+.apple-btn-sm {
+  height: 32px;
+  padding: 0 14px;
+  font-size: 14px;
+  border-radius: var(--apple-radius-sm);
+}
+
+.apple-btn-lg {
+  height: 52px;
+  padding: 0 26px;
+  font-size: 19px;
+  border-radius: var(--apple-radius-lg);
+}
+
+/* 1. Filled Button */
+.apple-btn-filled {
+  background-color: var(--apple-blue);
+  color: #FFFFFF;
+}
+
+.apple-btn-filled:hover {
+  filter: brightness(1.06);
+}
+
+.apple-btn-filled:active {
+  filter: brightness(0.92);
+}
+
+/* 2. Tinted Button */
+.apple-btn-tinted {
+  background-color: rgba(0, 122, 255, 0.12);
+  color: var(--apple-blue);
+}
+
+@media (prefers-color-scheme: dark), [data-theme="dark"] {
+  .apple-btn-tinted {
+    background-color: rgba(10, 132, 255, 0.20);
+  }
+}
+
+.apple-btn-tinted:hover {
+  background-color: rgba(0, 122, 255, 0.18);
+}
+
+/* 3. Gray Button */
+.apple-btn-gray {
+  background-color: var(--apple-tertiary-system-fill);
+  color: var(--apple-label);
+}
+
+.apple-btn-gray:hover {
+  background-color: var(--apple-secondary-system-fill);
+}
+
+/* 4. Plain Button */
+.apple-btn-plain {
+  background-color: transparent;
+  color: var(--apple-blue);
+  padding: 0 8px;
+}
+
+.apple-btn-plain:hover {
+  opacity: 0.8;
+}
+
+/* ==========================================================================
+   Apple Frosted Glass & Surface Panels
+   ========================================================================== */
+.apple-glass {
+  background: var(--apple-material-ultra-thin);
+  backdrop-filter: var(--apple-material-blur);
+  -webkit-backdrop-filter: var(--apple-material-blur);
+  border: 1px solid var(--apple-material-border);
+  box-shadow: var(--apple-shadow-md);
+  border-radius: var(--apple-radius-lg);
+}
+
+.apple-card {
+  background-color: var(--apple-secondary-grouped-background);
+  border-radius: var(--apple-radius-lg);
+  padding: 20px;
+  box-shadow: var(--apple-shadow-sm);
+  transition: transform 0.25s var(--apple-ease-interactive),
+              box-shadow 0.25s ease;
+}
+
+.apple-card-interactive:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--apple-shadow-md);
+}
+
+.apple-card-interactive:active {
+  transform: scale(0.985);
+}
+
+/* ==========================================================================
+   Segmented Control
+   ========================================================================== */
+.apple-segmented-control {
+  display: inline-flex;
+  background-color: var(--apple-tertiary-system-fill);
+  border-radius: 9px;
+  padding: 2px;
+  user-select: none;
+  position: relative;
+}
+
+.apple-segment-item {
+  position: relative;
+  z-index: 2;
+  padding: 6px 16px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--apple-label);
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 7px;
+  transition: color 0.2s ease, font-weight 0.2s ease;
+}
+
+.apple-segment-item.active {
+  font-weight: 600;
+  background-color: #FFFFFF;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12), 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+@media (prefers-color-scheme: dark), [data-theme="dark"] {
+  .apple-segment-item.active {
+    background-color: var(--apple-tertiary-system-background);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+  }
+}
+
+/* ==========================================================================
+   Inset Grouped List (Settings Rows)
+   ========================================================================== */
+.apple-grouped-list {
+  background-color: var(--apple-secondary-grouped-background);
+  border-radius: var(--apple-radius-lg);
+  overflow: hidden;
+  margin: 16px 0;
+  box-shadow: var(--apple-shadow-sm);
+}
+
+.apple-list-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 48px;
+  padding: 10px 16px;
+  position: relative;
+  text-decoration: none;
+  color: var(--apple-label);
+  transition: background-color 0.15s ease;
+}
+
+.apple-list-row:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 56px;
+  right: 0;
+  height: 0.5px;
+  background-color: var(--apple-separator);
+}
+
+.apple-list-row:active {
+  background-color: var(--apple-quaternary-system-fill);
+}
+
+.apple-list-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 7px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 14px;
+  color: #FFFFFF;
+  font-size: 15px;
+}
+
+/* ==========================================================================
+   Navigation Bar (Collapsing Large Title)
+   ========================================================================== */
+.apple-nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  box-sizing: border-box;
+  background: var(--apple-material-ultra-thin);
+  backdrop-filter: var(--apple-material-blur);
+  -webkit-backdrop-filter: var(--apple-material-blur);
+  border-bottom: 0.5px solid var(--apple-separator);
+}
+
+.apple-nav-title {
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+
+/* ==========================================================================
+   Bottom Modal Sheet
+   ========================================================================== */
+.apple-sheet-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 998;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.apple-sheet {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  max-width: 680px;
+  margin: 0 auto;
+  background-color: var(--apple-secondary-system-background);
+  border-top-left-radius: var(--apple-radius-2xl);
+  border-top-right-radius: var(--apple-radius-2xl);
+  padding: 12px 24px 36px 24px;
+  z-index: 999;
+  box-shadow: var(--apple-shadow-sheet);
+  animation: appleSheetSlideUp 0.45s var(--apple-ease-sheet);
+}
+
+.apple-sheet-grabber {
+  width: 36px;
+  height: 5px;
+  border-radius: 2.5px;
+  background-color: var(--apple-tertiary-label);
+  margin: 0 auto 16px auto;
+}
+
+@keyframes appleSheetSlideUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}

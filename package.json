@@ -1,0 +1,45 @@
+{
+  "name": "apple-design-skill",
+  "version": "1.0.0",
+  "description": "Apple Human Interface Guidelines (HIG) & Apple Design System skill for AI coding agents (Claude Code, Cursor, GitHub Copilot, Antigravity, Windsurf, Cline).",
+  "main": "skills/apple-design/SKILL.md",
+  "bin": {
+    "fetch-apple-hig": "./scripts/fetch-apple-hig.mjs",
+    "audit-apple-design": "./skills/apple-design/scripts/audit-apple-design.mjs"
+  },
+  "scripts": {
+    "fetch-hig": "node scripts/fetch-apple-hig.mjs",
+    "audit": "node skills/apple-design/scripts/audit-apple-design.mjs",
+    "test": "node skills/apple-design/scripts/audit-apple-design.mjs --help"
+  },
+  "keywords": [
+    "agent-skill",
+    "skills",
+    "skills-sh",
+    "apple",
+    "apple-design",
+    "hig",
+    "human-interface-guidelines",
+    "swiftui",
+    "ui-ux",
+    "design-system",
+    "cursor",
+    "claude-code",
+    "copilot",
+    "antigravity",
+    "windsurf"
+  ],
+  "author": "billythekidz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billythekidz/apple-design-skill.git"
+  },
+  "files": [
+    "skills/**/*",
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "scripts/**/*"
+  ]
+}
