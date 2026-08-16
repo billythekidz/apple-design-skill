@@ -1,0 +1,57 @@
+name: Weekly Apple HIG Documentation Sync
+
+on:
+  schedule:
+    # Runs every Sunday at 00:00 UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+concurrency:
+  group: hig-sync
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync-hig:
+    runs-on: ubuntu-latest
+    name: Sync Apple HIG Guidelines
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci || true
+
+      - name: Run Incremental HIG Scraper
+        run: |
+          node scripts/fetch-apple-hig.mjs --skip-images
+
+      - name: Check for Guidelines Changes
+        id: git_diff
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [ -n "$(git status --porcelain skills/apple-design/references/)" ]; then
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in Apple HIG documentation."
+          else
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+            echo "No changes detected. HIG documentation is up to date."
+          fi
+
+      - name: Commit and Push Changes
+        if: steps.git_diff.outputs.changes_detected == 'true'
+        run: |
+          git add skills/apple-design/references/
+          git commit -m "chore(hig): sync latest Apple HIG guidelines and hash manifest [skip ci]"
+          git push
