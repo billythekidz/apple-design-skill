@@ -68,14 +68,11 @@ node skills/apple-design/scripts/audit-apple-design.mjs batch audit.json
 
 ### Audit Scoring Rubric:
 - Base score: **100 points**.
-- Point deductions:
-  - Critical violation (WCAG AA failure, forbidden neon on dark): **-15 pts**
-  - Major violation (Touch target < 44pt, harsh black shadow): **-10 pts**
-  - Polish recommendation (Linear easing, missing SF font stack): **-5 pts**
+- Point deduction: **-10 points per violation**.
 - Scorecard Classification:
-  - 🟢 **85 – 100 pts**: **App Store Ready (Ship)**
-  - 🟡 **70 – 84 pts**: **Needs Polish (Fix before release)**
-  - 🔴 **< 70 pts**: **High Risk (Systematic rework required)**
+  - 🟢 **90 – 100 pts**: **Ship (Sẵn sàng phát hành)** — Đạt chuẩn xuất sắc.
+  - 🟡 **70 – 89 pts**: **Cần sửa trước khi release (Fix before release)** — Cần khắc phục trước khi đưa lên App Store / production.
+  - 🔴 **< 70 pts**: **Cần thiết kế lại (Systematic redesign required)** — Vi phạm nghiêm trọng kiến trúc hoặc khả năng tiếp cận.
 
 ---
 

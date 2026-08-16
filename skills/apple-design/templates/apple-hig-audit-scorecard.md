@@ -73,10 +73,10 @@
 
 ## 🏆 Final HIG Compliance Score: `/100`
 
-### Rating Tiers:
-- 🟢 **85 – 100 pts: App Store Ready** — Compliant with Apple HIG standards. Ready for release.
-- 🟡 **70 – 84 pts: Needs Polish** — Structurally sound, but contains minor contrast, touch-target, or visual violations that should be resolved before release.
-- 🔴 **< 70 pts: High Risk** — Critical violations detected (accessibility failures, non-native patterns). Requires systematic redesign.
+### Rating Tiers (Thang điểm đánh giá):
+- 🟢 **90 – 100 pts: Ship (Sẵn sàng phát hành)** — Đạt chuẩn xuất sắc của Apple HIG. Đủ điều kiện phê duyệt & phát hành.
+- 🟡 **70 – 89 pts: Cần sửa trước khi release (Fix before release)** — Giao diện tốt nhưng còn một vài lỗi tương phản hoặc touch target cần khắc phục trước khi release.
+- 🔴 **< 70 pts: Cần thiết kế lại (Systematic redesign)** — Nhiều vi phạm nghiêm trọng về tính tiếp cận (Accessibility) hoặc kiến trúc giao diện. Cần thiết kế lại.
 
 ---
 

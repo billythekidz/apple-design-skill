@@ -2,11 +2,13 @@
 /**
  * 🍎 Apple Design System & HIG Compliance Audit Tool
  * 
- * Capabilities:
- *  1. Codebase static scan with 0-100 Scoring Rubric & Anti-pattern detection
- *  2. Precise WCAG Contrast Ratio calculation (contrast <fgHex> <bgHex>)
- *  3. Tap Target sizing check (target <width> <height>)
- *  4. Batch JSON verification & Scorecard generation (batch <audit.json>)
+ * Scoring Rubric:
+ *  - Base Score: 100 pts
+ *  - Deduction: -10 pts per violation
+ *  - Rating Tiers:
+ *      🟢 90 - 100 pts : Ship (Sẵn sàng phát hành)
+ *      🟡 70 - 89 pts  : Cần sửa trước khi release (Fix before release)
+ *      🔴 < 70 pts     : Cần thiết kế lại (Systematic redesign)
  */
 
 import { readdirSync, statSync, readFileSync } from "node:fs";
@@ -47,7 +49,7 @@ const HIG_RULES = [
   {
     id: "NO_PURPLE_ON_DARK",
     title: "Forbidden purple/violet accent on dark theme",
-    deduction: 15,
+    deduction: 10,
     severity: "critical",
     test: (content) => {
       const lower = content.toLowerCase();
@@ -92,8 +94,8 @@ const HIG_RULES = [
   {
     id: "LINEAR_EASING",
     title: "Generic non-physical easing used for UI transitions",
-    deduction: 5,
-    severity: "info",
+    deduction: 10,
+    severity: "warning",
     test: (content) => content.includes("transition:") && (content.includes("ease-in-out") || content.includes("linear")),
     message: "Apple uses spring physics or cubic-bezier(0.25, 1, 0.5, 1) instead of linear/ease-in-out for interactive UI elements.",
     confidence: "🟡 Needs device test"
@@ -101,8 +103,8 @@ const HIG_RULES = [
   {
     id: "GENERIC_FONT_FAMILY",
     title: "Missing Apple System font stack (-apple-system / SF Pro)",
-    deduction: 5,
-    severity: "info",
+    deduction: 10,
+    severity: "warning",
     test: (content, ext) => {
       if (ext !== ".css" && ext !== ".scss") return false;
       return content.includes("font-family") && !content.includes("-apple-system") && !content.includes("SF Pro");
@@ -182,7 +184,7 @@ if (command === "contrast") {
   console.log(`- WCAG AA (Normal Text >= 4.5:1): ${passedAA ? "🟢 PASSED" : "🔴 FAILED"}`);
   console.log(`- WCAG AA (Large Text >= 3.0:1):  ${passedLarge ? "🟢 PASSED" : "🔴 FAILED"}`);
   if (!passedAA) {
-    console.log(`\n💡 Tip: Use Apple semantic color (.secondaryLabel) or darken text to >= #6E6E73 on white.`);
+    console.log(`\n💡 Recommendation: Use Apple semantic color (.secondaryLabel) or darken text to >= #6E6E73 on white.`);
   }
   process.exit(0);
 }
@@ -200,7 +202,7 @@ if (command === "target") {
   console.log(`- Dimensions: ${w}×${h} pt`);
   console.log(`- Apple HIG 44×44pt Requirement: ${passed ? "🟢 PASSED" : "🔴 FAILED"}`);
   if (!passed) {
-    console.log(`\n💡 Tip: Keep the visible glyph small but expand the hit testing region to at least 44×44pt using padding or contentShape.`);
+    console.log(`\n💡 Recommendation: Keep the visible glyph small but expand the hit testing region to at least 44×44pt using padding or contentShape.`);
   }
   process.exit(0);
 }
@@ -220,18 +222,19 @@ if (command === "batch") {
       if (check.type === "contrast") {
         const ratio = checkContrast(check.fg, check.bg);
         if (ratio < 4.5) {
-          violations.push(`[Contrast] Ratio ${ratio}:1 fails for "${check.name || "element"}" (needs >= 4.5:1)`);
+          violations.push(`Contrast ${ratio}:1 fails for "${check.name || "element"}" (requires >= 4.5:1)`);
           score -= 10;
         }
       } else if (check.type === "target") {
         if (check.w < 44 || check.h < 44) {
-          violations.push(`[Touch Target] ${check.w}×${check.h} pt is under 44×44 pt minimum for "${check.name || "element"}"`);
+          violations.push(`Target ${check.w}×${check.h} pt small for "${check.name || "element"}" (requires >= 44×44 pt)`);
           score -= 10;
         }
       }
     }
     score = Math.max(0, score);
-    console.log(JSON.stringify({ score, rating: score >= 85 ? "App Store Ready" : score >= 70 ? "Needs Polish" : "High Risk", violations }, null, 2));
+    const rating = score >= 90 ? "Ship" : score >= 70 ? "Cần sửa trước khi release" : "Cần thiết kế lại";
+    console.log(JSON.stringify({ score, rating, violations }, null, 2));
     process.exit(0);
   } catch (err) {
     console.error("Error reading batch JSON file:", err.message);
@@ -258,15 +261,15 @@ for (const issue of issues) {
 }
 score = Math.max(0, score);
 
-let ratingBadge = "🟢 85-100: App Store Ready (Ship)";
-let summaryStatus = "READY TO SHIP";
+let ratingBadge = "🟢 90–100: Ship (Sẵn sàng phát hành)";
+let summaryStatus = "SHIP";
 
 if (score < 70) {
-  ratingBadge = "🔴 <70: High Risk (Systematic Rework Required)";
-  summaryStatus = "HIGH RISK";
-} else if (score < 85) {
-  ratingBadge = "🟡 70-84: Needs Polish (Fix Before Release)";
-  summaryStatus = "NEEDS POLISH";
+  ratingBadge = "🔴 <70: Cần thiết kế lại (Systematic Redesign Required)";
+  summaryStatus = "RE-DESIGN";
+} else if (score < 90) {
+  ratingBadge = "🟡 70–89: Cần sửa trước khi release (Fix Before Release)";
+  summaryStatus = "FIX BEFORE RELEASE";
 }
 
 console.log("--------------------------------------------------");
@@ -275,11 +278,11 @@ console.log(`📊 Rating Tier:         ${ratingBadge}`);
 console.log("--------------------------------------------------\n");
 
 if (issues.length === 0) {
-  console.log("✨ Outstanding! No Apple HIG violations or anti-patterns detected.\n");
+  console.log("✨ Outstanding! Score 100/100. No Apple HIG violations detected. Ready to Ship!\n");
   process.exit(0);
 }
 
-console.log(`⚠️ Found ${issues.length} recommendation(s):\n`);
+console.log(`⚠️ Found ${issues.length} violation(s) [-10 pts each]:\n`);
 
 issues.forEach((issue, idx) => {
   const icon = issue.severity === "critical" ? "🔴" : issue.severity === "warning" ? "🟡" : "ℹ️";
