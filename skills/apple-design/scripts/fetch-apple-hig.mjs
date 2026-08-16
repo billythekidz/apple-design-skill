@@ -1,20 +1,22 @@
 #!/usr/bin/env node
 /**
- * Apple Human Interface Guidelines (HIG) Scraper & Markdown Generator CLI
+ * 🍎 Apple Human Interface Guidelines (HIG) Scraper & Markdown Generator CLI
  * 
  * Fetches the entire official Apple HIG documentation from:
  * https://developer.apple.com/design/human-interface-guidelines
  * 
+ * Features:
  * - Multi-level parallel BFS discovery of all 170+ HIG documentation pages
  * - Parses DocC JSON AST into clean, high-fidelity GitHub Flavored Markdown
+ * - SHA-256 Content Hashing to incrementally detect changes & skip unchanged files
  * - Downloads all referenced images locally into references/images/<slug>/
- * - Preserves typography, callouts, tables, lists, and cross-references
- * - Organizes pages into structured .md files in the references folder
+ * - Generates .hash-manifest.json to track checksums across weekly syncs
  */
 
-import { writeFileSync, mkdirSync, existsSync } from "node:fs";
+import { writeFileSync, readFileSync, mkdirSync, existsSync } from "node:fs";
 import { join, dirname, basename } from "node:path";
 import { fileURLToPath } from "node:url";
+import { createHash } from "node:crypto";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -37,20 +39,38 @@ function getArg(flag, defaultValue) {
 const OUT_DIR = getArg("--out", DEFAULT_OUT_DIR);
 const CONCURRENCY = parseInt(getArg("--concurrency", "8"), 10);
 const SKIP_IMAGES = args.includes("--skip-images");
+const FORCE = args.includes("--force");
 const LIMIT = parseInt(getArg("--limit", "0"), 10);
 
-console.log("\n🍎 [Apple HIG Documentation Crawler & Markdown CLI]");
-console.log("=================================================");
+console.log("\n🍎 [Apple HIG Incremental Crawler & Hash Sync Engine]");
+console.log("=====================================================");
 console.log(`Output Directory : ${OUT_DIR}`);
 console.log(`Concurrency      : ${CONCURRENCY}`);
 console.log(`Download Images  : ${!SKIP_IMAGES}`);
+console.log(`Force Full Sync  : ${FORCE}`);
 if (LIMIT > 0) console.log(`Limit Pages      : ${LIMIT}`);
-console.log("=================================================\n");
+console.log("=====================================================\n");
 
 // Ensure output directories exist
 mkdirSync(OUT_DIR, { recursive: true });
 const IMAGES_DIR = join(OUT_DIR, "images");
 if (!SKIP_IMAGES) mkdirSync(IMAGES_DIR, { recursive: true });
+
+// Hash Manifest Helper
+const MANIFEST_PATH = join(OUT_DIR, ".hash-manifest.json");
+let manifest = { pages: {}, images: {}, lastSync: null };
+
+if (existsSync(MANIFEST_PATH) && !FORCE) {
+  try {
+    manifest = JSON.parse(readFileSync(MANIFEST_PATH, "utf-8"));
+  } catch (err) {
+    manifest = { pages: {}, images: {}, lastSync: null };
+  }
+}
+
+function computeSha256(bufferOrString) {
+  return createHash("sha256").update(bufferOrString).digest("hex");
+}
 
 // HTTP Fetch Helper with Retry
 async function fetchWithRetry(url, retries = 3, isBinary = false) {
@@ -75,8 +95,10 @@ async function fetchWithRetry(url, retries = 3, isBinary = false) {
   return null;
 }
 
-// Download image helper
+// Download image helper with SHA-256 change detection
 const downloadedImages = new Map();
+let newImagesCount = 0;
+let unchangedImagesCount = 0;
 
 async function downloadImage(remoteUrl, pageSlug, rawIdentifier) {
   if (SKIP_IMAGES) return remoteUrl;
@@ -108,11 +130,16 @@ async function downloadImage(remoteUrl, pageSlug, rawIdentifier) {
     const localFilePath = join(pageImageFolder, fileName);
     const relativeMarkdownPath = `./images/${pageSlug}/${fileName}`;
 
-    if (!existsSync(localFilePath)) {
+    if (!existsSync(localFilePath) || FORCE) {
       const buffer = await fetchWithRetry(fullUrl, 2, true);
       if (buffer) {
+        const imgHash = computeSha256(buffer);
         writeFileSync(localFilePath, buffer);
+        manifest.images[fullUrl] = { hash: imgHash, localPath: relativeMarkdownPath, updatedAt: new Date().toISOString() };
+        newImagesCount++;
       }
+    } else {
+      unchangedImagesCount++;
     }
 
     downloadedImages.set(fullUrl, relativeMarkdownPath);
@@ -402,7 +429,10 @@ async function main() {
     console.log(`⚡ Processing ${pagesToProcess.length} pages (--limit ${LIMIT})...\n`);
   }
 
-  let completedCount = 0;
+  let addedCount = 0;
+  let updatedCount = 0;
+  let unchangedCount = 0;
+  let processedCount = 0;
 
   await runConcurrentPool(pagesToProcess, CONCURRENCY, async (pageInfo, idx, total) => {
     const { url, data } = pageInfo;
@@ -411,19 +441,50 @@ async function main() {
     const outFileName = `${pageSlug}.md`;
     const outFilePath = join(OUT_DIR, outFileName);
 
-    writeFileSync(outFilePath, md, "utf-8");
-    completedCount++;
+    const currentHash = computeSha256(md);
+    const existingEntry = manifest.pages[pageSlug];
+    const fileExists = existsSync(outFilePath);
 
-    const progress = `[${completedCount}/${total}]`.padStart(9);
-    console.log(`${progress} 📄 Saved: ${outFileName.padEnd(35)} (${title})`);
+    processedCount++;
+    const progress = `[${processedCount}/${total}]`.padStart(9);
+
+    if (existingEntry && existingEntry.hash === currentHash && fileExists && !FORCE) {
+      unchangedCount++;
+      // Unchanged - skip writing
+    } else {
+      writeFileSync(outFilePath, md, "utf-8");
+      if (!existingEntry || !fileExists) {
+        addedCount++;
+        console.log(`${progress} 🟢 [NEW]     ${outFileName.padEnd(35)} (${title})`);
+      } else {
+        updatedCount++;
+        console.log(`${progress} 🟡 [UPDATED] ${outFileName.padEnd(35)} (${title})`);
+      }
+
+      manifest.pages[pageSlug] = {
+        hash: currentHash,
+        title,
+        url,
+        updatedAt: new Date().toISOString()
+      };
+    }
   });
+
+  // Save updated manifest
+  manifest.lastSync = new Date().toISOString();
+  manifest.totalPages = Object.keys(manifest.pages).length;
+  manifest.totalImages = Object.keys(manifest.images).length;
+  writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2), "utf-8");
 
   const durationSec = ((Date.now() - startTime) / 1000).toFixed(1);
   console.log("\n=================================================");
-  console.log(`🎉 Completed HIG Scraping in ${durationSec}s!`);
-  console.log(`📁 Total Markdown Pages Generated : ${completedCount}`);
-  console.log(`🖼️ Total Images Downloaded       : ${downloadedImages.size}`);
-  console.log(`📂 Output Directory               : ${OUT_DIR}`);
+  console.log(`🎉 Sync Completed in ${durationSec}s!`);
+  console.log(`📄 Markdown Pages : ${addedCount} added, ${updatedCount} updated, ${unchangedCount} unchanged`);
+  if (!SKIP_IMAGES) {
+    console.log(`🖼️ Images Saved   : ${newImagesCount} new, ${unchangedImagesCount} unchanged`);
+  }
+  console.log(`📝 Manifest Saved : ${MANIFEST_PATH}`);
+  console.log(`📂 Output Directory: ${OUT_DIR}`);
   console.log("=================================================\n");
 }
 

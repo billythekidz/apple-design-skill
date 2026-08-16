@@ -1,0 +1,1040 @@
+{
+  "pages": {
+    "components": {
+      "hash": "979e49976814c14ac6002449ee43974f21dede9ddca6656b2f514b739db950a4",
+      "title": "Components",
+      "url": "/design/human-interface-guidelines/components",
+      "updatedAt": "2026-08-16T09:29:22.749Z"
+    },
+    "human-interface-guidelines": {
+      "hash": "e482b26db7cdfa8561825411f7df324721b54d4c800156d405fe5527dc33a953",
+      "title": "Human Interface Guidelines",
+      "url": "/design/human-interface-guidelines",
+      "updatedAt": "2026-08-16T09:29:22.751Z"
+    },
+    "designing-for-ios": {
+      "hash": "2b3c385a09458016d00d8e26d63e580de34e9119335a327c34cfdb098d187617",
+      "title": "Designing for iOS",
+      "url": "/design/human-interface-guidelines/designing-for-ios",
+      "updatedAt": "2026-08-16T09:29:22.752Z"
+    },
+    "foundations": {
+      "hash": "15fac491dedc7546118ff91443eefb2c847d014522ea1860010f43848c9d5930",
+      "title": "Foundations",
+      "url": "/design/human-interface-guidelines/foundations",
+      "updatedAt": "2026-08-16T09:29:22.753Z"
+    },
+    "sidebars": {
+      "hash": "cf74d84069cf35730ad135007596d9d0b4d69a72e0f7e5bd6adcfa2f511af226",
+      "title": "Sidebars",
+      "url": "/design/human-interface-guidelines/sidebars",
+      "updatedAt": "2026-08-16T09:29:22.753Z"
+    },
+    "design-principles": {
+      "hash": "375f94144099ca8c9d278b79b9c4c16a2f5492e6a4ef6c1e4e0d4e0886a2c24d",
+      "title": "Design principles",
+      "url": "/design/human-interface-guidelines/design-principles",
+      "updatedAt": "2026-08-16T09:29:22.754Z"
+    },
+    "patterns": {
+      "hash": "d740dee389dd0db4f70baee0e29aa53253f08569f2bfaedd06b5ded1e65ed6d1",
+      "title": "Patterns",
+      "url": "/design/human-interface-guidelines/patterns",
+      "updatedAt": "2026-08-16T09:29:22.755Z"
+    },
+    "inputs": {
+      "hash": "c11b60800dbb23e437cf3628d4168ab29f0688d1de56be0c9912c74b245d0f96",
+      "title": "Inputs",
+      "url": "/design/human-interface-guidelines/inputs",
+      "updatedAt": "2026-08-16T09:29:22.756Z"
+    },
+    "technologies": {
+      "hash": "86e10b8573374344913bcbe1549f19f4a1ecaee345ad7b607a5cfb3be677a92b",
+      "title": "Technologies",
+      "url": "/design/human-interface-guidelines/technologies",
+      "updatedAt": "2026-08-16T09:29:22.757Z"
+    },
+    "scroll-views": {
+      "hash": "e7586dc1c8489689f6eef40bdb5927c489b48042ec13fec58cf9fa3bfc4f7999",
+      "title": "Scroll views",
+      "url": "/design/human-interface-guidelines/scroll-views",
+      "updatedAt": "2026-08-16T09:29:22.757Z"
+    },
+    "search-fields": {
+      "hash": "bba4b958bfa785db5787ed36376ff0879ad1240fc07a6f25770e1a8646f14346",
+      "title": "Search fields",
+      "url": "/design/human-interface-guidelines/search-fields",
+      "updatedAt": "2026-08-16T09:29:22.759Z"
+    },
+    "menus": {
+      "hash": "2ed6e4df36d0a6b655ef41622af77702689502dc4880b785cbc61b9694976cec",
+      "title": "Menus",
+      "url": "/design/human-interface-guidelines/menus",
+      "updatedAt": "2026-08-16T09:29:22.760Z"
+    },
+    "designing-for-macos": {
+      "hash": "c2bfba02997561faee592f35dda498c8c30931c2431a8bc27ee3f3fc265e6817",
+      "title": "Designing for macOS",
+      "url": "/design/human-interface-guidelines/designing-for-macos",
+      "updatedAt": "2026-08-16T09:29:22.760Z"
+    },
+    "getting-started": {
+      "hash": "be028e659e4f9c545d0802cee39541ad31e78ee92720db069dcbb58e44ea7b43",
+      "title": "Getting started",
+      "url": "/design/human-interface-guidelines/getting-started",
+      "updatedAt": "2026-08-16T09:29:22.760Z"
+    },
+    "materials": {
+      "hash": "eafb79c10297c1fd6badb74281344e3d4327bbd4fa075bba6da7a86ab7747bfb",
+      "title": "Materials",
+      "url": "/design/human-interface-guidelines/materials",
+      "updatedAt": "2026-08-16T09:29:22.761Z"
+    },
+    "snippets": {
+      "hash": "294d4b2bfa9687ec8646c7e65c127d17bfc6219ef475839a5310178c484d8fb1",
+      "title": "Snippets",
+      "url": "/design/human-interface-guidelines/snippets",
+      "updatedAt": "2026-08-16T09:29:22.762Z"
+    },
+    "accessibility": {
+      "hash": "c3940d0a887c6441c0b5d335552e62ffb6bbbb3cc9cf3eda603d6fe252a8d291",
+      "title": "Accessibility",
+      "url": "/design/human-interface-guidelines/accessibility",
+      "updatedAt": "2026-08-16T09:29:22.763Z"
+    },
+    "app-icons": {
+      "hash": "70ea688326acab0265f1b583678a8a96c06924c711c8c9f54abd73c12b67dba1",
+      "title": "App icons",
+      "url": "/design/human-interface-guidelines/app-icons",
+      "updatedAt": "2026-08-16T09:29:22.764Z"
+    },
+    "navigation-and-search": {
+      "hash": "f4bd2dce4d11b8effcc6438365ce508d1c7b19dadd0f0303b89f56493c2c54c0",
+      "title": "Navigation and search",
+      "url": "/design/human-interface-guidelines/navigation-and-search",
+      "updatedAt": "2026-08-16T09:29:22.765Z"
+    },
+    "siri": {
+      "hash": "a84a2c5c504a53101118eaf84945a0328654b1127257acc6511efaf77a2bc244",
+      "title": "Siri",
+      "url": "/design/human-interface-guidelines/siri",
+      "updatedAt": "2026-08-16T09:29:22.766Z"
+    },
+    "menus-and-actions": {
+      "hash": "c2acbb3528a35a232d53a052768221199110500f6a9ecbdd1ff5417ceb761390",
+      "title": "Menus and actions",
+      "url": "/design/human-interface-guidelines/menus-and-actions",
+      "updatedAt": "2026-08-16T09:29:22.766Z"
+    },
+    "split-views": {
+      "hash": "0d5725e5957285b845edb980d84c0de98fa316df7f04754bc0e7570eab5d7514",
+      "title": "Split views",
+      "url": "/design/human-interface-guidelines/split-views",
+      "updatedAt": "2026-08-16T09:29:22.767Z"
+    },
+    "disclosure-controls": {
+      "hash": "d716999dedec443e8ad5de92918d35e0f3776210b61296ec63fc8b2eccc015d3",
+      "title": "Disclosure controls",
+      "url": "/design/human-interface-guidelines/disclosure-controls",
+      "updatedAt": "2026-08-16T09:29:22.768Z"
+    },
+    "token-fields": {
+      "hash": "ed6d33cb574f9ac023bdcf30b58d41490b8383e523d215d3e1bd29cef8d5d50f",
+      "title": "Token fields",
+      "url": "/design/human-interface-guidelines/token-fields",
+      "updatedAt": "2026-08-16T09:29:22.769Z"
+    },
+    "context-menus": {
+      "hash": "80a8116709dbcd9b4cfa698c16c83619246cb20a6beb0ffdec767c21bfcc9397",
+      "title": "Context menus",
+      "url": "/design/human-interface-guidelines/context-menus",
+      "updatedAt": "2026-08-16T09:29:22.770Z"
+    },
+    "tab-bars": {
+      "hash": "43c3876eebdc90fb9c269b68d01f3c9cafdc23a124168ce243eebcb476f1f264",
+      "title": "Tab bars",
+      "url": "/design/human-interface-guidelines/tab-bars",
+      "updatedAt": "2026-08-16T09:29:22.770Z"
+    },
+    "color": {
+      "hash": "77ceb2feca9534e9f3943ba1a0a17a71d64d12d80bd60ee29b72471dd887e54d",
+      "title": "Color",
+      "url": "/design/human-interface-guidelines/color",
+      "updatedAt": "2026-08-16T09:29:22.771Z"
+    },
+    "searching": {
+      "hash": "d0e66ff250de403ba38c31c0b0412cb88b5c16923724140fcea12f48345e2018",
+      "title": "Searching",
+      "url": "/design/human-interface-guidelines/searching",
+      "updatedAt": "2026-08-16T09:29:22.772Z"
+    },
+    "pop-up-buttons": {
+      "hash": "b769e6be0e46af9e8a99f6cb083506d4328bb839daf0ae839c39301031f0b8e1",
+      "title": "Pop-up buttons",
+      "url": "/design/human-interface-guidelines/pop-up-buttons",
+      "updatedAt": "2026-08-16T09:29:22.773Z"
+    },
+    "typography": {
+      "hash": "89f8a6fced3220ed2b8a7414112d37121a9dd6f943b8b0cf6d4611c1f4d28825",
+      "title": "Typography",
+      "url": "/design/human-interface-guidelines/typography",
+      "updatedAt": "2026-08-16T09:29:22.774Z"
+    },
+    "layout": {
+      "hash": "2f2ee649b6f0d7d825a43bce3283f30f0b3bc35b3c90abd7979b240bee589e2c",
+      "title": "Layout",
+      "url": "/design/human-interface-guidelines/layout",
+      "updatedAt": "2026-08-16T09:29:22.775Z"
+    },
+    "pull-down-buttons": {
+      "hash": "45292e77b1f01b8b9c57c6fbe489400a341bfa7de1a4f2a20963d533c0cdfe95",
+      "title": "Pull-down buttons",
+      "url": "/design/human-interface-guidelines/pull-down-buttons",
+      "updatedAt": "2026-08-16T09:29:22.775Z"
+    },
+    "live-viewing-apps": {
+      "hash": "c43146dc9cd3d8ead5a09e75ecef34f512e8245b1150b15ea1ff25d90569a4ec",
+      "title": "Live-viewing apps",
+      "url": "/design/human-interface-guidelines/live-viewing-apps",
+      "updatedAt": "2026-08-16T09:29:22.776Z"
+    },
+    "toggles": {
+      "hash": "1b38258bf43e30345469b60ebdefde4194fc3ad90226739932c6ffe17ba019ff",
+      "title": "Toggles",
+      "url": "/design/human-interface-guidelines/toggles",
+      "updatedAt": "2026-08-16T09:29:22.777Z"
+    },
+    "digital-crown": {
+      "hash": "b1f17e7cec05bf87e32767399dbde57138a247985b914b6dbedf6216f6e9247d",
+      "title": "Digital Crown",
+      "url": "/design/human-interface-guidelines/digital-crown",
+      "updatedAt": "2026-08-16T09:29:22.778Z"
+    },
+    "presentation": {
+      "hash": "0c115c0e0e15d027be003f0c089186ddb42aafdf05f1ade74c60f98f04121802",
+      "title": "Presentation",
+      "url": "/design/human-interface-guidelines/presentation",
+      "updatedAt": "2026-08-16T09:29:22.778Z"
+    },
+    "status": {
+      "hash": "2f70fb552e1dbc47a6ef52e3c9aea7c58a83fb083dd2fc7a54ba11b42e2d917b",
+      "title": "Status",
+      "url": "/design/human-interface-guidelines/status",
+      "updatedAt": "2026-08-16T09:29:22.779Z"
+    },
+    "writing": {
+      "hash": "56e75cfc7b677cd2511789fc4f75629b3e6c10c43bd257dce316dd022ad7a37d",
+      "title": "Writing",
+      "url": "/design/human-interface-guidelines/writing",
+      "updatedAt": "2026-08-16T09:29:22.779Z"
+    },
+    "playing-haptics": {
+      "hash": "14d01f8405043a79fa114590ffed65694f436d971020b1756615b752d672e65d",
+      "title": "Playing haptics",
+      "url": "/design/human-interface-guidelines/playing-haptics",
+      "updatedAt": "2026-08-16T09:29:22.780Z"
+    },
+    "offering-help": {
+      "hash": "14e170d8921f0fdd2c1bdf969b0dff6e02311411b636cbf64acde18dbb14bff4",
+      "title": "Offering help",
+      "url": "/design/human-interface-guidelines/offering-help",
+      "updatedAt": "2026-08-16T09:29:22.781Z"
+    },
+    "dock-menus": {
+      "hash": "ce456a131635231fc27357979d905218c76c64dd737847e53065ca7fc8546001",
+      "title": "Dock menus",
+      "url": "/design/human-interface-guidelines/dock-menus",
+      "updatedAt": "2026-08-16T09:29:22.782Z"
+    },
+    "keyboards": {
+      "hash": "99e8495ffdb63289887e37c5ba902989a478fbae201fa6374477f819de7fc532",
+      "title": "Keyboards",
+      "url": "/design/human-interface-guidelines/keyboards",
+      "updatedAt": "2026-08-16T09:29:22.784Z"
+    },
+    "researchkit": {
+      "hash": "ed28d453dd54e7394d4a7a27ff0ef8461c4a69eb7d9c071b56e32cc5d9236998",
+      "title": "ResearchKit",
+      "url": "/design/human-interface-guidelines/researchkit",
+      "updatedAt": "2026-08-16T09:29:22.785Z"
+    },
+    "dark-mode": {
+      "hash": "3899ea272c3a6f8d79b804bb9032473d27b27245070cf826b4f1fe4d15612fdf",
+      "title": "Dark Mode",
+      "url": "/design/human-interface-guidelines/dark-mode",
+      "updatedAt": "2026-08-16T09:29:22.785Z"
+    },
+    "carplay": {
+      "hash": "de3749245614119d17b50628b4367fa558fcffe821fd058a850402a3401d5416",
+      "title": "CarPlay",
+      "url": "/design/human-interface-guidelines/carplay",
+      "updatedAt": "2026-08-16T09:29:22.786Z"
+    },
+    "sf-symbols": {
+      "hash": "42b115f9859df32d0b1396a3adbfa32a5d6c7a3098d23eae9c0f2f45be5622e1",
+      "title": "SF Symbols",
+      "url": "/design/human-interface-guidelines/sf-symbols",
+      "updatedAt": "2026-08-16T09:29:22.787Z"
+    },
+    "airplay": {
+      "hash": "471326ba3b437bf59c4cac1b1b1cf61f41daed6b85b779a4ef1e5de44571a75d",
+      "title": "AirPlay",
+      "url": "/design/human-interface-guidelines/airplay",
+      "updatedAt": "2026-08-16T09:29:22.788Z"
+    },
+    "live-photos": {
+      "hash": "c62b066f569a141a89f0c881794bd059b16f353aa85b281869678f29a48ac11b",
+      "title": "Live Photos",
+      "url": "/design/human-interface-guidelines/live-photos",
+      "updatedAt": "2026-08-16T09:29:22.788Z"
+    },
+    "charting-data": {
+      "hash": "5fdad84b8181278ec5ecbf73bcbf779366a6e099cf2230a7e54d7d6efbe41657",
+      "title": "Charting data",
+      "url": "/design/human-interface-guidelines/charting-data",
+      "updatedAt": "2026-08-16T09:29:22.789Z"
+    },
+    "content": {
+      "hash": "5c66e7c6c5fb1aabd935f1b8cb9c48dc7207a3bceca742a2aa596824b0ff4063",
+      "title": "Content",
+      "url": "/design/human-interface-guidelines/content",
+      "updatedAt": "2026-08-16T09:29:22.789Z"
+    },
+    "managing-notifications": {
+      "hash": "050e8ca050c1dff3572733f45af4c048780f04b951809bbb71a57d88f376bcfa",
+      "title": "Managing notifications",
+      "url": "/design/human-interface-guidelines/managing-notifications",
+      "updatedAt": "2026-08-16T09:29:22.790Z"
+    },
+    "selection-and-input": {
+      "hash": "900a3d5f7cbe15c81e97662ee10b7bc03bd04b36cfcda8cafb262c263b5715b9",
+      "title": "Selection and input",
+      "url": "/design/human-interface-guidelines/selection-and-input",
+      "updatedAt": "2026-08-16T09:29:22.791Z"
+    },
+    "layout-and-organization": {
+      "hash": "ae28af0ed9bc425dafa981e8aedaef0e1b236805e021bf4af186c67e8d796879",
+      "title": "Layout and organization",
+      "url": "/design/human-interface-guidelines/layout-and-organization",
+      "updatedAt": "2026-08-16T09:29:22.791Z"
+    },
+    "designing-for-tvos": {
+      "hash": "8afea28ac184d7e707e3cd43e3d00035caf137a9580d7f8303bb660a317925c3",
+      "title": "Designing for tvOS",
+      "url": "/design/human-interface-guidelines/designing-for-tvos",
+      "updatedAt": "2026-08-16T09:29:22.793Z"
+    },
+    "inclusion": {
+      "hash": "f1c1bafb4dfeec4b31fd3d0806b4772560f25e697b3beba120750515a963ae79",
+      "title": "Inclusion",
+      "url": "/design/human-interface-guidelines/inclusion",
+      "updatedAt": "2026-08-16T09:29:22.794Z"
+    },
+    "ratings-and-reviews": {
+      "hash": "169c6a321c0abf10ac7731f55c3351ba0998aee106a8bed4bab8713a649be857",
+      "title": "Ratings and reviews",
+      "url": "/design/human-interface-guidelines/ratings-and-reviews",
+      "updatedAt": "2026-08-16T09:29:22.795Z"
+    },
+    "home-screen-quick-actions": {
+      "hash": "d2f40579bc5339726e1934ba49e3474f92b1b619216a5c1bd59a71f753a4113f",
+      "title": "Home Screen quick actions",
+      "url": "/design/human-interface-guidelines/home-screen-quick-actions",
+      "updatedAt": "2026-08-16T09:29:22.795Z"
+    },
+    "camera-control": {
+      "hash": "bfcd6c7f385f4b014f87d3c2f821ac3f5fdcd3d873ff058affe32b7da118ccd5",
+      "title": "Camera Control",
+      "url": "/design/human-interface-guidelines/camera-control",
+      "updatedAt": "2026-08-16T09:29:22.797Z"
+    },
+    "branding": {
+      "hash": "910bd43034998758bb3a8051418129c4ad0e90c1a18b8c0a64b981b75520624c",
+      "title": "Branding",
+      "url": "/design/human-interface-guidelines/branding",
+      "updatedAt": "2026-08-16T09:29:22.797Z"
+    },
+    "tab-views": {
+      "hash": "c462fe1ed21184d2d4c2d3b6b343b633d11e2fed75f5daaeebbee4d601996ad5",
+      "title": "Tab views",
+      "url": "/design/human-interface-guidelines/tab-views",
+      "updatedAt": "2026-08-16T09:29:22.798Z"
+    },
+    "widgets": {
+      "hash": "2b6a6ff55982a9d399726ba8c57ac82159635c7322c6ad10c832eadcc65ac7b7",
+      "title": "Widgets",
+      "url": "/design/human-interface-guidelines/widgets",
+      "updatedAt": "2026-08-16T09:29:22.799Z"
+    },
+    "entering-data": {
+      "hash": "cc461b3ac6eab2812d8967f3f58d197a75cfadf4f36f5a3cc2b934a53125ee10",
+      "title": "Entering data",
+      "url": "/design/human-interface-guidelines/entering-data",
+      "updatedAt": "2026-08-16T09:29:22.800Z"
+    },
+    "drag-and-drop": {
+      "hash": "c00002f0067ba2b8021fff8ae2b57ddb9467858ea1ea62d2b1a1ebb4405d85c3",
+      "title": "Drag and drop",
+      "url": "/design/human-interface-guidelines/drag-and-drop",
+      "updatedAt": "2026-08-16T09:29:22.801Z"
+    },
+    "the-menu-bar": {
+      "hash": "b666fab8c643bdbadeeab4b37b14c38694fa7f57d7b87f4621c46f4134323a0d",
+      "title": "The menu bar",
+      "url": "/design/human-interface-guidelines/the-menu-bar",
+      "updatedAt": "2026-08-16T09:29:22.801Z"
+    },
+    "system-experiences": {
+      "hash": "bb171631281efac58d40862ff88f7752475a7ef7e4fc276a29b36b4e0839ab5f",
+      "title": "System experiences",
+      "url": "/design/human-interface-guidelines/system-experiences",
+      "updatedAt": "2026-08-16T09:29:22.802Z"
+    },
+    "activity-views": {
+      "hash": "797222e92712c688dd88e9d64cbc330536cb7ad08b60a108da60e7cd04cc9352",
+      "title": "Activity views",
+      "url": "/design/human-interface-guidelines/activity-views",
+      "updatedAt": "2026-08-16T09:29:22.803Z"
+    },
+    "page-controls": {
+      "hash": "3a6b68a131ebcddbd0ec7a2271a56031191945f55a40eb705959cee66a34ffdb",
+      "title": "Page controls",
+      "url": "/design/human-interface-guidelines/page-controls",
+      "updatedAt": "2026-08-16T09:29:22.804Z"
+    },
+    "spatial-layout": {
+      "hash": "1f95c6f4508f194d04246955683572ca0cacaa47b8527f8c368334239f105929",
+      "title": "Spatial layout",
+      "url": "/design/human-interface-guidelines/spatial-layout",
+      "updatedAt": "2026-08-16T09:29:22.805Z"
+    },
+    "eyes": {
+      "hash": "516e55cec1d0c62fb15193b1d07fc25cce812a37ea57b79f985137e20689fead",
+      "title": "Eyes",
+      "url": "/design/human-interface-guidelines/eyes",
+      "updatedAt": "2026-08-16T09:29:22.805Z"
+    },
+    "sliders": {
+      "hash": "7ada5025f7010cac221e769ba516b968f9c5b52a764f89324529a9cc99d05a0b",
+      "title": "Sliders",
+      "url": "/design/human-interface-guidelines/sliders",
+      "updatedAt": "2026-08-16T09:29:22.811Z"
+    },
+    "icons": {
+      "hash": "48f5fbac2176a379772046111e33b31bc8a6f94072d467f591be29ef64836f46",
+      "title": "Icons",
+      "url": "/design/human-interface-guidelines/icons",
+      "updatedAt": "2026-08-16T09:29:22.812Z"
+    },
+    "pointing-devices": {
+      "hash": "20d1e0a9bc2a4cedd6b93fb9f29314fd43726cceb72ab7ecfb9b4c95a0a44c2a",
+      "title": "Pointing devices",
+      "url": "/design/human-interface-guidelines/pointing-devices",
+      "updatedAt": "2026-08-16T09:29:22.813Z"
+    },
+    "homekit": {
+      "hash": "3055b4203ff4cb7bad9a6da58bac291eb4f9b79f21dc8bd7db5506913479db1c",
+      "title": "HomeKit",
+      "url": "/design/human-interface-guidelines/homekit",
+      "updatedAt": "2026-08-16T09:29:22.813Z"
+    },
+    "carekit": {
+      "hash": "21a4380c9c86410c725ef50dc49ab43f9b80a42d8c1fe982a67c4de6c5fba0a6",
+      "title": "CareKit",
+      "url": "/design/human-interface-guidelines/carekit",
+      "updatedAt": "2026-08-16T09:29:22.814Z"
+    },
+    "motion": {
+      "hash": "f4f87b02097fb9eb00676b1074b26f8b16f3b719eb6f8f553761f609ee593133",
+      "title": "Motion",
+      "url": "/design/human-interface-guidelines/motion",
+      "updatedAt": "2026-08-16T09:29:22.815Z"
+    },
+    "immersive-experiences": {
+      "hash": "ebc92fd70f1bb9d75e42a6c928e2f58a8cf3f4b6f55f927f43a947ed610feeb7",
+      "title": "Immersive experiences",
+      "url": "/design/human-interface-guidelines/immersive-experiences",
+      "updatedAt": "2026-08-16T09:29:22.816Z"
+    },
+    "images": {
+      "hash": "6e606ce438c4993702c935c2761f480454b6c04bfe374ac68ed1f4d9f7d10b44",
+      "title": "Images",
+      "url": "/design/human-interface-guidelines/images",
+      "updatedAt": "2026-08-16T09:29:22.816Z"
+    },
+    "modality": {
+      "hash": "0567538f46e814880cbf71c9f6caecbce7ac2e5904e4909639867a46b59aed9b",
+      "title": "Modality",
+      "url": "/design/human-interface-guidelines/modality",
+      "updatedAt": "2026-08-16T09:29:22.817Z"
+    },
+    "generative-ai": {
+      "hash": "eef87d6f5d727495aeda23bfb889b196309ba89803a82741907999d83529ffeb",
+      "title": "Generative AI",
+      "url": "/design/human-interface-guidelines/generative-ai",
+      "updatedAt": "2026-08-16T09:29:22.817Z"
+    },
+    "feedback": {
+      "hash": "31ab83db8c965e6f88df49d4e8d017d1417f08f1c869c9bde31c26b06f7ff91e",
+      "title": "Feedback",
+      "url": "/design/human-interface-guidelines/feedback",
+      "updatedAt": "2026-08-16T09:29:22.818Z"
+    },
+    "onboarding": {
+      "hash": "fddeaaabfaf482aa3828035e20b3a13ea72309401d2dcbe9c404bd6ac9fd576e",
+      "title": "Onboarding",
+      "url": "/design/human-interface-guidelines/onboarding",
+      "updatedAt": "2026-08-16T09:29:22.819Z"
+    },
+    "managing-accounts": {
+      "hash": "ee767650abda620d86d58a3e7a994b61abfab376db0f082e8c36f7fe5059ae6c",
+      "title": "Managing accounts",
+      "url": "/design/human-interface-guidelines/managing-accounts",
+      "updatedAt": "2026-08-16T09:29:22.820Z"
+    },
+    "collaboration-and-sharing": {
+      "hash": "ee192aad4f7349929ec0852d12c4960a1d0c7d1230ac500fd36b439974de0a7c",
+      "title": "Collaboration and sharing",
+      "url": "/design/human-interface-guidelines/collaboration-and-sharing",
+      "updatedAt": "2026-08-16T09:29:22.821Z"
+    },
+    "multitasking": {
+      "hash": "8ffd189e5510f619510f39fdaf6ceb3424a1c7f8c1a747babd69fa59312a9ccf",
+      "title": "Multitasking",
+      "url": "/design/human-interface-guidelines/multitasking",
+      "updatedAt": "2026-08-16T09:29:22.822Z"
+    },
+    "toolbars": {
+      "hash": "cb63fb4049f2f333b8d13404a1b1c1fa6b42171d46006ca9f1db2706b5bd8c39",
+      "title": "Toolbars",
+      "url": "/design/human-interface-guidelines/toolbars",
+      "updatedAt": "2026-08-16T09:29:22.822Z"
+    },
+    "right-to-left": {
+      "hash": "c372d3af2da50c006be5825ffffe07abe1b486145b425a9c7c275bd5ae2d917a",
+      "title": "Right to left",
+      "url": "/design/human-interface-guidelines/right-to-left",
+      "updatedAt": "2026-08-16T09:29:22.823Z"
+    },
+    "voiceover": {
+      "hash": "2df71bc92a655121c1057e78c8a960496336380e38c70b65f84507abc2db9cac",
+      "title": "VoiceOver",
+      "url": "/design/human-interface-guidelines/voiceover",
+      "updatedAt": "2026-08-16T09:29:22.824Z"
+    },
+    "privacy": {
+      "hash": "0cbb293ce2884efda6ad931692bebed7fbf2219258f69405fec749cf0265c527",
+      "title": "Privacy",
+      "url": "/design/human-interface-guidelines/privacy",
+      "updatedAt": "2026-08-16T09:29:22.824Z"
+    },
+    "in-app-purchase": {
+      "hash": "7d3e6eb72cb9133e6058c92d2888671957132e145fee0aeba6427ebfaf846b18",
+      "title": "In-app purchase",
+      "url": "/design/human-interface-guidelines/in-app-purchase",
+      "updatedAt": "2026-08-16T09:29:22.825Z"
+    },
+    "loading": {
+      "hash": "6ecec2a4cd10031d32bcabbdd2f9f5f7e799a29aaefd82184139baea229dfa4f",
+      "title": "Loading",
+      "url": "/design/human-interface-guidelines/loading",
+      "updatedAt": "2026-08-16T09:29:22.826Z"
+    },
+    "playing-video": {
+      "hash": "139349542f04fa6f46344b39d63a69ea5250f095f239f40fdb306ab2acb0f883",
+      "title": "Playing video",
+      "url": "/design/human-interface-guidelines/playing-video",
+      "updatedAt": "2026-08-16T09:29:22.826Z"
+    },
+    "printing": {
+      "hash": "b8cee371c351f9cfd7b79a4fab43549bab051ae91f0513ac32bb4a34131eae65",
+      "title": "Printing",
+      "url": "/design/human-interface-guidelines/printing",
+      "updatedAt": "2026-08-16T09:29:22.827Z"
+    },
+    "workouts": {
+      "hash": "20c4ec9018f73bdba03b5bbb28db88ff79330898de96328894c27d42e9f9e2fd",
+      "title": "Workouts",
+      "url": "/design/human-interface-guidelines/workouts",
+      "updatedAt": "2026-08-16T09:29:22.827Z"
+    },
+    "file-management": {
+      "hash": "06953f388bc556b5993f346a5a8b03bf311c4c62d5720f7f4dcef480cccd0102",
+      "title": "File management",
+      "url": "/design/human-interface-guidelines/file-management",
+      "updatedAt": "2026-08-16T09:29:22.827Z"
+    },
+    "going-full-screen": {
+      "hash": "313cd08495df008cb1b4aa0483d148fe9f3ea9d0726064e9f383a98cd5e077f8",
+      "title": "Going full screen",
+      "url": "/design/human-interface-guidelines/going-full-screen",
+      "updatedAt": "2026-08-16T09:29:22.828Z"
+    },
+    "undo-and-redo": {
+      "hash": "51698e74483a3552a97b2575fa69caf28acc3d4bf117a15b7dba32b2fd244b62",
+      "title": "Undo and redo",
+      "url": "/design/human-interface-guidelines/undo-and-redo",
+      "updatedAt": "2026-08-16T09:29:22.828Z"
+    },
+    "shazamkit": {
+      "hash": "1adf5006b75079be4370e3c2e2e192c6bb9a1cb119fde75c49dbed4611e24c0f",
+      "title": "ShazamKit",
+      "url": "/design/human-interface-guidelines/shazamkit",
+      "updatedAt": "2026-08-16T09:29:22.829Z"
+    },
+    "gyro-and-accelerometer": {
+      "hash": "febebdd6edf8ab6f1d5aa3f52555268cba4919a4fc11225726201008841ee8c9",
+      "title": "Gyroscope and accelerometer",
+      "url": "/design/human-interface-guidelines/gyro-and-accelerometer",
+      "updatedAt": "2026-08-16T09:29:22.829Z"
+    },
+    "id-verifier": {
+      "hash": "c65b6590915276da1732f7a50b0b9d972a386afca9b666843209fd88039cc21a",
+      "title": "ID Verifier",
+      "url": "/design/human-interface-guidelines/id-verifier",
+      "updatedAt": "2026-08-16T09:29:22.830Z"
+    },
+    "remotes": {
+      "hash": "9f95465bc33ad13a000fdb3029e794a0086c11de433db17a57d82416d5609924",
+      "title": "Remotes",
+      "url": "/design/human-interface-guidelines/remotes",
+      "updatedAt": "2026-08-16T09:29:22.830Z"
+    },
+    "nearby-interactions": {
+      "hash": "4bf8e13a8592d568f28f6350d11a7778d9c04290d209a35d00eaf5feb6ad2977",
+      "title": "Nearby interactions",
+      "url": "/design/human-interface-guidelines/nearby-interactions",
+      "updatedAt": "2026-08-16T09:29:22.831Z"
+    },
+    "launching": {
+      "hash": "f217d3d13c193696920d366f26add5c575f7bc791c40c546edeea56130ff6ce9",
+      "title": "Launching",
+      "url": "/design/human-interface-guidelines/launching",
+      "updatedAt": "2026-08-16T09:29:22.832Z"
+    },
+    "playing-audio": {
+      "hash": "b3f2073f0f3ab874e7601b25d7f9d59e11476a663e826a3b1ffeb1837fa052fd",
+      "title": "Playing audio",
+      "url": "/design/human-interface-guidelines/playing-audio",
+      "updatedAt": "2026-08-16T09:29:22.832Z"
+    },
+    "focus-and-selection": {
+      "hash": "8f2b9ed1cd3611d404f9b9ff1a0789ade0be7fb00a9ff6886505d3c9ffd67d96",
+      "title": "Focus and selection",
+      "url": "/design/human-interface-guidelines/focus-and-selection",
+      "updatedAt": "2026-08-16T09:29:22.833Z"
+    },
+    "photo-editing": {
+      "hash": "8b9b5714b2ce61c6597d8edad8a2d7a03be4d7a7c2a6284b9a84446bd5cd2457",
+      "title": "Photo editing",
+      "url": "/design/human-interface-guidelines/photo-editing",
+      "updatedAt": "2026-08-16T09:29:22.834Z"
+    },
+    "icloud": {
+      "hash": "8e8d151517f1f9e3450ab7c68a7fef847a387508b5ff1cf3e4e7990cb032c7a1",
+      "title": "iCloud",
+      "url": "/design/human-interface-guidelines/icloud",
+      "updatedAt": "2026-08-16T09:29:22.834Z"
+    },
+    "app-shortcuts": {
+      "hash": "2cf5ea794674b31d4651afe94594e885ae7f76aac46d1923f7a8f09fe22f0d52",
+      "title": "App Shortcuts",
+      "url": "/design/human-interface-guidelines/app-shortcuts",
+      "updatedAt": "2026-08-16T09:29:22.835Z"
+    },
+    "always-on": {
+      "hash": "ecfa67d6d8659c8c15542ded40c13749771ed63db78d9f7a0f3012d39debe69a",
+      "title": "Always On",
+      "url": "/design/human-interface-guidelines/always-on",
+      "updatedAt": "2026-08-16T09:29:22.836Z"
+    },
+    "healthkit": {
+      "hash": "aa09843cb707ccfe869b8dae1c67b021d00f8de92654bb94095251cde97063f5",
+      "title": "HealthKit",
+      "url": "/design/human-interface-guidelines/healthkit",
+      "updatedAt": "2026-08-16T09:29:22.837Z"
+    },
+    "imessage-apps-and-stickers": {
+      "hash": "f45aa9adacf97e5b01f220abdfe0e823b5c327222a77a5be1e69de026a8b425c",
+      "title": "iMessage apps and stickers",
+      "url": "/design/human-interface-guidelines/imessage-apps-and-stickers",
+      "updatedAt": "2026-08-16T09:29:22.838Z"
+    },
+    "settings": {
+      "hash": "d7943fbfd689d463728142faf7ac27b5f839c1d07e0054a9505e4f777b0ad449",
+      "title": "Settings",
+      "url": "/design/human-interface-guidelines/settings",
+      "updatedAt": "2026-08-16T09:29:22.839Z"
+    },
+    "game-controls": {
+      "hash": "3d14b32de017fd5e23241d76e5aef49fb48e64a12b6bb98849b6f7059428740a",
+      "title": "Game controls",
+      "url": "/design/human-interface-guidelines/game-controls",
+      "updatedAt": "2026-08-16T09:29:22.839Z"
+    },
+    "gestures": {
+      "hash": "bfd12010c693e2ba170699c2e856b040d6c73ca28d6154fc4a57f1d0368d84b1",
+      "title": "Gestures",
+      "url": "/design/human-interface-guidelines/gestures",
+      "updatedAt": "2026-08-16T09:29:22.840Z"
+    },
+    "game-center": {
+      "hash": "a225b5673484eacc298879684c841a80552afc2db483e072c95eae58872271e4",
+      "title": "Game Center",
+      "url": "/design/human-interface-guidelines/game-center",
+      "updatedAt": "2026-08-16T09:29:22.841Z"
+    },
+    "augmented-reality": {
+      "hash": "81d724b170728370642f101291a489326da69e8986845374769a4fa907fbb51d",
+      "title": "Augmented reality",
+      "url": "/design/human-interface-guidelines/augmented-reality",
+      "updatedAt": "2026-08-16T09:29:22.842Z"
+    },
+    "designing-for-watchos": {
+      "hash": "2c1d31889ae654b8dc059648ad900e6c8538a554ee7124f805cc784d83b014a7",
+      "title": "Designing for watchOS",
+      "url": "/design/human-interface-guidelines/designing-for-watchos",
+      "updatedAt": "2026-08-16T09:29:22.842Z"
+    },
+    "ornaments": {
+      "hash": "dc4872201bce8bdbf30498784d692e60f5d7c464fbffd462613405ba5b821008",
+      "title": "Ornaments",
+      "url": "/design/human-interface-guidelines/ornaments",
+      "updatedAt": "2026-08-16T09:29:22.843Z"
+    },
+    "mac-catalyst": {
+      "hash": "b248dc68518aa85a6fa0f6150376b930bf1e65a5f03984897bd27e9d091fb2ec",
+      "title": "Mac Catalyst",
+      "url": "/design/human-interface-guidelines/mac-catalyst",
+      "updatedAt": "2026-08-16T09:29:22.844Z"
+    },
+    "shareplay": {
+      "hash": "d43834357fd2d93d3b0ef7a311a12daca0011bdcfda0e3dbea186192a6607f76",
+      "title": "SharePlay",
+      "url": "/design/human-interface-guidelines/shareplay",
+      "updatedAt": "2026-08-16T09:29:22.845Z"
+    },
+    "apple-pencil-and-scribble": {
+      "hash": "e85344c426111fdfa38bc758fb52ded903bdaaf056c3b4ba6e84457835720759",
+      "title": "Apple Pencil and Scribble",
+      "url": "/design/human-interface-guidelines/apple-pencil-and-scribble",
+      "updatedAt": "2026-08-16T09:29:22.845Z"
+    },
+    "nfc": {
+      "hash": "f651863e1158b30f8546f9838a4a4d56dd94c2efb334ecd65882afd19d6b45e4",
+      "title": "NFC",
+      "url": "/design/human-interface-guidelines/nfc",
+      "updatedAt": "2026-08-16T09:29:22.846Z"
+    },
+    "designing-for-visionos": {
+      "hash": "5c17fff247f6a52976a9ca0b25d6322e8591c567badf04755685189c947c5387",
+      "title": "Designing for visionOS",
+      "url": "/design/human-interface-guidelines/designing-for-visionos",
+      "updatedAt": "2026-08-16T09:29:22.847Z"
+    },
+    "designing-for-ipados": {
+      "hash": "2a9519c00076b6f9e1bbee36c7bd4113f1e030e03360041a8311aa71c8b3f986",
+      "title": "Designing for iPadOS",
+      "url": "/design/human-interface-guidelines/designing-for-ipados",
+      "updatedAt": "2026-08-16T09:29:22.847Z"
+    },
+    "app-clips": {
+      "hash": "1009f22495242cdfc405baeb62a5b807d58258ab3eae6538c11d0317012d3744",
+      "title": "App Clips",
+      "url": "/design/human-interface-guidelines/app-clips",
+      "updatedAt": "2026-08-16T09:29:22.848Z"
+    },
+    "maps": {
+      "hash": "088566a5f95f7be43f6494dc560687430988eaefda07a75794ebea97222bcd58",
+      "title": "Maps",
+      "url": "/design/human-interface-guidelines/maps",
+      "updatedAt": "2026-08-16T09:29:22.849Z"
+    },
+    "action-button": {
+      "hash": "d24a2ef5223ef8e179daca96d95cd6ca83a99d5ca5acf0f32c1269a41e1aa9bc",
+      "title": "Action button",
+      "url": "/design/human-interface-guidelines/action-button",
+      "updatedAt": "2026-08-16T09:29:22.850Z"
+    },
+    "designing-for-games": {
+      "hash": "abedece6afc46dd021b7ec2ab8790a3b53a8b9b43ee5f7d8cb8fd13992d122f9",
+      "title": "Designing for games",
+      "url": "/design/human-interface-guidelines/designing-for-games",
+      "updatedAt": "2026-08-16T09:29:22.851Z"
+    },
+    "apple-pay": {
+      "hash": "c71d0a9781ca180fb96d53cd1c11241a0bb023d500e3b28cd1654ac0c1a49f77",
+      "title": "Apple Pay",
+      "url": "/design/human-interface-guidelines/apple-pay",
+      "updatedAt": "2026-08-16T09:29:22.860Z"
+    },
+    "tap-to-pay-on-iphone": {
+      "hash": "ee1759e19a572b057cc0b8fc145b358a7fdb0ef02ff6d4ae26a5d37cfdd74df5",
+      "title": "Tap to Pay on iPhone",
+      "url": "/design/human-interface-guidelines/tap-to-pay-on-iphone",
+      "updatedAt": "2026-08-16T09:29:22.861Z"
+    },
+    "boxes": {
+      "hash": "b7b91d973edbb0f7ea9ca34075484b3e3260645e31f71acefa93c6890a263278",
+      "title": "Boxes",
+      "url": "/design/human-interface-guidelines/boxes",
+      "updatedAt": "2026-08-16T09:29:22.866Z"
+    },
+    "text-views": {
+      "hash": "cee691b68c38a4d285712007ac9ceedbccb2f6af64eb55fcdda1a2919b0a5d94",
+      "title": "Text views",
+      "url": "/design/human-interface-guidelines/text-views",
+      "updatedAt": "2026-08-16T09:29:22.867Z"
+    },
+    "labels": {
+      "hash": "4d1667e2e85b184cefc8a0e6376751f82acdef1844d23dd1f83fc5a3bb253606",
+      "title": "Labels",
+      "url": "/design/human-interface-guidelines/labels",
+      "updatedAt": "2026-08-16T09:29:22.868Z"
+    },
+    "wallet": {
+      "hash": "63db7ab8a188bcedae047ce1cacb6a85dd99a04760d8dfe58da71459f921077d",
+      "title": "Wallet",
+      "url": "/design/human-interface-guidelines/wallet",
+      "updatedAt": "2026-08-16T09:29:22.872Z"
+    },
+    "complications": {
+      "hash": "ee714755e6f0264e05cf57b5774c550043526325f4046dda8ced8b19700d9d5e",
+      "title": "Complications",
+      "url": "/design/human-interface-guidelines/complications",
+      "updatedAt": "2026-08-16T09:29:22.872Z"
+    },
+    "steppers": {
+      "hash": "7f6a9b3d287e92b1b4cb78f914bf1a8fa2a2bb1974296117ac5205a769de8021",
+      "title": "Steppers",
+      "url": "/design/human-interface-guidelines/steppers",
+      "updatedAt": "2026-08-16T09:29:22.873Z"
+    },
+    "watch-faces": {
+      "hash": "ae1fdc859e5afd5e98a4ff42837ccc7d63a6d6e44977628ccbe835d86f8ebea7",
+      "title": "Watch faces",
+      "url": "/design/human-interface-guidelines/watch-faces",
+      "updatedAt": "2026-08-16T09:29:22.874Z"
+    },
+    "sign-in-with-apple": {
+      "hash": "6e9655d5354ebf618118dd556734d7ce626f4d51a1744c72f2a63805f6477656",
+      "title": "Sign in with Apple",
+      "url": "/design/human-interface-guidelines/sign-in-with-apple",
+      "updatedAt": "2026-08-16T09:29:22.875Z"
+    },
+    "popovers": {
+      "hash": "889f79c3ee0b7ecba2eceb7b40d3b2d2f3661f592396dbab9691a025602caf6b",
+      "title": "Popovers",
+      "url": "/design/human-interface-guidelines/popovers",
+      "updatedAt": "2026-08-16T09:29:22.875Z"
+    },
+    "path-controls": {
+      "hash": "59a8e24687cdc88527310b1cbee5a19b3f19d34fa218e0c675b7971f4e93adc4",
+      "title": "Path controls",
+      "url": "/design/human-interface-guidelines/path-controls",
+      "updatedAt": "2026-08-16T09:29:22.876Z"
+    },
+    "buttons": {
+      "hash": "53c703c9a2df83504022dfa7929d110e4adc1f18f82ff2471bda57598602c2f8",
+      "title": "Buttons",
+      "url": "/design/human-interface-guidelines/buttons",
+      "updatedAt": "2026-08-16T09:29:22.877Z"
+    },
+    "virtual-keyboards": {
+      "hash": "641dac30866a067d945222b400c0fcce2ace1a62657b5bd8538d16ac08267338",
+      "title": "Virtual keyboards",
+      "url": "/design/human-interface-guidelines/virtual-keyboards",
+      "updatedAt": "2026-08-16T09:29:22.877Z"
+    },
+    "live-activities": {
+      "hash": "ba99c8214bb2a5b6615c1780684aa854459e0308c88e31fd4c2a94d65a00a3d0",
+      "title": "Live Activities",
+      "url": "/design/human-interface-guidelines/live-activities",
+      "updatedAt": "2026-08-16T09:29:22.878Z"
+    },
+    "progress-indicators": {
+      "hash": "ebf3de684e581c9c8eeabf73499b52051e2d18665dcaa056d7926a9b111179f7",
+      "title": "Progress indicators",
+      "url": "/design/human-interface-guidelines/progress-indicators",
+      "updatedAt": "2026-08-16T09:29:22.878Z"
+    },
+    "outline-views": {
+      "hash": "87f75ee8e11279360b21a31d2fd20172b6280d62b380fbb79b0e625d5b28faa9",
+      "title": "Outline views",
+      "url": "/design/human-interface-guidelines/outline-views",
+      "updatedAt": "2026-08-16T09:29:22.879Z"
+    },
+    "action-sheets": {
+      "hash": "7447a3fc29fe624834babb34338deda1e6055ee118670e97a00eff04f13773f9",
+      "title": "Action sheets",
+      "url": "/design/human-interface-guidelines/action-sheets",
+      "updatedAt": "2026-08-16T09:29:22.879Z"
+    },
+    "lists-and-tables": {
+      "hash": "ce5a779918b553cada08f91403a886c47ba2ead72dfacbae4f337e22b28220ab",
+      "title": "Lists and tables",
+      "url": "/design/human-interface-guidelines/lists-and-tables",
+      "updatedAt": "2026-08-16T09:29:22.880Z"
+    },
+    "rating-indicators": {
+      "hash": "011ff811c7dc62c3b72e1cfd2ab4d245020aeda1561c1a1e1e169b9d919f34f4",
+      "title": "Rating indicators",
+      "url": "/design/human-interface-guidelines/rating-indicators",
+      "updatedAt": "2026-08-16T09:29:22.880Z"
+    },
+    "text-fields": {
+      "hash": "6b4173e89715e931c1a139b3d5021461575c02963ce7eda781bfbcc315ac7282",
+      "title": "Text fields",
+      "url": "/design/human-interface-guidelines/text-fields",
+      "updatedAt": "2026-08-16T09:29:22.881Z"
+    },
+    "edit-menus": {
+      "hash": "6220dcbec02b328d129c9814c44c051341ea9e68b7c266d8187b39bd101ad629",
+      "title": "Edit menus",
+      "url": "/design/human-interface-guidelines/edit-menus",
+      "updatedAt": "2026-08-16T09:29:22.881Z"
+    },
+    "gauges": {
+      "hash": "bf119f152bd5dd099b05e5636ccab23aee1732f685105d7d045fca4855c3a646",
+      "title": "Gauges",
+      "url": "/design/human-interface-guidelines/gauges",
+      "updatedAt": "2026-08-16T09:29:22.882Z"
+    },
+    "alerts": {
+      "hash": "f6d9840369deed787a0422b86aacaf873d31895f64055f4f740a123927697b77",
+      "title": "Alerts",
+      "url": "/design/human-interface-guidelines/alerts",
+      "updatedAt": "2026-08-16T09:29:22.883Z"
+    },
+    "status-bars": {
+      "hash": "2d5d739b81694a646ae9c164290dd1047e48263f5d44445a826d3de64e6552d7",
+      "title": "Status bars",
+      "url": "/design/human-interface-guidelines/status-bars",
+      "updatedAt": "2026-08-16T09:29:22.883Z"
+    },
+    "machine-learning": {
+      "hash": "b71bf5f6e0ccb405d61e331a3b77abc79d357b401e8b5a3db28178354a61f2b2",
+      "title": "Machine learning",
+      "url": "/design/human-interface-guidelines/machine-learning",
+      "updatedAt": "2026-08-16T09:29:22.884Z"
+    },
+    "web-views": {
+      "hash": "2f93bafe426d4fe6745a4e1544dc78b23abf4a5accb06f508aada68552c7576a",
+      "title": "Web views",
+      "url": "/design/human-interface-guidelines/web-views",
+      "updatedAt": "2026-08-16T09:29:22.884Z"
+    },
+    "sheets": {
+      "hash": "03e9ddc5c362261be66ba8019f9315fc17b53446e8b17fd6bc5f5465ef0de20b",
+      "title": "Sheets",
+      "url": "/design/human-interface-guidelines/sheets",
+      "updatedAt": "2026-08-16T09:29:22.885Z"
+    },
+    "image-wells": {
+      "hash": "e77a398ffcb1dd0b96ea0c6673712c7f72a4dbb30bd15a82e9f20a545df17eb0",
+      "title": "Image wells",
+      "url": "/design/human-interface-guidelines/image-wells",
+      "updatedAt": "2026-08-16T09:29:22.885Z"
+    },
+    "activity-rings": {
+      "hash": "ad892755cfebe3b2e8263a57d31ea17a3c09753aabe64cf0586d7e361e9c0582",
+      "title": "Activity rings",
+      "url": "/design/human-interface-guidelines/activity-rings",
+      "updatedAt": "2026-08-16T09:29:22.886Z"
+    },
+    "collections": {
+      "hash": "748d9295f6e1b41df1052aaea23d8516d35e33730b4b3e6667bbfed257c6e6c9",
+      "title": "Collections",
+      "url": "/design/human-interface-guidelines/collections",
+      "updatedAt": "2026-08-16T09:29:22.886Z"
+    },
+    "combo-boxes": {
+      "hash": "50f83efc133203dce7bbdb00beb00e75c5614f61340067e250f91ddefbf5e47f",
+      "title": "Combo boxes",
+      "url": "/design/human-interface-guidelines/combo-boxes",
+      "updatedAt": "2026-08-16T09:29:22.887Z"
+    },
+    "digit-entry-views": {
+      "hash": "1ff8de2da3fff6ccd63e11f38009f9b699fa591606ab1807dd7170c8ab00ef7b",
+      "title": "Digit entry views",
+      "url": "/design/human-interface-guidelines/digit-entry-views",
+      "updatedAt": "2026-08-16T09:29:22.887Z"
+    },
+    "notifications": {
+      "hash": "79e5e81243fadf90c8c559dafaf94d6d4a1a3a391f2e3d22da2e219a1dac6581",
+      "title": "Notifications",
+      "url": "/design/human-interface-guidelines/notifications",
+      "updatedAt": "2026-08-16T09:29:22.888Z"
+    },
+    "column-views": {
+      "hash": "95c5362e3bc21ac25699d4a31703e3cdd2c7f5e4f2b9d46d7b2e5df75366564a",
+      "title": "Column views",
+      "url": "/design/human-interface-guidelines/column-views",
+      "updatedAt": "2026-08-16T09:29:22.888Z"
+    },
+    "lockups": {
+      "hash": "211ea6d8136f890525c8af7afecfc1fc9cb2f744f04a43e97eadd64b16a598e6",
+      "title": "Lockups",
+      "url": "/design/human-interface-guidelines/lockups",
+      "updatedAt": "2026-08-16T09:29:22.889Z"
+    },
+    "top-shelf": {
+      "hash": "a606e14ad534c779fb861c81dbdedb1fcaab9d399110cfea351e652c6412270c",
+      "title": "Top Shelf",
+      "url": "/design/human-interface-guidelines/top-shelf",
+      "updatedAt": "2026-08-16T09:29:22.889Z"
+    },
+    "color-wells": {
+      "hash": "5386679ede502330a5f9cffbcf8469cfc5941adee21fa2cd0ccedc0fe42cadf7",
+      "title": "Color wells",
+      "url": "/design/human-interface-guidelines/color-wells",
+      "updatedAt": "2026-08-16T09:29:22.890Z"
+    },
+    "image-views": {
+      "hash": "bbf89db2079cf1d2d27ce6495557ea96068bbb59e69d3ce869bb9ee1ae69220a",
+      "title": "Image views",
+      "url": "/design/human-interface-guidelines/image-views",
+      "updatedAt": "2026-08-16T09:29:22.890Z"
+    },
+    "pickers": {
+      "hash": "f80c7981ff80a8af6c3c5f4c6ede593d45a1471221de69188183385d3ee6eddb",
+      "title": "Pickers",
+      "url": "/design/human-interface-guidelines/pickers",
+      "updatedAt": "2026-08-16T09:29:22.891Z"
+    },
+    "panels": {
+      "hash": "dbb976ede95b3811354f3ff5c28ab94d398edfdb79783846e47b30b947a7a556",
+      "title": "Panels",
+      "url": "/design/human-interface-guidelines/panels",
+      "updatedAt": "2026-08-16T09:29:22.891Z"
+    },
+    "controls": {
+      "hash": "efc2b8012d1e5ad53a8f357890e4128072ba4c44f05dd035430e4f821402af5e",
+      "title": "Controls",
+      "url": "/design/human-interface-guidelines/controls",
+      "updatedAt": "2026-08-16T09:29:22.892Z"
+    },
+    "segmented-controls": {
+      "hash": "e71fb6faaefd45247c6e2ede202b1cb0dd039139a14d8d7bb2f0b8f717cad917",
+      "title": "Segmented controls",
+      "url": "/design/human-interface-guidelines/segmented-controls",
+      "updatedAt": "2026-08-16T09:29:22.892Z"
+    },
+    "windows": {
+      "hash": "42a4d1be6f435235be37859babbe5b5bc84341dd7b648bfdf0efd0138a8d0da5",
+      "title": "Windows",
+      "url": "/design/human-interface-guidelines/windows",
+      "updatedAt": "2026-08-16T09:29:22.893Z"
+    },
+    "charts": {
+      "hash": "ae7fc31fa83576b6b894287cbc5e7f690a10c63ffa46534d039375be43b38239",
+      "title": "Charts",
+      "url": "/design/human-interface-guidelines/charts",
+      "updatedAt": "2026-08-16T09:29:22.893Z"
+    }
+  },
+  "images": {},
+  "lastSync": "2026-08-16T09:29:37.664Z",
+  "totalPages": 172,
+  "totalImages": 0
+}
