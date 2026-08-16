@@ -24,6 +24,9 @@ skills-lock.json
 skills/apple-design/references/images/
 references/images/
 
+# Local external references
+product-team/
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
