@@ -20,7 +20,7 @@ Trang bị toàn bộ triết lý thiết kế **Apple Human Interface Guideline
 
 ## ⚡ Giới thiệu ngắn gọn
 
-**`apple-design-skill`** là gói kỹ năng mã nguồn mở theo chuẩn **`skills.sh` / Vercel Labs (`npx skills`)** giúp các AI Agent (Claude Code, Cursor, Copilot, Antigravity, Windsurf, Cline, v.v.) tự động nắm vững và áp dụng các tiêu chuẩn thiết kế đỉnh cao của Apple khi viết mã giao diện (Web, iOS, macOS, visionOS).
+**`apple-design-skill`** là gói kỹ năng mã nguồn mở theo chuẩn **`skills.sh` / Vercel Labs (`npx skills`)** giúp các AI Agent (Claude Code, Antigravity, Codex, Cursor, GitHub Copilot, Windsurf, Cline, Roo-Code, v.v.) tự động nắm vững và áp dụng các tiêu chuẩn thiết kế đỉnh cao của Apple khi viết mã giao diện (Web, iOS, macOS, visionOS).
 
 ### ✨ Điểm nổi bật:
 - 📖 **172 Tài liệu HIG chi tiết**: Toàn bộ tài liệu chính thức từ Apple Developer được chuyển đổi sang Markdown chuẩn, kèm **451+ hình ảnh minh họa Retina** lưu offline.
@@ -30,45 +30,91 @@ Trang bị toàn bộ triết lý thiết kế **Apple Human Interface Guideline
 
 ---
 
-## 🚀 Hướng dẫn cài đặt (Installation)
+## 🚀 Hướng dẫn cài đặt Toàn cục (Global Scope)
 
-Sử dụng lệnh tiêu chuẩn **`npx skills`**:
+Cài đặt ở phạm vi toàn cục (`-g`) để kỹ năng có hiệu lực ngay lập tức trên **tất cả dự án và thư mục làm việc** của bạn.
 
-### 1. Cài đặt tự động cho TẤT CẢ Agents trong máy:
+### 🌟 Cách nhanh nhất: Cài đặt cho TẤT CẢ Agents cùng lúc
 ```bash
-npx skills add billythekidz/apple-design-skill --all
-```
-
-### 2. Cài đặt Toàn cục (Global - dùng cho mọi workspace):
-```bash
-npx skills add billythekidz/apple-design-skill -g
-```
-
-### 3. Cài đặt cho từng Agent cụ thể:
-```bash
-# Claude Code
-npx skills add billythekidz/apple-design-skill -a claude-code
-
-# Cursor
-npx skills add billythekidz/apple-design-skill -a cursor
-
-# GitHub Copilot
-npx skills add billythekidz/apple-design-skill -a copilot
-
-# Google Antigravity / Gemini CLI
-npx skills add billythekidz/apple-design-skill -a antigravity
-
-# Windsurf / Cline / Roo-Code
-npx skills add billythekidz/apple-design-skill -a windsurf
+npx skills add billythekidz/apple-design-skill --all -g
 ```
 
 ---
 
-## 💡 Hướng dẫn sử dụng (Usage)
+### 📦 Cài đặt chi tiết cho từng AI Agent (Global Scope)
 
-Sau khi cài đặt, AI Agent sẽ tự động nhận diện kỹ năng này mỗi khi bạn yêu cầu thiết kế hoặc lập trình giao diện.
+#### 1. Claude Code
+Cài đặt vào thư mục cấu hình toàn cục của Claude Code (`~/.claude/skills/apple-design`):
+```bash
+npx skills add billythekidz/apple-design-skill -a claude-code -g
+```
+*Cách clone git thủ công (nếu không dùng npx):*
+```bash
+# macOS / Linux
+git clone https://github.com/billythekidz/apple-design-skill.git ~/.claude/skills/apple-design
 
-### Ví dụ Prompts mẫu:
+# Windows (PowerShell)
+git clone https://github.com/billythekidz/apple-design-skill.git $HOME\.claude\skills\apple-design
+```
+
+#### 2. Google Antigravity / Gemini CLI
+Cài đặt vào thư mục kĩ năng toàn cục của Google Antigravity (`~/.gemini/antigravity-cli/skills/apple-design`):
+```bash
+npx skills add billythekidz/apple-design-skill -a antigravity -g
+```
+*Cách clone git thủ công:*
+```bash
+# macOS / Linux
+git clone https://github.com/billythekidz/apple-design-skill.git ~/.gemini/antigravity-cli/skills/apple-design
+
+# Windows (PowerShell)
+git clone https://github.com/billythekidz/apple-design-skill.git $HOME\.gemini\antigravity-cli\skills\apple-design
+```
+
+#### 3. OpenAI Codex (Codex CLI)
+Cài đặt vào kho kỹ năng toàn cục của Codex (`~/.codex/skills/apple-design`):
+```bash
+npx skills add billythekidz/apple-design-skill -a codex -g
+```
+*Cách clone git thủ công:*
+```bash
+# macOS / Linux
+git clone https://github.com/billythekidz/apple-design-skill.git ~/.codex/skills/apple-design
+
+# Windows (PowerShell)
+git clone https://github.com/billythekidz/apple-design-skill.git $HOME\.codex\skills\apple-design
+```
+
+#### 4. Các trợ lý AI khác (Cursor, Copilot, Windsurf, Cline)
+```bash
+# Cursor
+npx skills add billythekidz/apple-design-skill -a cursor -g
+
+# GitHub Copilot CLI / Extension
+npx skills add billythekidz/apple-design-skill -a copilot -g
+
+# Windsurf / Cline / Roo-Code
+npx skills add billythekidz/apple-design-skill -a windsurf -g
+```
+
+---
+
+## 🎯 2 Chế độ hoạt động (Operational Modes)
+
+### Mode 1 — Thiết kế & Lập trình từ đầu (Design from Scratch)
+- **Kiến trúc điều hướng**: Sử dụng mô hình chuẩn của Apple (iOS Bottom Tab Bar, iPadOS Sidebar, macOS Split View, visionOS Ornaments).
+- **Lưới 8pt & Bo góc liên tục**: Ép lưới 8pt không gian và đường cong Squircle G2 (`corner-smoothing: 60%`).
+- **Typography & Màu sắc Dynamic**: Sử dụng font SF Pro với tracking chuẩn quang học, tự động đổi màu theo Light/Dark OLED mode.
+- **Hiệu ứng vật lý chân thực**: Áp dụng Apple spring physics (`cubic-bezier(0.25, 1, 0.5, 1)`) và phản hồi xúc giác `:active { transform: scale(0.97); }`.
+
+### Mode 2 — Quét & Chấm điểm chuẩn HIG (Apple HIG Compliance Audit)
+- **Quét tự động**: Quét dự án CSS/HTML/TSX/JSX/Swift và chấm điểm từ **0–100** (trừ 10 điểm cho mỗi vi phạm).
+- **Đo lường chính xác**: Tính toán tỉ lệ tương phản màu WCAG AA và kích thước vùng bấm tối thiểu 44×44 pt.
+- **Đánh giá độ tin cậy**: Phân loại kết quả rõ ràng (`🟢 Tool-verified`, `🟡 Needs device test`, `🔴 Assumed`).
+
+---
+
+## 💡 Hướng dẫn sử dụng & Prompts mẫu
 
 - **Tạo giao diện Web phong cách Apple:**
   > *"Tạo một landing page giới thiệu sản phẩm mang phong cách Apple HIG với typography SF Pro, hiệu ứng Frosted Glass và nút bấm Spring active."*
@@ -106,6 +152,11 @@ npm run fetch-hig
 ### 📋 Mẫu báo cáo đánh giá (Scorecard Template):
 Tham khảo mẫu báo cáo đánh giá 5 trụ cột chuẩn Apple tại [`skills/apple-design/templates/apple-hig-audit-scorecard.md`](skills/apple-design/templates/apple-hig-audit-scorecard.md).
 
+#### Thang điểm:
+- 🟢 **90 – 100 pts: Ship (Sẵn sàng phát hành)** — Đạt chuẩn xuất sắc của Apple HIG.
+- 🟡 **70 – 89 pts: Cần sửa trước khi release (Fix before release)** — Cần khắc phục một số lỗi nhỏ trước khi đưa lên App Store.
+- 🔴 **< 70 pts: Cần thiết kế lại (Systematic redesign)** — Vi phạm nghiêm trọng về tính tiếp cận hoặc kiến trúc giao diện.
+
 ---
 
 ## 📁 Cấu trúc thư mục
@@ -119,6 +170,9 @@ apple-design-skill/
 │       ├── assets/                  # apple-tokens.css, apple-components.css, tailwind preset, SwiftUI
 │       ├── templates/               # apple-hig-audit-scorecard.md
 │       └── scripts/                 # audit-apple-design.mjs, fetch-apple-hig.mjs
+├── .github/
+│   └── workflows/
+│       └── update-hig.yml           # Workflow đồng bộ tự động hàng tuần từ Apple Developer CDN
 ├── SKILL.md                         # Root skill definition
 ├── package.json
 ├── LICENSE                          # MIT License

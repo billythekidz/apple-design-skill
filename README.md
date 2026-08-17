@@ -20,7 +20,7 @@ Equip any AI Coding Agent with official **Apple Human Interface Guidelines (HIG)
 
 ## ⚡ Overview
 
-**`apple-design-skill`** is an open-standard agent skill built on the **`skills.sh` / Vercel Labs (`npx skills`)** specification. It enables AI coding assistants (Claude Code, Cursor, GitHub Copilot, Google Antigravity, Windsurf, Cline, Roo-Code, etc.) to accurately design, implement, and audit Apple-grade interfaces across Web, iOS, iPadOS, macOS, watchOS, and visionOS.
+**`apple-design-skill`** is an open-standard agent skill built on the **`skills.sh` / Vercel Labs (`npx skills`)** specification. It enables AI coding assistants (Claude Code, Antigravity, Codex, Cursor, GitHub Copilot, Windsurf, Cline, Roo-Code, etc.) to accurately design, implement, and audit Apple-grade interfaces across Web, iOS, iPadOS, macOS, watchOS, and visionOS.
 
 ### ✨ Highlights:
 - 📖 **172 Complete HIG Reference Docs**: Official Apple Developer guidelines converted into clean Markdown with **451+ local Retina illustrations**.
@@ -30,36 +30,71 @@ Equip any AI Coding Agent with official **Apple Human Interface Guidelines (HIG)
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation Guide (Global Scope)
 
-Install via standard **`npx skills`**:
+Install globally so the skill is instantly active across **all projects and workspaces**.
 
-### 1. Install for ALL configured AI Agents on your machine:
+### 🌟 Quick Install: All Agents at Once (Global)
 ```bash
-npx skills add billythekidz/apple-design-skill --all
+npx skills add billythekidz/apple-design-skill --all -g
 ```
 
-### 2. Global Installation (available across all workspaces):
+---
+
+### 📦 Specific Agent Setup (Global Scope)
+
+#### 1. Claude Code
+Install to global user configuration (`~/.claude/skills/apple-design`):
 ```bash
-npx skills add billythekidz/apple-design-skill -g
+npx skills add billythekidz/apple-design-skill -a claude-code -g
+```
+*Manual git clone alternative:*
+```bash
+# macOS / Linux
+git clone https://github.com/billythekidz/apple-design-skill.git ~/.claude/skills/apple-design
+
+# Windows (PowerShell)
+git clone https://github.com/billythekidz/apple-design-skill.git $HOME\.claude\skills\apple-design
 ```
 
-### 3. Install for a specific AI Agent:
+#### 2. Google Antigravity / Gemini CLI
+Install to global Antigravity customization directory (`~/.gemini/antigravity-cli/skills/apple-design`):
 ```bash
-# Claude Code
-npx skills add billythekidz/apple-design-skill -a claude-code
+npx skills add billythekidz/apple-design-skill -a antigravity -g
+```
+*Manual git clone alternative:*
+```bash
+# macOS / Linux
+git clone https://github.com/billythekidz/apple-design-skill.git ~/.gemini/antigravity-cli/skills/apple-design
 
+# Windows (PowerShell)
+git clone https://github.com/billythekidz/apple-design-skill.git $HOME\.gemini\antigravity-cli\skills\apple-design
+```
+
+#### 3. Codex (OpenAI Codex CLI)
+Install to global Codex skills repository (`~/.codex/skills/apple-design`):
+```bash
+npx skills add billythekidz/apple-design-skill -a codex -g
+```
+*Manual git clone alternative:*
+```bash
+# macOS / Linux
+git clone https://github.com/billythekidz/apple-design-skill.git ~/.codex/skills/apple-design
+
+# Windows (PowerShell)
+git clone https://github.com/billythekidz/apple-design-skill.git $HOME\.codex\skills\apple-design
+```
+
+#### 4. Other AI Assistants (Cursor, GitHub Copilot, Windsurf, Cline)
+```bash
 # Cursor
-npx skills add billythekidz/apple-design-skill -a cursor
+npx skills add billythekidz/apple-design-skill -a cursor -g
 
-# GitHub Copilot
-npx skills add billythekidz/apple-design-skill -a copilot
-
-# Google Antigravity / Gemini CLI
-npx skills add billythekidz/apple-design-skill -a antigravity
+# GitHub Copilot CLI / Extension
+npx skills add billythekidz/apple-design-skill -a copilot -g
 
 # Windsurf / Cline / Roo-Code
-npx skills add billythekidz/apple-design-skill -a windsurf
+npx skills add billythekidz/apple-design-skill -a windsurf -g
 ```
 
 ---
@@ -139,6 +174,9 @@ apple-design-skill/
 │       ├── assets/                  # apple-tokens.css, apple-components.css, tailwind preset, SwiftUI
 │       ├── templates/               # apple-hig-audit-scorecard.md
 │       └── scripts/                 # audit-apple-design.mjs, fetch-apple-hig.mjs
+├── .github/
+│   └── workflows/
+│       └── update-hig.yml           # Weekly automated sync with Apple Developer CDN
 ├── SKILL.md                         # Root skill definition for single-skill discovery
 ├── package.json                     # NPM manifest & CLI binaries
 ├── LICENSE                          # MIT License
