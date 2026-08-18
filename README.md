@@ -36,7 +36,7 @@ Install globally so the skill is instantly active across **all projects and work
 
 ### 🌟 Quick Install: All Agents at Once (Global)
 ```bash
-npx skills add billythekidz/apple-design-skill --all -g
+npx skills add billythekidz/apple-design-skill -g
 ```
 
 ---
